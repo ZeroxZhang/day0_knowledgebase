@@ -108,7 +108,7 @@
 
 ## 延伸与关联
 
-- 先决依赖：[木炭窑与烧炭](07_charcoal_kiln.md)（燃料）、[窑炉建造与热工基础](../04_shelter/05_kiln_construction.md)（炉体与鼓风前）、[陶器制作](06_pottery.md)（坩埚与陶范）、[鞣制皮革](05_tanning_basics.md)（风箱皮件与护具）。
+- 先决依赖：[木炭窑与烧炭](07_charcoal_kiln.md)（燃料）、[窑炉建造与热工基础](../04_shelter/05_kiln_construction.md)（炉体与鼓风前）、[陶器制作](06_pottery.md)（坩埚与陶范）、[鞣制皮革](05_tanning_basics.md)（风箱皮件与护具）；矿从哪来：孔雀石/黄铜矿等铜矿石的辨认与找矿线索见 [矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)。
 - 后续应用：铜凿铜钻反哺 [原始木工](../07_tools/06_woodworking_primitive.md) 效率、通往 [铁的冶炼](13_metallurgy_iron.md)（炉温与工艺台阶更高）、[脚踏车床](../07_tools/07_primitive_lathe.md) 的金属刀具。
 - 原理：氧化还原反应、合金与熔点，见 [化学基础](../11_science/05_chemistry_basics.md)；炉温与热工见 [物理基础](../11_science/04_physics_basics.md)。
 - 组织提示：冶炼是"矿工+炭工+鼓风手+铸工"的团队活——单一工匠从矿到器全程自做效率极低，铜业是分工专业化（见 [分工专业化](../10_cooperation/README.md)）最有力的推进器。

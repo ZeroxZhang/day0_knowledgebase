@@ -99,9 +99,9 @@
 
 ## 延伸与关联
 
-- 先决依赖：无（与 fire_making 并列的根节点）。
+- 先决依赖：无硬性前置（与 fire_making 并列的根节点）；但动手前建议先读 [岩石识别与采集](../13_field_guide/07_rock_id.md)——会认石料，成败率差一个量级（打制料的贝壳状断口判据在那里）。
 - 技能练成的时间线（给规划用）：第一天能打出可用石片；一周内稳定出石刀；一个月内绑出能用的石斧；一个季度攒齐"阶段 1 基本盘"全套并各有备份——石器是根节点，练熟它之前不开工任何依赖它的下级项目。
-- 后续：加工出的木料用于弓钻与陶器制作（[陶器制作](../09_materials/06_pottery.md)）、原始木工（06_woodworking_primitive.md 待写）；骨器依赖狩猎（采集渔猎入门 05_foraging_hunting.md 待写）；石斧效率的上限由铜冶炼（12_metallurgy_copper.md 待写）在阶段 3 突破。以上待写文章均在 [00_roadmap](../00_roadmap.md) 登记。
+- 后续：加工出的木料用于弓钻与陶器制作（[陶器制作](../09_materials/06_pottery.md)）、[原始木工](../07_tools/06_woodworking_primitive.md)；骨器依赖狩猎（[采集渔猎入门](../03_food/05_foraging_hunting.md)）；石斧效率的上限由铜冶炼（[铜的冶炼](../09_materials/12_metallurgy_copper.md)）在阶段 3 突破。
 - 原理深化：材料断裂与刃口几何见 [物理基础](../11_science/04_physics_basics.md)。
 
 ## 来源与待核验项

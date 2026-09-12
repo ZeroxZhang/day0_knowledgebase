@@ -107,7 +107,7 @@
 
 ## 延伸与关联
 
-- 先决依赖：[木炭窑与烧炭](07_charcoal_kiln.md)、[窑炉建造与热工基础](../04_shelter/05_kiln_construction.md)、[铜的冶炼](12_metallurgy_copper.md)（炉与鼓风的先修版）、[鞣制皮革](05_tanning_basics.md)（风箱）。
+- 先决依赖：[木炭窑与烧炭](07_charcoal_kiln.md)、[窑炉建造与热工基础](../04_shelter/05_kiln_construction.md)、[铜的冶炼](12_metallurgy_copper.md)（炉与鼓风的先修版）、[鞣制皮革](05_tanning_basics.md)（风箱）；铁矿石（赤铁矿/磁铁矿/褐铁矿）的条痕/磁性/致密度三判据与找矿地貌见 [矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)——品位不足的"红土"炼不出铁，先会认再动手。
 - 后续应用：铁工具全面反哺 [原始木工](../07_tools/06_woodworking_primitive.md)、[石器打制](../07_tools/01_stone_tools.md) 退役、[灌溉工程](../08_production/06_irrigation_basics.md) 的凿井与渠石、[水轮](../01_energy/08_waterwheel.md)（水力鼓风与锻锤）、[蒸汽原理](../01_energy/11_steam_engine_principles.md)（铁器是蒸汽时代的物质前提）。
 - 原理：铁碳相图的常识版（含碳量-性能）属 [化学基础](../11_science/05_chemistry_basics.md) 延伸；淬火组织变化（马氏体）是进阶物理冶金，超出本库当前深度，列为待写。
 - 组织提示：铁匠铺是"炉工+锤工+掌钳"三人一组的最小单元，锻打协作的默契靠长期磨合——铁匠行会是行业组织化（见 [协作与文明](../10_cooperation/README.md)）的历史样板。
