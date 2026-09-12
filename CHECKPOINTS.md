@@ -215,3 +215,15 @@
 - 下一批：①13_field_guide 批 2（dangerous_animals/rock_id/mineral_ore_id/clay_soil_id/wood_fiber_id）；②14_medicine 批 2（respiratory/cardiovascular_blood/skin_soft_tissue/musculoskeletal）；③16_geography 批 2（rivers_lakes/mountains_plains/resources_map/maps_cartography/region_survey）；④15_history 批 2（classical_axial/medieval_world/science_revolution/industrial_revolution/modern_era/collapse_resilience）；⑤11_science 根基 4 篇；⑥14_medicine 批 3（neuro_mental/endocrine_metabolic/toxicology_envenom/care_system_rebuild）。
 - 遗留：15_history 批 1 未验证（在途）；全部新文章"待核验"（已核对子项见各篇来源节）；收官互链（存量技术文挂识别/医学/地理篇链接）未做。
 - 恢复动作：先查 15_history 目录 4 篇是否落地并核验（wc/模板/死链）→ 按 PROGRESS"下一批"两两并发派代理 → 每批完成后勾选 roadmap/README、链接核验、追加 CP、提交。
+
+## CP-019 | 2026-09-12 | 根基层 + 扩展域战役全面收官（v2.1 完整性口径全部满足）
+
+- 完成：用户三次升级指令（①知识要更 fundamental/从零讲起；②纳入基础医学[默沙东]、人类历史、全球地理；③持续扩到彻底完成）全部落地：
+  1. **基础文件 v2.0→v2.1**：根基层定义、13/14/15/16 四新领域入表、完整性口径五条判定标准；11_science 重排（根基层两篇占 01/02，旧 7 篇 git mv 改号全库引用同步）。
+  2. **新增正文 50 篇**（全部 ≥120 行且 ≥4200 字符、七节齐全、零基础粒度）：13_field_guide 10（识别方法论/植物/可食/剧毒蘑菇/动物追踪/危险动物/岩石/矿物矿石/黏土土壤/木材纤维）；14_medicine 12（生理/评估/感染/消化/呼吸/循环/皮肤/骨肌/神经精神/内分泌/中毒/无医照护体系）；15_history 10（起源/农业革命/早期文明/青铜铁器/古典轴心/中世纪/科学革命/工业革命/近现代/崩溃复原规律）；16_geography 9（地球/气候带/大洲/海洋/水系/山脉/资源总图/制图/踏勘）；11_science 根基 4（物质与元素/数与算术/天气与气候/地质与地貌）。
+  3. **来源核对**：全库"已核对子项"239 处——默沙东诊疗手册专业版实查 30+ 页面（53 条，14 域全程）；历史关键年代 20 条；地理数据 16 条；野外识别判据 18 条；均注明页面名与检索日期，未核对项逐篇列明，无编造引用。
+  4. **整合**：存量技术文章双向互链（两轮 14 篇）；15_history 链接统一 markdown；全部"待写/即将入库"占位清零；13 处过时"待写"标注修正；使用指南补背景层读法+速查行；roadmap/README/INDEX 全勾选。
+  5. **执行方式记录**：主会话亲写 8 篇（11_science 根基 4 + 16 域资源/制图/踏勘 + 14 域中毒/照护体系）；子代理 24 批次（并发上限 2；"Model request failed"失败 4 次均无产出或部分产出，重派小批次后成功；被取消代理的已落盘文件经验收有效）。
+- 完整性口径对照：①技术树全节点 ✓ ②根基层+扩展域覆盖清单全 ✓ ③写作标准 145/145 ✓ ④零死链+字段齐全 ✓ ⑤来源可追踪 ✓ —— **v2.1 定义的"彻底完成"已达成**。
+- 遗留（均非口径内、按需推进的可选项）：①应急视角进阶约 30 项（各域 README"进阶（待整理）"）；②存量 81 篇的来源核对（随用随核）；③区域物种清单本地化（设计上留给读者按 13 域方法论自建，属知识库使用而非编写）；④新文章的后续来源核对（各篇"来源与待核验项"即工单）。
+- 恢复动作：若继续扩展，读 EXECUTION_GUIDE v2.1 第 6 节完整性口径 → 走"登记 roadmap→写文→核验"流程；若做来源核对，读 PROGRESS 与各篇待核验项清单 → WebSearch 逐项 → 升级状态 → 追加 CP。

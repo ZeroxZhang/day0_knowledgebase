@@ -1,23 +1,15 @@
 # 知识库进度
 
-当前轮次：**根基层 + 三扩展域战役**（v2.1：13 野外识别 + 14 基础医学[默沙东] + 15 人类历史 + 16 全球地理，2026-09-12 用户第二、三次升级）
-本批领域：13_field_guide 批 1、14_medicine 批 1、16_geography 批 1、15_history 批 1（写作中）、基础文件 v2.1
-本批新增或更新：
-- **13_field_guide 批 1 全 5 篇达标**：01_identification_methods（240行/12585字）、02_plant_id_basics（219/9828）、03_edible_plants（244/11328）、04_toxic_plants_mushrooms（250/13446）、05_animal_tracking（228/10328）——模板 5 字段齐全、全库零死链、域纪律（不写区域物种清单/致命错误优先/单一特征不定论）落实
-- **14_medicine 首批 4 篇**（01_body_systems 167行、02_symptom_assessment 217、03_infectious_diseases 204、04_digestive_diseases 209）：**实际查阅默沙东诊疗手册专业版 7 个页面 + 检索交叉，产生 11 条已核对子项**（脓毒症 qSOFA、破伤风病程、伤寒热型、疟疾发作周期、脱水分度体征表、急腹症红旗、WHO 低渗 ORS 配方等）；与 05_health 分工明确（05 动作、14 判断），ORS 配方检查过 04_common_illness 确认无重复
-- **16_geography 首批 4 篇**（01_earth_basics 150行、02_climate_biomes 188、03_continents_archive 153、04_oceans_coasts 134）：7 条已核对子项（地轴倾角 23.44°、气温直减率 6.5℃/km、珠峰 8848.86m、海水平均盐度 35g/kg、挑战者深渊 10935m 等）
-- **15_history 首批 4 篇**（origin/agricultural_revolution/first_civilizations/bronze_iron_ages）：后台代理写作中，完成后补记
-- **基础文件 v2.1**：EXECUTION_GUIDE 领域表扩至 16 域 + 14/15/16 定义与完整性口径更新；AGENTS.md（01～16）、INDEX（16 域）、00_roadmap（背景层登记表 + 根基层勾选 5 篇）、使用指南（速查索引补误食/腹泻/发热/病情判断 4 行）、三域 README 建立
-待核验或需补充：95 篇存量中 14 篇已核对、81 篇待核验；新 13 篇（13域5 + 14域4 + 16域4）全部"待核验"，其已核对子项见各篇来源节
-下一批具体主题（两条线并行）：
-1. 13_field_guide 批 2（材料识别层 5 篇）：06_dangerous_animals、07_rock_id、08_mineral_ore_id、09_clay_soil_id、10_wood_fiber_id
-2. 14_medicine 批 2（系统常见病 4 篇）：05_respiratory_diseases、06_cardiovascular_blood、07_skin_soft_tissue、08_musculoskeletal
-3. 16_geography 批 2（5 篇）：05_rivers_lakes、06_mountains_plains、07_resources_map、08_maps_cartography、09_region_survey
-4. 15_history 批 2（6 篇）：05_classical_axial、06_medieval_world、07_science_revolution、08_industrial_revolution、09_modern_era、10_collapse_resilience
-5. 11_science 根基 4 篇：01_matter_elements、02_numbers_arithmetic、08_weather_climate、09_geology_landforms
-6. 14_medicine 批 3（4 篇）：09_neuro_mental、10_endocrine_metabolic、11_toxicology_envenom、12_care_system_rebuild
-7. 收官：全库互链调整（foraging/stone_tools/pottery/metallurgy 等挂识别篇链接）+ 全库核验 + PROGRESS/CHECKPOINTS 收官
+当前轮次：**根基层 + 扩展域战役全面收官**（v2.1 完整性口径全部满足，2026-09-12）
+本批领域：13_field_guide / 14_medicine（默沙东线）/ 15_history / 16_geography / 11_science 根基层 / 全库互链整合
+收官总览：
+- **145 篇正文全部达标**（≥120 物理行且 ≥4200 字符；00_使用指南/PROGRESS/INDEX/CHECKPOINTS 为管理文件不适用该标准）：存量 95 + 新增 50（13域 10 + 14域 12 + 15域 10 + 16域 9 + 11域根基 4 + 收官过程中互链改写）
+- **根基层 14 篇全 ✓**：13 域识别十篇（方法论/植物/可食/毒物蘑菇/动物追踪/危险动物/岩石/矿物矿石/黏土土壤/木材纤维）+ 11 基础四篇（物质与元素/数与算术/天气与气候/地质与地貌，主会话亲写）
+- **三个扩展域全 ✓**：14_medicine 12 篇（默沙东专业版实查页面 30+，已核对子项 53 条）；15_history 10 篇（每篇"对重建者的启示"+崩溃规律收官综述，已核对子项 20 条）；16_geography 9 篇（资源优先级表+踏勘方法论收官，已核对子项 16 条）
+- **完整性口径对照（EXECUTION_GUIDE v2.1 第 6 节）**：①技术树全节点 ✓；②根基层与扩展域覆盖清单全 ✓；③全部文章达写作标准 ✓；④零死链、字段齐全 ✓；⑤来源状态可追踪（全库"已核对子项"标记 239 处，未核对项逐篇列明）✓
+- 全库相对链接零死链；15_history 链接格式统一为 markdown；"待写/即将入库"占位全部清零；安全红线全程落实（医学零剂量、硫/火药不涉配方、蘑菇无通用鉴别法纪律）
 
+## 分领域状态（145 篇 = 存量 95 + 根基层与扩展域 50）
 ## 分领域状态（存量 95 篇 + 本轮新增：13域5 + 14域4 + 16域4，15域4 篇在途）
 
 | 领域 | 篇数 | 状态 |
@@ -32,16 +24,19 @@
 | 08_production | 7 | ✓ |
 | 09_materials | 14 | ✓ |
 | 10_cooperation | 9 | ✓ |
-| 11_science | 7 + 4 待写 | 存量 ✓，根基层 4 篇推进中 |
+| 11_science | **11/11 完成** | 存量 7 ✓（已重排）+ 根基层 4 ✓（物质与元素/数与算术/天气与气候/地质与地貌） |
 | 12_knowledge | 6 | ✓ |
-| 13_field_guide | 8/10 | 批 1 + 批 2 前半 ✓；批 2 后半（clay_soil / wood_fiber）在途 |
+| 13_field_guide | **10/10 完成** | 识别方法论→植物→可食→毒物蘑菇→动物追踪→危险动物→岩石→矿物矿石→黏土土壤→木材纤维 |
 | 14_medicine | 8/12 | 批 1+2 ✓（累计默沙东核对 35 项：肺炎重症界值/休克演进/烧伤分度/骨筋膜室 5P 等），批 3 待派 |
-| 15_history | **10/10 完成** | 37 条已核对子项（罗马路网/轴心时代/黑死病/医典/古腾堡/林德试验/查德威克报告/乙醚日/合成氨/玛雅干旱序列等）；10_collapse_resilience 为领域收官综述 |
+| 15_history | **10/10 完成** | 起源→农业革命→早期文明→青铜铁器→古典轴心→中世纪→科学革命→工业革命→近现代→崩溃复原规律（收官综述）；链接已统一 markdown 格式 |
 | 16_geography | 4/9 | 批 1 ✓，批 2（水系/山脉/资源/制图/踏勘 5 篇）在途 |
 
 ## 阶段轴完成度
 
-阶段 0～5 全部节点 ✓（见 [00_roadmap.md](00_roadmap.md)，✓ 标记）。
+- 阶段 0～5 全部节点 ✓（见 [00_roadmap.md](00_roadmap.md)，✓ 标记）
+- 根基层（认知根基 + 识别体系）14 篇 ✓
+- 背景层（14_medicine / 15_history / 16_geography）31 篇 ✓
+- 存量技术文章已完成与新领域的双向互链（识别/医学/地理篇入口已挂入急救、渔猎、石器、陶器、冶金、盐、蒸馏、生物、地图、定向等篇）
 
 ## 历史轮次（详见 CHECKPOINTS.md）
 
