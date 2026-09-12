@@ -20,7 +20,7 @@
 | 矿物矿石 | 硬度/条痕/光泽/酸试，铁/铜/锡/盐/石灰石等矿石辨认 | ✓ 13_field_guide/08_mineral_ore_id.md |
 | 黏土土壤 | 手感与湿塑试验、肥土判断、酸碱指示植物 | 13_field_guide/09_clay_soil_id.md |
 | 木材纤维 | 树种与材性辨认、纤维植物、树脂树皮蜡 | 13_field_guide/10_wood_fiber_id.md |
-| 物质与元素 | 元素与原子概念、常见 20 元素、自然界形态与去向 | 11_science/01_matter_elements.md |
+| 物质与元素 | 元素与原子概念、常见 20 元素、自然界形态与去向 | ✓ 11_science/01_matter_elements.md |
 | 数与算术 | 计数与进位、四则、分数、估算与心算 | 11_science/02_numbers_arithmetic.md |
 | 天气与气候 | 云与风、经验预报规则、物候与季节 | 11_science/08_weather_climate.md |
 | 地质与地貌 | 三大岩类来历、地貌读图、找水找矿的地貌线索 | 11_science/09_geology_landforms.md |
