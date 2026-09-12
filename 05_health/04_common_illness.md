@@ -142,6 +142,7 @@
 - 补液用水的净化与烧开：[水与卫生](../02_water/README.md)
 - 病人饮食安排与营养维持：[食物与营养](../03_food/README.md)
 - 照护轮班、病人观察记录的分工：[协作与重建](../10_cooperation/README.md)
+- 腹泻脱水分度与补液、寄生虫识别的医学深化：[消化系统常见病](../14_medicine/04_digestive_diseases.md)；发热规律与危重感染识别：[感染性疾病总论](../14_medicine/03_infectious_diseases.md)
 - 相关从零重建视角见 ../00_roadmap.md 对应阶段节点。
 
 ## 来源与待核验项

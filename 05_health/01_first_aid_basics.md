@@ -105,6 +105,7 @@
 - 长期条件下伤员的安置、保暖与补水涉及居住环境：[居住与环境](../04_shelter/README.md)
 - 多人受伤时"先救谁"的分组处理：[协作与重建](../10_cooperation/README.md)
 - CO 中毒与烧烫伤的急救衔接：[居住防火与用火安全](../04_shelter/04_fire_safety.md)
+- 病情判断的医学深化（生命体征测量、问诊、危重分级）：[症状评估与病情判断](../14_medicine/02_symptom_assessment.md)
 - 从零重建条件下（无急救包）的处置见 [00_roadmap](../00_roadmap.md) 阶段 0。
 
 ## 来源与待核验项

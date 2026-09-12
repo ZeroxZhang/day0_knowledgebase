@@ -129,6 +129,7 @@
 - 先了解：[化学基础](05_chemistry_basics.md)（消毒剂的化学）。
 - 相关：[水净化方法](../02_water/04_water_purification.md)、[伤口处理与止血](../05_health/02_wound_care.md)、[环境卫生与废弃物处理基础](../02_water/06_hygiene_sanitation.md)、[食品安全与变质判断](../03_food/03_food_safety.md)、发酵保存（进阶，见 [食物与营养](../03_food/README.md)）。
 - 进阶：病原学、发酵菌种管理、免疫原理见领域 README。
+- 生物学在人体上的应用（十一大系统结构与检查）：[人体结构与生理基础](../14_medicine/01_body_systems.md)；在植物上的应用（形态与类群辨认）：[植物识别总纲](../13_field_guide/02_plant_id_basics.md)。
 
 ## 来源与待核验项
 

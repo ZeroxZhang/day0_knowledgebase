@@ -112,6 +112,7 @@
 - 记录制度与文字：[文字与书写系统](../12_knowledge/01_writing_basics.md)
 - 对照思想的方法论根源：[科学方法](../11_science/11_scientific_method.md)
 - 群体试验与档案的组织方式：[群体协作基础](../10_cooperation/01_group_basics.md)
+- 有毒动植物的识别红线（草药误采的第一道防线）：[剧毒植物与蘑菇](../13_field_guide/04_toxic_plants_mushrooms.md)
 - 路线图定位：../00_roadmap.md
 
 ## 来源与待核验项

@@ -109,7 +109,7 @@
 ## 延伸与关联
 
 - 先决依赖：[陶器制作](../09_materials/06_pottery.md)（熬盐容器）、[火](../01_energy/01_fire_making.md)。
-- 后续应用：肉鱼腌制是断盐危机的"保险"（腌制品同时是盐的载体）；盐作为交换品见 [交换与货币](../10_cooperation/08_trade_money.md)（待写）；盐渍地与家畜管理见 [驯化基础](../08_production/05_domestication_basics.md)（待写）。
+- 后续应用：肉鱼腌制是断盐危机的"保险"（腌制品同时是盐的载体）；盐作为交换品见 [交换与货币](../10_cooperation/08_trade_money.md)；盐渍地与家畜管理见 [驯化基础](../08_production/05_domestication_basics.md)；海岸/盐场的选址背景（潮汐与海岸地貌）见 [海洋与海岸](../16_geography/04_oceans_coasts.md)。
 - 原理：溶解度与结晶见 [化学基础](../11_science/05_chemistry_basics.md)；蒸发浓缩的能耗账见 [单位与计量](../11_science/03_units_measurement.md)。
 
 ## 来源与待核验项

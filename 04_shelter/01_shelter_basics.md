@@ -113,6 +113,7 @@
 - 先了解：本篇是独立入口（与 [摩擦取火](../01_energy/01_fire_making.md) 并列的技术树根节点之一）。
 - 后续：[保温与热量保持](02_thermal_insulation.md)（室内保暖的深化）、[方向判定与行进](../06_comms/05_orientation.md)（选址前的路线判断）、[绳索与绳结](../09_materials/03_cordage_knots.md)（绑扎）、[土造建筑](06_earth_building.md)（从遮蔽到永久住房）。
 - 相关：失温与冻伤的急救见 [基础急救流程](../05_health/01_first_aid_basics.md)。
+- 选址的大背景（所在气候带的水/食物/风险档案）：[气候带与生存环境](../16_geography/02_climate_biomes.md)。
 
 ## 来源与待核验项
 
