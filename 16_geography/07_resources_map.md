@@ -107,7 +107,7 @@
 
 ## 延伸与关联
 
-- 本域配套：大河大湖与水系（05_rivers_lakes，即将入库）、山脉与平原（06_mountains_plains，即将入库）（资源的地貌容器）；自制地图与区域志（制图篇、踏勘篇，即将入库）。
+- 本域配套：大河大湖与水系（05_rivers_lakes，即将入库）、山脉与平原（06_mountains_plains，即将入库）（资源的地貌容器）；自制地图与区域志（[地图与制图](08_maps_cartography.md)、[区域踏勘方法](09_region_survey.md)）。
 - 辨认手段：[岩石识别与采集](../13_field_guide/07_rock_id.md)、[矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)、[木材与纤维](../13_field_guide/10_wood_fiber_id.md)（即将入库）。
 - 农业资源：[土壤基础](../08_production/01_soil_basics.md)、[水与肥料](../08_production/03_water_fertilizer.md)。
 - 历史视角（贸易与文明骨架）：15_history 早期文明篇与青铜铁器篇；世界格局：[大洲地理档案](../16_geography/03_continents_archive.md)、[气候带与生存环境](../16_geography/02_climate_biomes.md)。

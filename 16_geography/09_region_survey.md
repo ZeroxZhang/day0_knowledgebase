@@ -10,7 +10,7 @@
 
 世界框架（大洲、气候带、资源带）最终要落到你脚下这一片。本篇回答一个问题：**怎么为自己的地区编一部"区域志"**——一部包含地貌、水、土、生物、资源、风险六章加一张地图的本地档案，它是从"过路者"变成"本地人"的完成证书。
 
-本篇是 16_geography 的收官篇：它把 [气候带与生存环境](02_climate_biomes.md) 的带框架、[大河大湖与水系](05_rivers_lakes.md，即将入库) 的水读法、[地质与地貌](../11_science/09_geology_landforms.md) 的地读法、[自然资源分布总图](07_resources_map.md) 的优先级表，全部整合成一套**按天执行的踏勘流程**。
+本篇是 16_geography 的收官篇：它把 [气候带与生存环境](02_climate_biomes.md) 的带框架、[大河大湖与水系](05_rivers_lakes.md) 的水读法、[地质与地貌](../11_science/09_geology_landforms.md) 的地读法、[自然资源分布总图](07_resources_map.md) 的优先级表，全部整合成一套**按天执行的踏勘流程**。
 
 ## 核心知识与原理
 
@@ -106,7 +106,7 @@
 
 ## 延伸与关联
 
-- 本域前置：[地球基础](01_earth_basics.md)、[气候带与生存环境](02_climate_biomes.md)、[大河大湖与水系](05_rivers_lakes.md，即将入库)、[山脉与平原](06_mountains_plains.md，即将入库)、[自然资源分布总图](07_resources_map.md)、[地图与制图](08_maps_cartography.md)。
+- 本域前置：[地球基础](01_earth_basics.md)、[气候带与生存环境](02_climate_biomes.md)、[大河大湖与水系](05_rivers_lakes.md)、[山脉与平原](06_mountains_plains.md)、[自然资源分布总图](07_resources_map.md)、[地图与制图](08_maps_cartography.md)。
 - 识别全套：13_field_guide 十篇（方法论起）。
 - 定居后的延续：区域志并入 [记录与保存](../12_knowledge/06_library_records.md) 的档案体系，物候数据回流 [天气与气候](../11_science/08_weather_climate.md)。
 - 世界观兜底：[大洲地理档案](03_continents_archive.md)、[文明崩溃与复原的规律](../15_history/10_collapse_resilience.md)（为什么本地知识是复原的起点）。

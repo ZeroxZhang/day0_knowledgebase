@@ -31,7 +31,7 @@
 | --- | --- | --- |
 | 14_medicine 基础医学（参考默沙东诊疗手册专业版；与 05_health 分工：05 动作导向、14 判断导向） | ✓ 01_body_systems（人体结构与生理）、✓ 02_symptom_assessment（症状评估）、✓ 03_infectious_diseases（感染病总论）、✓ 04_digestive_diseases（消化常见病） | 呼吸 / 循环血液 / 皮肤软组织 / 骨骼肌肉 / 神经精神 / 内分泌代谢 / 中毒咬蜇 / 无医照护体系 |
 | 15_history 人类历史（每篇落到"对重建者的启示"）——**全 10 篇完成** | ✓ 01_human_origins、✓ 02_agricultural_revolution、✓ 03_first_civilizations、✓ 04_bronze_iron_ages、✓ 05_classical_axial、✓ 06_medieval_world、✓ 07_science_revolution、✓ 08_industrial_revolution、✓ 09_modern_era、✓ 10_collapse_resilience（崩溃与复原规律为领域收官综述） | — |
-| 16_geography 全球地理（落到选址与资源决策） | ✓ 01_earth_basics（地球与坐标）、✓ 02_climate_biomes（气候带生存环境）、✓ 03_continents_archive（大洲档案）、✓ 04_oceans_coasts（海洋海岸） | 水系 / 山脉平原 / 资源分布总图 / 自制地图 / 区域踏勘方法 |
+| 16_geography 全球地理（落到选址与资源决策）——**全 9 篇完成** | ✓ 01_earth_basics、✓ 02_climate_biomes、✓ 03_continents_archive、✓ 04_oceans_coasts、✓ 05_rivers_lakes、✓ 06_mountains_plains、✓ 07_resources_map、✓ 08_maps_cartography、✓ 09_region_survey（踏勘方法为领域收官） | — |
 
 ## 技术树总览（阶段 × 关键节点）
 

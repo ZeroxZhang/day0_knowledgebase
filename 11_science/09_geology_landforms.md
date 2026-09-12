@@ -14,7 +14,7 @@
 2. **地貌怎么读**——山脊、谷地、阶地、河曲、溶洞各自意味着水在哪里、土在哪里、危险在哪里；
 3. 怎么凭地貌线索**找水、找石、找矿、选定居点**。
 
-分工：本篇讲"为什么这些资源会在这里"（原理）；一块标本怎么认去 [岩石识别与采集](../13_field_guide/07_rock_id.md) 与 [矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)；世界尺度的资源分布去 自然资源分布总图（16_geography，即将入库）。
+分工：本篇讲"为什么这些资源会在这里"（原理）；一块标本怎么认去 [岩石识别与采集](../13_field_guide/07_rock_id.md) 与 [矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)；世界尺度的资源分布去 [自然资源分布总图](../16_geography/07_resources_map.md)。
 
 ## 核心知识与原理
 
@@ -76,7 +76,7 @@
 
 **第 1 周：水系与岩层建档**。沿主要河谷走一遍，标出：急流段/缓流段/阶地位置；沿途敲标本（每类岩石留一块，记采集点——[岩石识别](../13_field_guide/07_rock_id.md) 的石料盒）。
 
-**第 1 月：资源点定位**。按本篇线索定位：渗水带 2～3 处、砾石滩、露头与岩脉、黏土坡——每处建卡（位置/资源/验证结果），汇总进 16_geography 的"区域志"（区域踏勘方法（16_geography，即将入库），即将入库）。
+**第 1 月：资源点定位**。按本篇线索定位：渗水带 2～3 处、砾石滩、露头与岩脉、黏土坡——每处建卡（位置/资源/验证结果），汇总进 16_geography 的"区域志"（[区域踏勘方法](../16_geography/09_region_survey.md)，即将入库）。
 
 **第 1 季：定居点终审**。候选点逐一过"地貌五查"：洪水痕余量够不够/坡向得不得热/排水好不好/崩滑信号有没有/取水取石半径多大——五查全过才动工。
 
@@ -108,7 +108,7 @@
 
 - 标本层：[岩石识别与采集](../13_field_guide/07_rock_id.md)、[矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)、[黏土与土壤](../13_field_guide/09_clay_soil_id.md)。
 - 水的应用：[水的来源](../02_water/02_water_sources.md)、[水的储存](../02_water/05_water_storage.md)。
-- 世界尺度：[大洲地理档案](../16_geography/03_continents_archive.md)、自然资源分布总图（16_geography，即将入库）。
+- 世界尺度：[大洲地理档案](../16_geography/03_continents_archive.md)、[自然资源分布总图](../16_geography/07_resources_map.md)。
 - 土壤农用：[土壤基础](../08_production/01_soil_basics.md)。
 - 矿的下游：[铜的冶炼](../09_materials/12_metallurgy_copper.md)、[铁的冶炼](../09_materials/13_metallurgy_iron.md)、[石灰与砂浆](../09_materials/08_lime_mortar.md)。
 
