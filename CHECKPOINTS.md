@@ -135,3 +135,11 @@
 - 剩余扩写（18 篇，文件名已编号）：12_knowledge 03_ink_and_pen / 04_printing_basics / 05_education_system / 06_library_records；10_cooperation 01～09 全部 9 篇；11_science 01_units / 02_physics / 03_chemistry / 04_biology / 05_astronomy。
 - 进行中：agent_78a903bf（07_tools 2 + 08_production 6）；agent_0472ede9（09_materials 7 + 12_knowledge 01/02）。
 - 恢复动作：两代理完成后 → 派最后两批（12 剩 4 + 11 全 5；10 全 9）→ 全库清单脚本复查（wc -l≥120 且 wc -m≥4200）→ 链接核验 → CP-011 + PROGRESS 收官。
+
+## CP-011 | 2026-09-12 | 细化扩写战役完成（94/95 达标 + 1 篇在途）
+
+- 完成：全部 46 篇应急旧文 + 48 篇从零重建文章扩写至"≥120 行且 ≥4200 字符"标准；全库链接核验清零；模板字段 95/95 齐全；编号化全库完成（含 03/04/05/06 延迟改名）。
+- 在途：agent_0472ede9（09+12 领域批次）仍在写 12_knowledge/02_papermaking.md（其余 8 篇已交付达标），完成后 95/95。
+- git：仓库已建（main 分支），每批一提交，当前 4 个提交。
+- 下一批：①02_papermaking 达标确认；②来源核对第二轮（CP-006/009 清单：助产产科数值、草药小试流程、水轮功率系数、风能折减、灰水鸡蛋法、蒸汽膨胀倍数、玻璃配比、绳结强度、种子寿命）；③应急进阶 30 项（非 roadmap 节点，可选）。
+- 恢复动作：复查 02_papermaking（wc ≥120/≥4200）→ CP-012 + PROGRESS 收官 → 来源核对第二轮。
