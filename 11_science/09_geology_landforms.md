@@ -64,7 +64,7 @@
 - **冲积土**（河流搬来的）：分层、肥沃——历次洪水送的"新礼"。
 - **坡积/残积土**（原地或近地风化）：与母岩同姓——花岗岩坡=砂质酸性、石灰岩坡=黏质中性。
 - **风积土**（黄土类）：自肥但易蚀。
-改良的方向性判断（测土与改土的手法见 [土壤基础](../08_production/01_soil_basics.md) 与 黏土与土壤（13_field_guide，即将入库））。
+改良的方向性判断（测土与改土的手法见 [土壤基础](../08_production/01_soil_basics.md) 与 [黏土与土壤](../13_field_guide/09_clay_soil_id.md)）。
 
 ### 时间感与"不变"的错觉
 
@@ -80,7 +80,7 @@
 
 **第 1 季：定居点终审**。候选点逐一过"地貌五查"：洪水痕余量够不够/坡向得不得热/排水好不好/崩滑信号有没有/取水取石半径多大——五查全过才动工。
 
-依赖链：本篇是 [岩石识别](../13_field_guide/07_rock_id.md)、[矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)、黏土与土壤（13_field_guide，即将入库） 的"为什么"层；选址的气候面在 [天气与气候](08_weather_climate.md)。
+依赖链：本篇是 [岩石识别](../13_field_guide/07_rock_id.md)、[矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)、[黏土与土壤](../13_field_guide/09_clay_soil_id.md) 的"为什么"层；选址的气候面在 [天气与气候](08_weather_climate.md)。
 
 ## 方法与应用
 
@@ -106,7 +106,7 @@
 
 ## 延伸与关联
 
-- 标本层：[岩石识别与采集](../13_field_guide/07_rock_id.md)、[矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)、黏土与土壤（13_field_guide，即将入库）。
+- 标本层：[岩石识别与采集](../13_field_guide/07_rock_id.md)、[矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)、[黏土与土壤](../13_field_guide/09_clay_soil_id.md)。
 - 水的应用：[水的来源](../02_water/02_water_sources.md)、[水的储存](../02_water/05_water_storage.md)。
 - 世界尺度：[大洲地理档案](../16_geography/03_continents_archive.md)、自然资源分布总图（16_geography，即将入库）。
 - 土壤农用：[土壤基础](../08_production/01_soil_basics.md)。
