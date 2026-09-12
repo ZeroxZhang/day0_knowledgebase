@@ -10,11 +10,11 @@
 
 | 层 | 关键知识 | 文章（已写 ✓ / 待写） |
 | --- | --- | --- |
-| 识别方法 | 观察—比较—验证循环、感官与简易试验（硬度/条痕/酸/燃烧/水试）、自制标本册 | 13_field_guide/01_identification_methods.md |
-| 植物识别 | 叶花果形态描述、关键科特征与警示、建本地标本册 | 13_field_guide/02_plant_id_basics.md |
-| 可食植物 | 常见可食类群（坚果/橡子/香蒲/荨麻等）、可食性测试的定位与边界 | 13_field_guide/03_edible_plants.md |
-| 剧毒与蘑菇 | 全球性剧毒类群红线、蘑菇识别纪律（无通用鉴别法） | 13_field_guide/04_toxic_plants_mushrooms.md |
-| 动物识别 | 足迹/粪便/啃痕/巢穴/声音、追踪与守候 | 13_field_guide/05_animal_tracking.md |
+| 识别方法 | 观察—比较—验证循环、感官与简易试验（硬度/条痕/酸/燃烧/水试）、自制标本册 | ✓ 13_field_guide/01_identification_methods.md |
+| 植物识别 | 叶花果形态描述、关键科特征与警示、建本地标本册 | ✓ 13_field_guide/02_plant_id_basics.md |
+| 可食植物 | 常见可食类群（坚果/橡子/香蒲/荨麻等）、可食性测试的定位与边界 | ✓ 13_field_guide/03_edible_plants.md |
+| 剧毒与蘑菇 | 全球性剧毒类群红线、蘑菇识别纪律（无通用鉴别法） | ✓ 13_field_guide/04_toxic_plants_mushrooms.md |
+| 动物识别 | 足迹/粪便/啃痕/巢穴/声音、追踪与守候 | ✓ 13_field_guide/05_animal_tracking.md |
 | 危险动物 | 猛兽相遇、毒蛇识别与咬伤、毒虫、水中危险 | 13_field_guide/06_dangerous_animals.md |
 | 岩石识别 | 三大岩类、打制石料（燧石/黑曜石/石英）辨认 | 13_field_guide/07_rock_id.md |
 | 矿物矿石 | 硬度/条痕/光泽/酸试，铁/铜/锡/盐/石灰石等矿石辨认 | 13_field_guide/08_mineral_ore_id.md |
@@ -24,6 +24,14 @@
 | 数与算术 | 计数与进位、四则、分数、估算与心算 | 11_science/02_numbers_arithmetic.md |
 | 天气与气候 | 云与风、经验预报规则、物候与季节 | 11_science/08_weather_climate.md |
 | 地质与地貌 | 三大岩类来历、地貌读图、找水找矿的地貌线索 | 11_science/09_geology_landforms.md |
+
+## 背景层（v2.1 扩展域：医学 / 历史 / 地理，服务全部阶段）
+
+| 域 | 已写 | 待写（下一批） |
+| --- | --- | --- |
+| 14_medicine 基础医学（参考默沙东诊疗手册专业版；与 05_health 分工：05 动作导向、14 判断导向） | ✓ 01_body_systems（人体结构与生理）、✓ 02_symptom_assessment（症状评估）、✓ 03_infectious_diseases（感染病总论）、✓ 04_digestive_diseases（消化常见病） | 呼吸 / 循环血液 / 皮肤软组织 / 骨骼肌肉 / 神经精神 / 内分泌代谢 / 中毒咬蜇 / 无医照护体系 |
+| 15_history 人类历史（每篇落到"对重建者的启示"） | （写作中）01_human_origins、02_agricultural_revolution、03_first_civilizations、04_bronze_iron_ages | 古典轴心 / 中世纪 / 科学革命 / 工业革命 / 近现代 / 崩溃与复原规律 |
+| 16_geography 全球地理（落到选址与资源决策） | ✓ 01_earth_basics（地球与坐标）、✓ 02_climate_biomes（气候带生存环境）、✓ 03_continents_archive（大洲档案）、✓ 04_oceans_coasts（海洋海岸） | 水系 / 山脉平原 / 资源分布总图 / 自制地图 / 区域踏勘方法 |
 
 ## 技术树总览（阶段 × 关键节点）
 

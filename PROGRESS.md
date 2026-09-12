@@ -1,21 +1,24 @@
 # 知识库进度
 
-当前轮次：**根基层扩充战役**（v2.0：认知根基 + 野外识别体系，2026-09-12 用户第二次升级）
-本批领域：EXECUTION_GUIDE v2.0、00_roadmap、INDEX、使用指南、11_science 重排、13_field_guide 新建
+当前轮次：**根基层 + 三扩展域战役**（v2.1：13 野外识别 + 14 基础医学[默沙东] + 15 人类历史 + 16 全球地理，2026-09-12 用户第二、三次升级）
+本批领域：13_field_guide 批 1、14_medicine 批 1、16_geography 批 1、15_history 批 1（写作中）、基础文件 v2.1
 本批新增或更新：
-- **根基层入规**：EXECUTION_GUIDE 升 v2.0——认知根基（11_science 新增物质与元素、数与算术、天气气候、地质地貌 4 篇）+ 识别体系（新领域 13_field_guide，10 篇）；完整性口径（"彻底完成"的 5 条判定标准）写入第 6 节
-- **11_science 重排**：新序号 = 01_matter_elements（待写）/ 02_numbers_arithmetic（待写）/ 03_units / 04_physics / 05_chemistry / 06_biology / 07_astronomy / 08_weather_climate（待写）/ 09_geology_landforms（待写）/ 10_geometry / 11_scientific_method；旧 7 篇已 git mv，全库引用 sed 同步，链接核验清零
-- **13_field_guide 骨架**：README 建立（10 篇清单 + 交叉引用 + 写作纪律三原则：不写未核对区域物种清单/致命错误优先/单一特征不定论）
-- **00_roadmap**：新增"根基层"登记表（14 篇，待写）；阶段 0 依赖链加入"辨认"；石器/冶金节点挂识别篇引用；阅读路径改从根基层起步
-- **INDEX / 使用指南 / 项目 AGENTS.md**：13 领域口径；使用指南新增"根基层识别与认知"自测清单（7 项）
-待核验或需补充：95 篇中 14 篇已升"已核对"（清单见 CHECKPOINTS CP-013/015/016）；其余 81 篇待核验；根基层 14 篇待写
-下一批具体主题（根基层 14 篇，按批推进）：
-1. 批次 1（13 域救命层）：01_identification_methods、02_plant_id_basics、03_edible_plants、04_toxic_plants_mushrooms、05_animal_tracking
-2. 批次 2（13 域材料层）：06_dangerous_animals、07_rock_id、08_mineral_ore_id、09_clay_soil_id、10_wood_fiber_id
-3. 批次 3（11_science 根基）：01_matter_elements、02_numbers_arithmetic、08_weather_climate、09_geology_landforms
-4. 收官：互链调整（foraging_hunting、stone_tools、pottery、metallurgy、plant_fiber_textile 等挂识别篇链接；使用指南速查索引补中毒/遇险行）+ 全库核验 + PROGRESS/CHECKPOINTS 收官
+- **13_field_guide 批 1 全 5 篇达标**：01_identification_methods（240行/12585字）、02_plant_id_basics（219/9828）、03_edible_plants（244/11328）、04_toxic_plants_mushrooms（250/13446）、05_animal_tracking（228/10328）——模板 5 字段齐全、全库零死链、域纪律（不写区域物种清单/致命错误优先/单一特征不定论）落实
+- **14_medicine 首批 4 篇**（01_body_systems 167行、02_symptom_assessment 217、03_infectious_diseases 204、04_digestive_diseases 209）：**实际查阅默沙东诊疗手册专业版 7 个页面 + 检索交叉，产生 11 条已核对子项**（脓毒症 qSOFA、破伤风病程、伤寒热型、疟疾发作周期、脱水分度体征表、急腹症红旗、WHO 低渗 ORS 配方等）；与 05_health 分工明确（05 动作、14 判断），ORS 配方检查过 04_common_illness 确认无重复
+- **16_geography 首批 4 篇**（01_earth_basics 150行、02_climate_biomes 188、03_continents_archive 153、04_oceans_coasts 134）：7 条已核对子项（地轴倾角 23.44°、气温直减率 6.5℃/km、珠峰 8848.86m、海水平均盐度 35g/kg、挑战者深渊 10935m 等）
+- **15_history 首批 4 篇**（origin/agricultural_revolution/first_civilizations/bronze_iron_ages）：后台代理写作中，完成后补记
+- **基础文件 v2.1**：EXECUTION_GUIDE 领域表扩至 16 域 + 14/15/16 定义与完整性口径更新；AGENTS.md（01～16）、INDEX（16 域）、00_roadmap（背景层登记表 + 根基层勾选 5 篇）、使用指南（速查索引补误食/腹泻/发热/病情判断 4 行）、三域 README 建立
+待核验或需补充：95 篇存量中 14 篇已核对、81 篇待核验；新 13 篇（13域5 + 14域4 + 16域4）全部"待核验"，其已核对子项见各篇来源节
+下一批具体主题（两条线并行）：
+1. 13_field_guide 批 2（材料识别层 5 篇）：06_dangerous_animals、07_rock_id、08_mineral_ore_id、09_clay_soil_id、10_wood_fiber_id
+2. 14_medicine 批 2（系统常见病 4 篇）：05_respiratory_diseases、06_cardiovascular_blood、07_skin_soft_tissue、08_musculoskeletal
+3. 16_geography 批 2（5 篇）：05_rivers_lakes、06_mountains_plains、07_resources_map、08_maps_cartography、09_region_survey
+4. 15_history 批 2（6 篇）：05_classical_axial、06_medieval_world、07_science_revolution、08_industrial_revolution、09_modern_era、10_collapse_resilience
+5. 11_science 根基 4 篇：01_matter_elements、02_numbers_arithmetic、08_weather_climate、09_geology_landforms
+6. 14_medicine 批 3（4 篇）：09_neuro_mental、10_endocrine_metabolic、11_toxicology_envenom、12_care_system_rebuild
+7. 收官：全库互链调整（foraging/stone_tools/pottery/metallurgy 等挂识别篇链接）+ 全库核验 + PROGRESS/CHECKPOINTS 收官
 
-## 分领域状态（95 篇已完成 + 根基层 14 篇待写 = 应急层 46 + 从零重建层 49 + 根基层 14）
+## 分领域状态（存量 95 篇 + 本轮新增：13域5 + 14域4 + 16域4，15域4 篇在途）
 
 | 领域 | 篇数 | 状态 |
 | --- | --- | --- |
@@ -31,7 +34,10 @@
 | 10_cooperation | 9 | ✓ |
 | 11_science | 7 + 4 待写 | 存量 ✓，根基层 4 篇推进中 |
 | 12_knowledge | 6 | ✓ |
-| 13_field_guide | 0 + 10 待写 | 根基层识别体系推进中 |
+| 13_field_guide | 5/10 | 批 1（救命层）✓，批 2（材料层）待写 |
+| 14_medicine | 4/12 | 批 1 ✓（默沙东核对 11 项），批 2/3 待写 |
+| 15_history | 0/10 | 批 1 在途（4 篇），批 2 待写 |
+| 16_geography | 4/9 | 批 1 ✓，批 2 待写 |
 
 ## 阶段轴完成度
 

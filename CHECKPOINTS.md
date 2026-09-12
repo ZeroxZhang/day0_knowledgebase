@@ -201,3 +201,17 @@
 - 下一批：批次 1（救命层 5 篇：识别方法论/植物总纲/可食植物/剧毒与蘑菇/动物追踪）→ 批次 2（材料层 5 篇）→ 批次 3（科学根基 4 篇）→ 收官互链与全库核验。
 - 遗留：根基层 14 篇全部未写；使用指南速查索引待补"误食/遇险"行（等文章落地后加链接）；95 篇存量 81 篇仍待核验（不影响本战役）。
 - 恢复动作：读 PROGRESS"下一批具体主题"→ 按批次写文（每篇 ≥120 行/≥4200 字符、零基础粒度、不虚构来源）→ 每批更新 roadmap/README 勾选 + 链接核验 + 追加 CP + 提交。
+
+## CP-018 | 2026-09-12 | 三扩展域纳入 + 根基层批次 1 完成（v2.1）
+
+- 任务变化：用户第二次指令——把基础医学（**重点参考默沙东诊疗手册专业版**）、人类历史、全球地理纳入知识库范围。EXECUTION_GUIDE 升 v2.1（16 域口径 + 完整性口径扩容）。
+- 完成：
+  1. **13_field_guide 批 1（5 篇全部达标）**：识别方法论/植物总纲/可食植物/剧毒与蘑菇/动物追踪（240/219/244/250/228 行，全 ≥4200 字符，零死链）。
+  2. **14_medicine 首批 4 篇**：body_systems/symptom_assessment/infectious_diseases/digestive_diseases；**实际查阅默沙东专业版 7 页面 + 检索交叉 → 11 条已核对子项**（脓毒症 qSOFA、破伤风、伤寒、疟疾、脱水分度体征、急腹症红旗、WHO 低渗 ORS 配方等）；ORS 与 05_health/04_common_illness 查重无重复；不写处方剂量红线落实。
+  3. **16_geography 首批 4 篇**：earth_basics/climate_biomes/continents_archive/oceans_coasts；7 条已核对子项（地轴倾角/直减率/珠峰/盐度/深渊等）。
+  4. **15_history 首批 4 篇**：后台代理进行中（origin/agricultural_revolution/first_civilizations/bronze_iron_ages），完成后补记本条。
+  5. 基础文件：EXECUTION_GUIDE v2.1（16 域表、医学域默沙东来源政策、完整性口径 14/15/16 篇数）、AGENTS.md、INDEX（16 域）、00_roadmap（背景层登记表 + 根基层勾选）、使用指南（速查索引 +4 行：误食/腹泻/发热/病情判断）、三域 README（各含待写清单与领域写作纪律）。
+- 代理运行纪律（本日实测）：并发上限 2（第三并发报 "user concurrency limit exceeded"）；代理被取消前写盘的文件有效——接手时先查目录与 wc 再决定补写。
+- 下一批：①13_field_guide 批 2（dangerous_animals/rock_id/mineral_ore_id/clay_soil_id/wood_fiber_id）；②14_medicine 批 2（respiratory/cardiovascular_blood/skin_soft_tissue/musculoskeletal）；③16_geography 批 2（rivers_lakes/mountains_plains/resources_map/maps_cartography/region_survey）；④15_history 批 2（classical_axial/medieval_world/science_revolution/industrial_revolution/modern_era/collapse_resilience）；⑤11_science 根基 4 篇；⑥14_medicine 批 3（neuro_mental/endocrine_metabolic/toxicology_envenom/care_system_rebuild）。
+- 遗留：15_history 批 1 未验证（在途）；全部新文章"待核验"（已核对子项见各篇来源节）；收官互链（存量技术文挂识别/医学/地理篇链接）未做。
+- 恢复动作：先查 15_history 目录 4 篇是否落地并核验（wc/模板/死链）→ 按 PROGRESS"下一批"两两并发派代理 → 每批完成后勾选 roadmap/README、链接核验、追加 CP、提交。
