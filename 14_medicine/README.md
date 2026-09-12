@@ -13,12 +13,12 @@
 - ✓ [症状评估与病情判断](02_symptom_assessment.md)：无仪器生命体征、问诊八要素、症状定位表、病情三级
 - ✓ [感染性疾病总论](03_infectious_diseases.md)：病原与传播、发热规律、危重感染识别、支持治疗、隔离逻辑
 - ✓ [消化系统常见病](04_digestive_diseases.md)：腹泻脱水与补液、腹痛红旗、寄生虫、便秘
+- ✓ [呼吸系统常见病](05_respiratory_diseases.md)：感冒流感鉴别、肺炎重症界值、结核样慢性消耗、气道异物
+- ✓ [血液与循环系统疾病](06_cardiovascular_blood.md)：失血休克演进、贫血、水肿读法、脉搏特征、晕厥鉴别
+- ✓ [皮肤与软组织疾病](07_skin_soft_tissue.md)：脓肿成熟判断、丹毒蜂窝织炎、烧伤冻伤分度、压疮制度
+- ✓ [骨骼肌肉损伤](08_musculoskeletal.md)：骨折识别与固定原则、骨筋膜室综合征、脱位复位边界、腰背痛力学
 
 ### 待写（下一批）
-- 呼吸系统常见病（05_respiratory_diseases.md：感冒/肺炎/慢性咳喘、支持护理）
-- 血液与循环系统疾病（06_cardiovascular_blood.md：失血休克、贫血、心衰水肿识别）
-- 皮肤与软组织（07_skin_soft_tissue.md：脓肿/丹毒/烧伤冻伤分度与照护）
-- 骨骼肌肉损伤（08_musculoskeletal.md：骨折脱位识别、固定与复位原则）
 - 神经与精神（09_neuro_mental.md：头痛红旗/脑膜炎/癫痫/中风识别、灾难心理）
 - 内分泌与代谢（10_endocrine_metabolic.md：糖尿病征象、甲状腺与碘、中暑失温的代谢机制）
 - 中毒与咬蜇总论（11_toxicology_envenom.md：中毒处置原则、与 13_field_guide 识别篇互链）
