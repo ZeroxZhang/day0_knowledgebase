@@ -108,7 +108,7 @@
 ## 延伸与关联
 
 - 先了解：[食物储备原则与清单](02_food_storage.md)、[饮用水净化](../02_water/04_water_purification.md)。
-- 后续：腹泻呕吐的照护见 [常见病症识别与照护](../05_health/04_common_illness.md)；干燥发酵等保存原理见 [生物基础](../11_science/04_biology_basics.md)；垃圾与防鼠蝇见 [环境卫生与废弃物处理基础](../02_water/06_hygiene_sanitation.md)。
+- 后续：腹泻呕吐的照护见 [常见病症识别与照护](../05_health/04_common_illness.md)；干燥发酵等保存原理见 [生物基础](../11_science/06_biology_basics.md)；垃圾与防鼠蝇见 [环境卫生与废弃物处理基础](../02_water/06_hygiene_sanitation.md)。
 - 相关：长期无冰箱的保存路线见 [窖藏与粮仓](08_granary_basics.md) 与食物领域 README 进阶主题。
 
 ## 来源与待核验项

@@ -109,7 +109,7 @@
 
 - 先决依赖：[摩擦取火与火种管理](../01_energy/01_fire_making.md)、[石器打制与原始工具](../07_tools/01_stone_tools.md) 与 [原始木工](../07_tools/06_woodworking_primitive.md)（伐柴制器）。
 - 后续应用：高火度陶烧与釉（[陶器制作](06_pottery.md) 升级线）、[石灰与砂浆](08_lime_mortar.md)（待写）、[铜的冶炼](12_metallurgy_copper.md)（待写）、[铁的冶炼](13_metallurgy_iron.md)（待写）、取暖燃料的贸易化（见 [交换与货币](../10_cooperation/08_trade_money.md) 待写）。
-- 原理：干馏与缺氧燃烧的化学见 [化学基础](../11_science/03_chemistry_basics.md)；燃料热值对比见 [常见发电方式](../01_energy/03_generation_methods.md) 的燃料表（应急视角）。
+- 原理：干馏与缺氧燃烧的化学见 [化学基础](../11_science/05_chemistry_basics.md)；燃料热值对比见 [常见发电方式](../01_energy/03_generation_methods.md) 的燃料表（应急视角）。
 - 副产物提醒：窑气冷凝可得木醋液（驱虫、除臭的土农药，进阶待写）；炭粉是黑火药史与墨（见 03_ink_and_pen.md 待写）的原料——烧炭不是单产物工种。
 - 分工建议：烧炭属于"守夜型+判断型"工种，适合与陶窑、石灰窑就近共址——一个守窑班可兼看两窑的烟（见 [分工专业化](../10_cooperation/README.md)）。
 

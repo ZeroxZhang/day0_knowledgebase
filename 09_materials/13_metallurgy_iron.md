@@ -109,7 +109,7 @@
 
 - 先决依赖：[木炭窑与烧炭](07_charcoal_kiln.md)、[窑炉建造与热工基础](../04_shelter/05_kiln_construction.md)、[铜的冶炼](12_metallurgy_copper.md)（炉与鼓风的先修版）、[鞣制皮革](05_tanning_basics.md)（风箱）。
 - 后续应用：铁工具全面反哺 [原始木工](../07_tools/06_woodworking_primitive.md)、[石器打制](../07_tools/01_stone_tools.md) 退役、[灌溉工程](../08_production/06_irrigation_basics.md) 的凿井与渠石、[水轮](../01_energy/08_waterwheel.md)（水力鼓风与锻锤）、[蒸汽原理](../01_energy/11_steam_engine_principles.md)（铁器是蒸汽时代的物质前提）。
-- 原理：铁碳相图的常识版（含碳量-性能）属 [化学基础](../11_science/03_chemistry_basics.md) 延伸；淬火组织变化（马氏体）是进阶物理冶金，超出本库当前深度，列为待写。
+- 原理：铁碳相图的常识版（含碳量-性能）属 [化学基础](../11_science/05_chemistry_basics.md) 延伸；淬火组织变化（马氏体）是进阶物理冶金，超出本库当前深度，列为待写。
 - 组织提示：铁匠铺是"炉工+锤工+掌钳"三人一组的最小单元，锻打协作的默契靠长期磨合——铁匠行会是行业组织化（见 [协作与文明](../10_cooperation/README.md)）的历史样板。
 - 水与火的铁律：锻坊、淬火桶、炭库三者的位置在砌炉前就画定——"料一动三处跑"的锻坊是事故温床。
 

@@ -104,7 +104,7 @@
 
 - 先决依赖：[石器打制与原始工具](01_stone_tools.md)（加工刀具）、[火](../01_energy/01_fire_making.md)（烧掏与火弯）。
 - 后续应用：弓钻全套、[陶器制作](../09_materials/06_pottery.md) 的刮具与拍板、建筑杆件（见 [避难住所](../04_shelter/01_shelter_basics.md)）、[水轮](../01_energy/README.md)（待写）的木构件、陷阱与渔具（[采集渔猎入门](../03_food/05_foraging_hunting.md) 待写）。
-- 原理：木材各向异性见 [物理基础](../11_science/02_physics_basics.md)；材性速查见 [木材](../09_materials/01_wood.md)。
+- 原理：木材各向异性见 [物理基础](../11_science/04_physics_basics.md)；材性速查见 [木材](../09_materials/01_wood.md)。
 
 ## 来源与待核验项
 

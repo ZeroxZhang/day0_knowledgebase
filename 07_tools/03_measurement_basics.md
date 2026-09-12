@@ -124,7 +124,7 @@
 
 - 先了解：[电压、电流、功率与能量](../01_energy/02_electrical_basics.md)（电压概念的系统讲解）。
 - 配套阅读：[常用工具与使用规范](02_hand_tools.md)（画线找平的现场操作）、[电气维修基础](05_electrical_repair_basics.md)（电压读数如何指导检修）。
-- 跨领域：[基础科学](../11_science/README.md)（单位制与计量原理，另见 [计量与单位](../11_science/01_units_measurement.md)）、[用电安全](../01_energy/05_electrical_safety.md)（测量作业的安全前置条件）。
+- 跨领域：[基础科学](../11_science/README.md)（单位制与计量原理，另见 [计量与单位](../11_science/03_units_measurement.md)）、[用电安全](../01_energy/05_electrical_safety.md)（测量作业的安全前置条件）。
 - 相关从零重建视角见 [00_roadmap](../00_roadmap.md) 对应阶段节点（度量衡制度属阶段 5，身体尺与参照点法自阶段 0 起即可用）。
 
 ## 来源与待核验项

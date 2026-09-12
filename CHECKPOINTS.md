@@ -187,3 +187,17 @@
 - 知识库现状：95 篇正文（14 篇已核对）+ 00_roadmap + 00_使用指南 + 管理文件；git 13 提交。
 - 下一批（可选）：应急进阶 30 项；剩余次要项核对（随用随核）。
 - 恢复动作：读 PROGRESS/本条 → 按需继续可选批次。
+
+## CP-017 | 2026-09-12 | 根基层扩充战役启动（v2.0 基础文件重洗，Phase A）
+
+- 任务变化：用户判定现有库"不够 fundamental"，要求知识从最基础讲起（元素、动植物识别、原始材料识别、工具制造、科学基础的完整体系）。EXECUTION_GUIDE 升 v2.0。
+- 完成（Phase A 结构改造）：
+  1. EXECUTION_GUIDE v2.0：第 1 节加"根基层"定义（认知根基 + 识别体系）；领域表改 12+1 个（新增 13_field_guide 野外识别）；第 5 节顺序原则改"根基层优先"；第 6 节加完整性口径（"彻底完成"5 条判定标准）。
+  2. 11_science 重排：01_matter_elements / 02_numbers_arithmetic（待写）插到最前，新增 08_weather_climate、09_geology_landforms（待写）；旧 7 篇 git mv 改号（01→03、02→04、03→05、04→06、05→07、06→10、07→11）；全库引用 sed 同步 + 死链核验清零。
+  3. 13_field_guide 新领域骨架：README（10 篇清单、交叉引用、写作纪律：不写未核对区域物种清单/致命错误优先/单一特征不定论）。
+  4. 00_roadmap：新增根基层登记表（14 篇待写）；阶段 0 依赖链加"辨认"；石器/冶金节点挂识别篇；阅读路径改从根基层起步。
+  5. INDEX（13 领域）、00_使用指南（根基层自测 7 项）、项目 AGENTS.md（v2.0、01～13 口径）、PROGRESS（根基层战役）同步。
+- 根基层 14 篇清单：13 域 = 01_identification_methods / 02_plant_id_basics / 03_edible_plants / 04_toxic_plants_mushrooms / 05_animal_tracking / 06_dangerous_animals / 07_rock_id / 08_mineral_ore_id / 09_clay_soil_id / 10_wood_fiber_id；11_science = 01_matter_elements / 02_numbers_arithmetic / 08_weather_climate / 09_geology_landforms。
+- 下一批：批次 1（救命层 5 篇：识别方法论/植物总纲/可食植物/剧毒与蘑菇/动物追踪）→ 批次 2（材料层 5 篇）→ 批次 3（科学根基 4 篇）→ 收官互链与全库核验。
+- 遗留：根基层 14 篇全部未写；使用指南速查索引待补"误食/遇险"行（等文章落地后加链接）；95 篇存量 81 篇仍待核验（不影响本战役）。
+- 恢复动作：读 PROGRESS"下一批具体主题"→ 按批次写文（每篇 ≥120 行/≥4200 字符、零基础粒度、不虚构来源）→ 每批更新 roadmap/README 勾选 + 链接核验 + 追加 CP + 提交。

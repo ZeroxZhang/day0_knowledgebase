@@ -37,7 +37,7 @@
 
 **1. 排出"教什么"的总表（课程表雏形）**
 
-从本知识库倒推：全体必学的"公共层"（识字 [文字与书写](01_writing_basics.md)、算术与计量 [单位与计量](../11_science/01_units_measurement.md)、卫生 [感染预防与个人卫生](../05_health/03_infection_prevention.md)、基本农事与安全常识）；
+从本知识库倒推：全体必学的"公共层"（识字 [文字与书写](01_writing_basics.md)、算术与计量 [单位与计量](../11_science/03_units_measurement.md)、卫生 [感染预防与个人卫生](../05_health/03_infection_prevention.md)、基本农事与安全常识）；
 分流的"职业层"（农、工、医、通信、管理各选深度）——课程表=社会分工表的教育投影（与 [分工专业化](../10_cooperation/05_specialization_basics.md) 待写联动）。
 
 制定方法（扩写新增）：按"每个成年人必须会做什么"倒推——能认告示与契约、能算工分与账目、懂饮水与伤口卫生、知道农时——四条底线即公共层的验收标准；
@@ -109,7 +109,7 @@
 ## 延伸与关联
 
 - 先决依赖：[文字与书写](01_writing_basics.md)、[印刷](04_printing_basics.md)、[群体组织与分工](../10_cooperation/01_group_basics.md)。
-- 后续应用：[科学方法](../11_science/07_scientific_method.md)（待写，元认知教育的终点）、知识库维护传承（[记录与保存](../12_knowledge/06_library_records.md) 待写）、工匠行会与标准（[度量衡制度](../10_cooperation/06_measure_standards.md)）。
+- 后续应用：[科学方法](../11_science/11_scientific_method.md)（待写，元认知教育的终点）、知识库维护传承（[记录与保存](../12_knowledge/06_library_records.md) 待写）、工匠行会与标准（[度量衡制度](../10_cooperation/06_measure_standards.md)）。
 - 原理：学习反馈与记忆规律属心理学范畴，超出本库当前深度，列为进阶待写。
 
 ## 来源与待核验项

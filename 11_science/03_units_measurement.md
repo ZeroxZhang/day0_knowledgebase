@@ -101,7 +101,7 @@ A4 纸长边 29.7 cm；
 
 ### 天平应急（没有秤怎么称重）
 
-已知重量的商品包装（盐袋、瓶装水）当砝码 + 自制等臂天平（直尺架在支点上，两端挂袋）——用 [物理基础](02_physics_basics.md) 的杠杆平衡：两臂等长时砝码重=物重。
+已知重量的商品包装（盐袋、瓶装水）当砝码 + 自制等臂天平（直尺架在支点上，两端挂袋）——用 [物理基础](04_physics_basics.md) 的杠杆平衡：两臂等长时砝码重=物重。
 
 做法与判断（扩写新增）：
 1. 直尺中点下垫圆棱（刀背、圆铅笔），确认两边摆动幅度一致——不等说明支点不在中点；
@@ -142,8 +142,8 @@ A4 纸长边 29.7 cm；
 
 ## 延伸与关联
 
-- 本篇是全库计量入口：[物理基础](02_physics_basics.md)、[化学基础](03_chemistry_basics.md)、[电压电流功率与能量](../01_energy/02_electrical_basics.md)、[能量估算与用电规划](../01_energy/06_energy_estimation.md)。
-- 应用：[化学基础](03_chemistry_basics.md) 的消毒配比、[度量衡制度](../10_cooperation/06_measure_standards.md)（群体标准的制定）、[天然染料](../09_materials/11_natural_dyes.md) 与 [制皂](../09_materials/10_soapmaking.md) 的配比实操。
+- 本篇是全库计量入口：[物理基础](04_physics_basics.md)、[化学基础](05_chemistry_basics.md)、[电压电流功率与能量](../01_energy/02_electrical_basics.md)、[能量估算与用电规划](../01_energy/06_energy_estimation.md)。
+- 应用：[化学基础](05_chemistry_basics.md) 的消毒配比、[度量衡制度](../10_cooperation/06_measure_standards.md)（群体标准的制定）、[天然染料](../09_materials/11_natural_dyes.md) 与 [制皂](../09_materials/10_soapmaking.md) 的配比实操。
 - 进阶：估算与心算方法、法定计量检定见领域 README。
 
 ## 来源与待核验项

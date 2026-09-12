@@ -103,7 +103,7 @@
 
 - 先决依赖：[作物种植基础](02_crop_basics.md)、[种源基础与发芽](04_seed_basics.md)、[土壤基础与改良](01_soil_basics.md)。
 - 后续应用：[小型养殖基础](../08_production/README.md)（圈养管理细化）、[皮与骨的利用](../09_materials/05_tanning_basics.md)、[粮仓与储粮](../03_food/08_granary_basics.md)、盈余催生分工（[分工专业化](../10_cooperation/README.md)）。
-- 原理：遗传与选择的基本逻辑（零基础版）见 [生物基础](../11_science/04_biology_basics.md)。
+- 原理：遗传与选择的基本逻辑（零基础版）见 [生物基础](../11_science/06_biology_basics.md)。
 
 ## 来源与待核验项
 

@@ -109,7 +109,7 @@
 
 - 先决依赖：[土壤基础与改良](../08_production/01_soil_basics.md)（认土）、[原始木工](../07_tools/06_woodworking_primitive.md)（模板椽梁门窗框）、[石灰与砂浆](../09_materials/08_lime_mortar.md)（升级砂浆）、[陶器制作](../09_materials/06_pottery.md)（阶段 3 的瓦）。
 - 后续应用：永久居所（[选址评估](../04_shelter/README.md) 进阶）、仓廪（[粮仓](../03_food/08_granary_basics.md) 的仓体）、窑炉（[窑炉建造与热工基础](05_kiln_construction.md) 的窑体）、[公共卫生](../05_health/07_public_health_rebuild.md) 的居所通风采光标准。
-- 原理：毛细水与冻融的物理见 [物理基础](../11_science/02_physics_basics.md)；黏土矿物与塑性见 [化学基础](../11_science/03_chemistry_basics.md)。
+- 原理：毛细水与冻融的物理见 [物理基础](../11_science/04_physics_basics.md)；黏土矿物与塑性见 [化学基础](../11_science/05_chemistry_basics.md)。
 
 ## 来源与待核验项
 

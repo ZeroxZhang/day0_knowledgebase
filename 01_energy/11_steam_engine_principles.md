@@ -102,7 +102,7 @@
 
 ## 延伸与关联
 
-- 压力、气体膨胀、能量转换的物理基础：../11_science/02_physics_basics.md、../11_science/03_chemistry_basics.md
+- 压力、气体膨胀、能量转换的物理基础：../11_science/04_physics_basics.md、../11_science/05_chemistry_basics.md
 - 曲柄连杆与飞轮：../01_energy/10_power_transmission.md；前置动力：../01_energy/08_waterwheel.md、../01_energy/09_windmill_basics.md
 - 造汽缸与锅炉需要的车床：../07_tools/07_primitive_lathe.md；金属能力上限：../09_materials/02_metal_basics.md
 - 蒸汽的非动力应用（蒸馏）：../02_water/01_water_from_scratch.md 的蒸馏思路

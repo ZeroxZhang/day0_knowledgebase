@@ -128,7 +128,7 @@
 
 ## 延伸与关联
 
-- 先了解：[单位与计量](../11_science/01_units_measurement.md)（功率与能量的单位体系）。
+- 先了解：[单位与计量](../11_science/03_units_measurement.md)（功率与能量的单位体系）。
 - 后续：[常见发电方式](03_generation_methods.md)、[储能基本原理与方式比较](04_energy_storage.md)、[用电安全](05_electrical_safety.md)、[能量估算与用电规划](06_energy_estimation.md)。
 - 电气维修实操见 [电气维修基础](../07_tools/05_electrical_repair_basics.md)。
 - 完全没有现代电池和电网时，电怎么从零做起（摩擦起电、伏打电堆等原始路线）见 [从零获得电力](07_primitive_electricity.md)。

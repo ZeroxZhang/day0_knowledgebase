@@ -77,7 +77,7 @@
 **5. 活字升级（需求量大之后）**
 
 1. 造字丁：泥活字（黏土刻反字烧陶——便宜但尺寸不匀）→ 木活字（梨枣木刻，尺寸较匀）→ 铜锡活字（需 [金属铸造](../09_materials/12_metallurgy_copper.md)，母字模+铸字，一致性最好，远期目标）；
-2. 字量规划：统计文本用字频率，常用字数百枚、冷僻字逐个补铸（频率统计本身就是数据工程——见 [科学方法](../11_science/07_scientific_method.md) 待写）；
+2. 字量规划：统计文本用字频率，常用字数百枚、冷僻字逐个补铸（频率统计本身就是数据工程——见 [科学方法](../11_science/11_scientific_method.md) 待写）；
 3. 排版与固定：字丁排入带格木盘，松香蜡/纸楔塞缝固版（热蜡冷却固字——王祯木活字转轮排字法的核心技巧），印毕加热化蜡拆版；
 4. 拣字工需识字+熟记字盘布局（字盘按韵/偏旁分区）——排版是识字工种，教育（[教育体系](../12_knowledge/05_education_system.md) 待写）是活字的前置。
 
@@ -119,8 +119,8 @@
 ## 延伸与关联
 
 - 先决依赖：[文字与书写](01_writing_basics.md)、[造纸](02_papermaking.md)、[墨与笔](03_ink_and_pen.md)、[原始木工](../07_tools/06_woodworking_primitive.md)（版材与刷具）、[铜的冶炼](../09_materials/12_metallurgy_copper.md)（金属活字远期）。
-- 后续应用：[教育体系](../12_knowledge/05_education_system.md)（待写，教材复制的解锁）、法律文告公示（[治理基础](../10_cooperation/09_governance_basics.md) 待写）、科学知识的跨地域同步（[科学方法](../11_science/07_scientific_method.md) 待写）。
-- 原理：反字镜像与版面定位的几何逻辑见 [几何与测量](../11_science/06_geometry_basics.md)（待写）。
+- 后续应用：[教育体系](../12_knowledge/05_education_system.md)（待写，教材复制的解锁）、法律文告公示（[治理基础](../10_cooperation/09_governance_basics.md) 待写）、科学知识的跨地域同步（[科学方法](../11_science/11_scientific_method.md) 待写）。
+- 原理：反字镜像与版面定位的几何逻辑见 [几何与测量](../11_science/10_geometry_basics.md)（待写）。
 
 ## 来源与待核验项
 

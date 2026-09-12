@@ -104,7 +104,7 @@
 ## 延伸与关联
 
 - 传动、换向、增速：../01_energy/10_power_transmission.md；轴承与轴：../01_energy/08_waterwheel.md
-- 风速三次方与功率概念：../11_science/02_physics_basics.md；面积单位与换算：../11_science/01_units_measurement.md
+- 风速三次方与功率概念：../11_science/04_physics_basics.md；面积单位与换算：../11_science/03_units_measurement.md
 - 帆布与绳索：../07_tools/06_woodworking_primitive.md、../09_materials/03_cordage_knots.md
 - 提水与灌溉配套：../08_production/06_irrigation_basics.md
 - 后续技术台阶（蒸汽）：../01_energy/11_steam_engine_principles.md；总路线：../00_roadmap.md

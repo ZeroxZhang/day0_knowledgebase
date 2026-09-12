@@ -107,7 +107,7 @@
 
 ## 延伸与关联
 
-- 先决依赖：[单位与计量](../11_science/01_units_measurement.md)（记数系统）、[原始信号系统](../06_comms/03_signal_systems.md)（编码约定思想）。
+- 先决依赖：[单位与计量](../11_science/03_units_measurement.md)（记数系统）、[原始信号系统](../06_comms/03_signal_systems.md)（编码约定思想）。
 - 后续应用：[造纸](../12_knowledge/02_papermaking.md)（介质革命）、[印刷](04_printing_basics.md)（复制革命）、契约与法律（[治理基础](../10_cooperation/09_governance_basics.md) 待写）、本知识库本身的传承（[记录与保存](../12_knowledge/README.md)）。
 - 原理：信息编码的抽象层与 [原始信号系统](../06_comms/03_signal_systems.md)、[无线电通信基础](../06_comms/01_radio_basics.md) 同构。
 - 与刻痕工艺的关系：符号刻写与 [石器打制](../07_tools/01_stone_tools.md) 的刻具、骨针工艺同源——书吏与工匠在早期是同一批手艺人。

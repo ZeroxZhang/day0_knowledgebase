@@ -55,7 +55,7 @@
 
 ## 从零实现路径
 
-依赖链：文字与记录（→ ../12_knowledge/01_writing_basics.md）→ 统一计量（→ 01_units_measurement.md，没有统一单位的"数据"没法比较）→ 群体议事与档案存放（→ ../10_cooperation/01_group_basics.md）。
+依赖链：文字与记录（→ ../12_knowledge/01_writing_basics.md）→ 统一计量（→ 03_units_measurement.md，没有统一单位的"数据"没法比较）→ 群体议事与档案存放（→ ../10_cooperation/01_group_basics.md）。
 
 **第一步：设一个"验证员"职能（可与卫生员、文书兼任）。** 职责：受理"两种说法哪个对"的争议、按第二步规程安排试验、保管试验记录。验证员无权决定结论——结论由记录说话；验证员的权力只在于保证规程被遵守。
 
@@ -105,7 +105,7 @@
 - 记录的载体、规范与保存：[文字与书写系统](../12_knowledge/01_writing_basics.md)
 - 证据分级与试验伦理的实例：[草药与替代医疗的证据边界](../05_health/06_herbal_medicine_boundaries.md)
 - 数据驱动决策的另一实例：[公共卫生重建](../05_health/07_public_health_rebuild.md)
-- 统一计量是数据可比的前提：[单位与计量](01_units_measurement.md)
+- 统一计量是数据可比的前提：[单位与计量](03_units_measurement.md)
 - 议事规则与职能分工：[群体协作基础](../10_cooperation/01_group_basics.md)
 - 本库的核验流程与使用原则：../00_roadmap.md
 - 路线图定位：../00_roadmap.md（阶段 5"信息与组织"）

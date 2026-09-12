@@ -129,7 +129,7 @@
 
 - 先了解：[电压、电流、功率与能量](02_electrical_basics.md)、[储能基本原理与方式比较](04_energy_storage.md)。
 - 相关：[常见发电方式](03_generation_methods.md)（选型）、进阶篇离网系统原理与方案比较（见领域 README）、[水与卫生](../02_water/README.md)（供水能耗的替代方案）。
-- 计量与估算通法见 [单位与计量](../11_science/01_units_measurement.md)。
+- 计量与估算通法见 [单位与计量](../11_science/03_units_measurement.md)。
 - 本主题的"从零重建"视角（原始条件下没有电气系统时，同样的需求怎么用人力、水力、燃料满足）见 ../00_roadmap.md 对应阶段节点。
 
 ## 来源与待核验项

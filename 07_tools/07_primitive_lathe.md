@@ -105,9 +105,9 @@
 - 车床造出的圆轴与齿轮服务：../01_energy/10_power_transmission.md、../01_energy/08_waterwheel.md、../01_energy/09_windmill_basics.md
 - 车床是"母机"的道理：用木车床车出木车床的更精零件（顶尖、轴套），一代比一代准，这是机床自我复制的起点。
 - 手工木工与绑扎基础：../07_tools/06_woodworking_primitive.md；石刃磨制：../07_tools/01_stone_tools.md
-- 旋转、往复、切削的运动概念：../07_tools/04_mechanical_basics.md、../11_science/02_physics_basics.md
+- 旋转、往复、切削的运动概念：../07_tools/04_mechanical_basics.md、../11_science/04_physics_basics.md
 - 金属刀具升级依赖冶金：13_metallurgy_iron.md（待写，见 ../00_roadmap.md）；锻炉与燃料：07_charcoal_kiln.md（待写，见 ../00_roadmap.md）
-- 精度、单位与测量习惯：../11_science/01_units_measurement.md；总路线：../00_roadmap.md
+- 精度、单位与测量习惯：../11_science/03_units_measurement.md；总路线：../00_roadmap.md
 
 ## 来源与待核验项
 

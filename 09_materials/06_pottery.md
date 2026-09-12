@@ -110,7 +110,7 @@
 
 - 先决依赖：[摩擦取火与火种管理](../01_energy/01_fire_making.md)（火源）、[石器打制与原始工具](../07_tools/01_stone_tools.md)（修坯的刮具）、绳索（见 [绳索与绳结](03_cordage_knots.md)）。
 - 后续应用：[饮用水净化](../02_water/04_water_purification.md)（煮沸容器）、盐的获取（06_salt_acquisition.md 待写，熬盐锅）、石灰与砂浆（08_lime_mortar.md 待写，石灰窑同源）、铜的冶炼（12_metallurgy_copper.md 待写，坩埚与铸模）、造纸（../12_knowledge/02_papermaking.md 待写，捣浆与抄纸帘的间接支撑）。待写文章均在 [00_roadmap](../00_roadmap.md) 登记。
-- 原理深化：烧结与相变见 [化学基础](../11_science/03_chemistry_basics.md)、热工原理见 [物理基础](../11_science/02_physics_basics.md)。
+- 原理深化：烧结与相变见 [化学基础](../11_science/05_chemistry_basics.md)、热工原理见 [物理基础](../11_science/04_physics_basics.md)。
 - 修复与拼接：裂而未散的器物可用湿泥补缝后复烧一次；断了的两块用黏土浆接合复烧（成功率低，宁可新做）——陶器是消耗品，"会做"永远比"会修"重要。
 
 ## 来源与待核验项

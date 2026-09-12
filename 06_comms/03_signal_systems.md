@@ -110,7 +110,7 @@
 
 - 先决依赖：[火](../01_energy/01_fire_making.md)（夜间信号源）、[绳索与绳结](../09_materials/03_cordage_knots.md)（旗与杆）、[地图判读](04_maps_navigation.md)（塔位勘选）。
 - 后续应用：[有线电报](06_telegraph_basics.md)（待写）与 [从零电力](../01_energy/README.md)（07_primitive_electricity.md 待写）把编码表直接搬上电线；[文字与书写](../12_knowledge/01_writing_basics.md)（待写）让信使可传长文。
-- 原理：编码与协议思想是 [科学方法](../11_science/07_scientific_method.md)（待写）之外的另一条"信息科学"线，深度展开待库力。
+- 原理：编码与协议思想是 [科学方法](../11_science/11_scientific_method.md)（待写）之外的另一条"信息科学"线，深度展开待库力。
 
 ## 来源与待核验项
 

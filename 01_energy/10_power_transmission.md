@@ -105,8 +105,8 @@
 
 - 动力来源：../01_energy/08_waterwheel.md、../01_energy/09_windmill_basics.md；简单机械基础：../07_tools/04_mechanical_basics.md
 - 用传动带动的机床：../07_tools/07_primitive_lathe.md
-- 力、功、功率、效率概念：../11_science/02_physics_basics.md；单位换算：../11_science/01_units_measurement.md
-- 分度与几何作图：../11_science/01_units_measurement.md 所在的科学与计量系列；总路线：../00_roadmap.md
+- 力、功、功率、效率概念：../11_science/04_physics_basics.md；单位换算：../11_science/03_units_measurement.md
+- 分度与几何作图：../11_science/03_units_measurement.md 所在的科学与计量系列；总路线：../00_roadmap.md
 - 金属轴与铁齿需先有冶金（13_metallurgy_iron.md，待写，见 ../00_roadmap.md）；锻炉燃料见 07_charcoal_kiln.md（待写，见 ../00_roadmap.md）
 
 ## 来源与待核验项

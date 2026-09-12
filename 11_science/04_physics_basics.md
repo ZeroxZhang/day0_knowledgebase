@@ -65,9 +65,9 @@
 
 1. **搬重物上台阶**：搭斜面坡道比直抬省力——斜面越长越省（费距离换省力，[机械基础](../07_tools/04_mechanical_basics.md) 的工程应用）；
 2. **判断绳索够不够强**：看直径与材质（[绳索与绳结](../09_materials/03_cordage_knots.md)），**动载警告**：突然坠落的冲击力可达静载数倍——吊人吊重要留成倍余量；
-3. **重力供水的水压**：水位差决定压力，高差每 10 m 约 1 bar（见 [单位与计量](01_units_measurement.md)）——水箱放得越高水越冲（[灌溉](../08_production/06_irrigation_basics.md) 与水轮选址的依据）；
+3. **重力供水的水压**：水位差决定压力，高差每 10 m 约 1 bar（见 [单位与计量](03_units_measurement.md)）——水箱放得越高水越冲（[灌溉](../08_production/06_irrigation_basics.md) 与水轮选址的依据）；
 4. **估算冰块降温能力**：按融化吸热 334 kJ/kg 粗算——理解冰箱断电后"冰瓶"是最后的冷源（[降温与通风](../04_shelter/03_cooling_ventilation.md)）；
-5. **简易测高**：影子比例法——同一时刻 物高/影长 相等（平地、同时刻，[几何与测量](06_geometry_basics.md) 与 [地图判读](../06_comms/04_maps_navigation.md) 联用）。
+5. **简易测高**：影子比例法——同一时刻 物高/影长 相等（平地、同时刻，[几何与测量](10_geometry_basics.md) 与 [地图判读](../06_comms/04_maps_navigation.md) 联用）。
    - 操作（扩写新增）：立一根已知长度的直杆（如 2 m），同时量杆影与树影，树高 = 2 m × 树影长 ÷ 杆影长；
    - 云遮日前后各量一次取平均，误差可再压小。
 6. **烧火的位置**：烟囱效应——热气上升，炉口进气、排烟口高，抽力随高差增大（[窑炉](../04_shelter/05_kiln_construction.md) 的原理内核）。
@@ -104,8 +104,8 @@
 
 ## 延伸与关联
 
-- 先了解：[单位与计量](01_units_measurement.md)。
-- 相关：[化学基础](03_chemistry_basics.md)、[生物基础](04_biology_basics.md)、[机械基础](../07_tools/04_mechanical_basics.md)（简单机械的工程应用）、[保温](../04_shelter/02_thermal_insulation.md) 与 [降温](../04_shelter/03_cooling_ventilation.md)（热学两篇应用）。
+- 先了解：[单位与计量](03_units_measurement.md)。
+- 相关：[化学基础](05_chemistry_basics.md)、[生物基础](06_biology_basics.md)、[机械基础](../07_tools/04_mechanical_basics.md)（简单机械的工程应用）、[保温](../04_shelter/02_thermal_insulation.md) 与 [降温](../04_shelter/03_cooling_ventilation.md)（热学两篇应用）。
 - 进阶：材料力学、流体力学、电磁学定量版见领域 README。
 
 ## 来源与待核验项

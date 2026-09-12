@@ -102,7 +102,7 @@
 
 - 先决依赖：[水源类型与取水](../02_water/02_water_sources.md)、[土壤基础与改良](../08_production/01_soil_basics.md)（土质决定防渗方案）、[石器打制与原始工具](../07_tools/01_stone_tools.md)（挖掘工具，锹镐类骨木+石刃）。
 - 后续应用：[水肥管理基础](../08_production/03_water_fertilizer.md)（田间配水）、[水轮](../01_energy/08_waterwheel.md)（待写，引渠与水轮共用水文计算）、[社区组织](../10_cooperation/README.md)（轮灌制度与渠务维护的公共管理——灌溉社会是早期协作制度的摇篮）。
-- 原理：重力与静水压强见 [物理基础](../11_science/02_physics_basics.md)；渗透与土壤质地见 [土壤基础与改良](../08_production/01_soil_basics.md)。
+- 原理：重力与静水压强见 [物理基础](../11_science/04_physics_basics.md)；渗透与土壤质地见 [土壤基础与改良](../08_production/01_soil_basics.md)。
 
 ## 来源与待核验项
 

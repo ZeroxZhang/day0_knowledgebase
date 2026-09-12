@@ -4,11 +4,32 @@
 
 本文是知识库的技术树坐标。每篇文章属于图上一个节点；新文章必须在此登记。
 
+## 根基层（认知与识别，先于并贯穿全部阶段）
+
+识别先于制作：吃之前要会认植物，打石器之前要会认石料，冶金之前要会认矿石。根基层是阶段 0 的前置阅读，也是全库技术文章的引用基础。规划背景见 EXECUTION_GUIDE v2.0 第 1 节。
+
+| 层 | 关键知识 | 文章（已写 ✓ / 待写） |
+| --- | --- | --- |
+| 识别方法 | 观察—比较—验证循环、感官与简易试验（硬度/条痕/酸/燃烧/水试）、自制标本册 | 13_field_guide/01_identification_methods.md |
+| 植物识别 | 叶花果形态描述、关键科特征与警示、建本地标本册 | 13_field_guide/02_plant_id_basics.md |
+| 可食植物 | 常见可食类群（坚果/橡子/香蒲/荨麻等）、可食性测试的定位与边界 | 13_field_guide/03_edible_plants.md |
+| 剧毒与蘑菇 | 全球性剧毒类群红线、蘑菇识别纪律（无通用鉴别法） | 13_field_guide/04_toxic_plants_mushrooms.md |
+| 动物识别 | 足迹/粪便/啃痕/巢穴/声音、追踪与守候 | 13_field_guide/05_animal_tracking.md |
+| 危险动物 | 猛兽相遇、毒蛇识别与咬伤、毒虫、水中危险 | 13_field_guide/06_dangerous_animals.md |
+| 岩石识别 | 三大岩类、打制石料（燧石/黑曜石/石英）辨认 | 13_field_guide/07_rock_id.md |
+| 矿物矿石 | 硬度/条痕/光泽/酸试，铁/铜/锡/盐/石灰石等矿石辨认 | 13_field_guide/08_mineral_ore_id.md |
+| 黏土土壤 | 手感与湿塑试验、肥土判断、酸碱指示植物 | 13_field_guide/09_clay_soil_id.md |
+| 木材纤维 | 树种与材性辨认、纤维植物、树脂树皮蜡 | 13_field_guide/10_wood_fiber_id.md |
+| 物质与元素 | 元素与原子概念、常见 20 元素、自然界形态与去向 | 11_science/01_matter_elements.md |
+| 数与算术 | 计数与进位、四则、分数、估算与心算 | 11_science/02_numbers_arithmetic.md |
+| 天气与气候 | 云与风、经验预报规则、物候与季节 | 11_science/08_weather_climate.md |
+| 地质与地貌 | 三大岩类来历、地貌读图、找水找矿的地貌线索 | 11_science/09_geology_landforms.md |
+
 ## 技术树总览（阶段 × 关键节点）
 
 ### 阶段 0 即时生存（头数日～数周）
 
-目标：不死于失温、脱水、外伤、中毒。依赖链：**火 → 净水 → 避难 → 食物 → 伤照护**。
+目标：不死于失温、脱水、外伤、中毒。依赖链：**辨认（根基层）→ 火 → 净水 → 避难 → 食物 → 伤照护**。
 
 | 节点 | 关键知识 | 文章（已写 ✓ / 待写） |
 | --- | --- | --- |
@@ -24,7 +45,7 @@
 
 | 节点 | 关键知识 | 文章 |
 | --- | --- | --- |
-| 石器 | 打制原理、刃口修复、石斧石刀 | ✓ 01_stone_tools.md |
+| 石器 | 打制原理、刃口修复、石斧石刀（石料辨认见根基层 07_rock_id） | ✓ 01_stone_tools.md |
 | 纤维 | 植物纤维获取、搓绳、原始织造 | ✓ 03_cordage_knots.md（补从零路径）、✓ 04_plant_fiber_textile.md |
 | 陶器 | 黏土筛选、捏塑/泥条、烧制、防渗 | ✓ 06_pottery.md |
 | 木器 | 石器加工木材、榫卯与绑扎 | ✓ 01_wood.md、✓ 06_woodworking_primitive.md |
@@ -50,7 +71,7 @@
 | --- | --- | --- |
 | 燃料 | 木炭窑建造与烧炭 | ✓ 07_charcoal_kiln.md |
 | 建筑 | 石灰烧制、砂浆、土坯 | ✓ 08_lime_mortar.md、✓ 06_earth_building.md |
-| 冶金 | 铜矿识别、坩埚炉、铸造 → 铁矿、块炼铁、锻打淬火 | ✓ 12_metallurgy_copper.md、✓ 13_metallurgy_iron.md |
+| 冶金 | 铜矿识别、坩埚炉、铸造 → 铁矿、块炼铁、锻打淬火（矿石辨认细化见根基层 08_mineral_ore_id） | ✓ 12_metallurgy_copper.md、✓ 13_metallurgy_iron.md |
 | 玻璃 | 石英砂+碱高温熔制 | ✓ 09_glassmaking_basics.md |
 | 工艺化学 | 草木灰+油脂制皂、发酵、染料 | ✓ 10_soapmaking.md、✓ 11_natural_dyes.md |
 
@@ -78,14 +99,14 @@
 | 制度 | 历法制定、度量衡统一、交换与货币 | ✓ 07_calendar_basics.md、✓ 06_measure_standards.md、✓ 08_trade_money.md、✓ 09_governance_basics.md、✓ 05_specialization_basics.md |
 | 电力 | 伏打电堆、电磁感应、电报 → 无线电 | ✓ 01_radio_basics.md、✓ 07_primitive_electricity.md、✓ 06_telegraph_basics.md |
 | 医疗 | 助产、草药（证据边界）、流行病应对 | ✓ 05_midwifery_basics.md、✓ 06_herbal_medicine_boundaries.md、✓ 07_public_health_rebuild.md |
-| 科学 | 几何测量、科学方法 | ✓ 06_geometry_basics.md、✓ 07_scientific_method.md（属 11_science，支撑全库） |
+| 科学 | 几何测量、科学方法 | ✓ 10_geometry_basics.md、✓ 11_scientific_method.md（属 11_science，支撑全库） |
 
 ## 阅读路径建议（按使用场景）
 
-- 刚"降临"（一无所有）：读阶段 0 全部 → 阶段 1 的石器/绳索/陶器。
-- 已有工具与火：阶段 1 皮革/木器 → 阶段 2 全部。
-- 已定居有粮：阶段 3 窑业冶金 → 阶段 4 动力。
-- 群体已成规模：阶段 5 文字制度 + 全程回头补卫生医疗。
+- 刚"降临"（一无所有）：先读根基层的识别方法/可食植物/危险动物（救命优先），再读阶段 0 全部 → 阶段 1 的石器/绳索/陶器（动手前补读岩石/黏土识别）。
+- 已有工具与火：阶段 1 皮革/木器 → 阶段 2 全部（动土前补读黏土土壤识别）。
+- 已定居有粮：阶段 3 窑业冶金（先读矿物矿石识别）→ 阶段 4 动力。
+- 群体已成规模：阶段 5 文字制度 + 全程回头补卫生医疗与根基层认知篇（物质/数/天气/地质）。
 
 ## 使用原则
 

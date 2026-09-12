@@ -108,7 +108,7 @@
 
 - 先决依赖：[摩擦取火与火种管理](../01_energy/01_fire_making.md)、[木炭窑与烧炭](../09_materials/07_charcoal_kiln.md)（燃料）、[原始木工](../07_tools/06_woodworking_primitive.md)（窑棚）。
 - 后续应用：[陶器制作](../09_materials/06_pottery.md) 的升级、[石灰与砂浆](../09_materials/08_lime_mortar.md)、[玻璃烧制入门](../09_materials/README.md)（09_glassmaking_basics.md）、[铜的冶炼](../09_materials/12_metallurgy_copper.md)、[铁的冶炼](../09_materials/13_metallurgy_iron.md)——冶金炉是窑炉的强化形态。
-- 原理：气流与烟囱效应见 [物理基础](../11_science/02_physics_basics.md)（对流）；燃料热值见 [化学基础](../11_science/03_chemistry_basics.md)。
+- 原理：气流与烟囱效应见 [物理基础](../11_science/04_physics_basics.md)（对流）；燃料热值见 [化学基础](../11_science/05_chemistry_basics.md)。
 - 同级参照：土坯窑体材料的制备见 [土造建筑](06_earth_building.md)（泥砖与草泥的通用做法）；烧成后的器物用途见 [02_water](../02_water/README.md)（陶制容器）。
 
 ## 来源与待核验项
