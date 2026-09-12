@@ -30,7 +30,7 @@
 | 域 | 已写 | 待写（下一批） |
 | --- | --- | --- |
 | 14_medicine 基础医学（参考默沙东诊疗手册专业版；与 05_health 分工：05 动作导向、14 判断导向） | ✓ 01_body_systems（人体结构与生理）、✓ 02_symptom_assessment（症状评估）、✓ 03_infectious_diseases（感染病总论）、✓ 04_digestive_diseases（消化常见病） | 呼吸 / 循环血液 / 皮肤软组织 / 骨骼肌肉 / 神经精神 / 内分泌代谢 / 中毒咬蜇 / 无医照护体系 |
-| 15_history 人类历史（每篇落到"对重建者的启示"） | ✓ 01_human_origins（起源与旧石器）、✓ 02_agricultural_revolution（农业革命）、✓ 03_first_civilizations（早期文明）、✓ 04_bronze_iron_ages（青铜与铁器） | 古典轴心 / 中世纪 / 科学革命 / 工业革命 / 近现代 / 崩溃与复原规律 |
+| 15_history 人类历史（每篇落到"对重建者的启示"） | ✓ 01_human_origins（起源与旧石器）、✓ 02_agricultural_revolution（农业革命）、✓ 03_first_civilizations（早期文明）、✓ 04_bronze_iron_ages（青铜与铁器）、✓ 05_classical_axial（古典与轴心）、✓ 06_medieval_world（中世纪）、✓ 07_science_revolution（科学革命） | 工业革命 / 近现代 / 崩溃与复原规律（在途） |
 | 16_geography 全球地理（落到选址与资源决策） | ✓ 01_earth_basics（地球与坐标）、✓ 02_climate_biomes（气候带生存环境）、✓ 03_continents_archive（大洲档案）、✓ 04_oceans_coasts（海洋海岸） | 水系 / 山脉平原 / 资源分布总图 / 自制地图 / 区域踏勘方法 |
 
 ## 技术树总览（阶段 × 关键节点）
