@@ -225,7 +225,7 @@
 - 火与烧火纪律（烟雾风险）：../01_energy/01_fire_making.md
 - 识别背后的验证纪律：../11_science/11_scientific_method.md；毒素作用的生物学基础：../11_science/06_biology_basics.md
 - 记录与制册的文字基础：../12_knowledge/01_writing_basics.md
-- 危险动物（毒蛇毒虫猛兽）的识别与应对另篇展开：06_dangerous_animals.md（待写）
+- 危险动物（毒蛇毒虫猛兽）的识别与应对另篇展开：[危险动物识别与应对](06_dangerous_animals.md)
 
 ## 来源与待核验项
 

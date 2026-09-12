@@ -209,7 +209,7 @@
 - 动物行为与生理的生物学基础：../11_science/06_biology_basics.md
 - 记录与置信度分级的科学方法纪律：../11_science/11_scientific_method.md
 - 记录系统的文字与制册基础：../12_knowledge/01_writing_basics.md
-- 危险动物（毒蛇、猛兽、毒虫）的专篇识别与应对：06_dangerous_animals.md（待写）
+- 危险动物（毒蛇、猛兽、毒虫）的专篇识别与应对：[危险动物识别与应对](06_dangerous_animals.md)
 
 ## 来源与待核验项
 

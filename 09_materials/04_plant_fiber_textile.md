@@ -96,7 +96,7 @@
 
 ### 第七步：动物筋腱与毛发
 
-1. 筋腱取自猎物腿部，取筋与剥皮处理见 05_tanning_basics.md（待写，见 [../00_roadmap.md](../00_roadmap.md)）。
+1. 筋腱取自猎物腿部，取筋与剥皮处理见 [鞣制皮革](05_tanning_basics.md)。
 2. **干态分层**：把筋平铺石上，用石刀刃横着轻刮，再用指腹反复揉搓，筋会分层散开成白丝束。
 3. 这一步必须在筋**完全干燥**时做——湿筋刮不成丝。
 4. **干态捻合**：丝束极短（几厘米），端头错开搭接，放在两掌之间，两掌相对前后搓捻，边捻边续丝。
@@ -204,7 +204,7 @@
 - 绳结打法与安全余量（现代绳材、四类基础结）：[03_cordage_knots.md](03_cordage_knots.md)。
 - 剥皮、刮纤维、钻孔所需的刃与尖：[../07_tools/01_stone_tools.md](../07_tools/01_stone_tools.md)。
 - 沤泡、晾晒、烘干纤维都依赖稳定的火：[../01_energy/01_fire_making.md](../01_energy/01_fire_making.md)。
-- 筋腱来源与皮料处理的前置：05_tanning_basics.md（待写，见 [../00_roadmap.md](../00_roadmap.md)）。
+- 筋腱来源与皮料处理的前置：[鞣制皮革](05_tanning_basics.md)。
 - 骨锥、刮板、织带用木架的加工：06_woodworking_primitive.md（待写，见 [../00_roadmap.md](../00_roadmap.md)）。
 - 本文处于阶段 1"纤维绳索"节点：上游是石器，下游支撑陶器绑扎搬运、渔网、背架与棚屋搭建。总坐标见 [../00_roadmap.md](../00_roadmap.md)。
 

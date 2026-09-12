@@ -106,7 +106,7 @@
 - 曲柄连杆与飞轮：../01_energy/10_power_transmission.md；前置动力：../01_energy/08_waterwheel.md、../01_energy/09_windmill_basics.md
 - 造汽缸与锅炉需要的车床：../07_tools/07_primitive_lathe.md；金属能力上限：../09_materials/02_metal_basics.md
 - 蒸汽的非动力应用（蒸馏）：../02_water/01_water_from_scratch.md 的蒸馏思路
-- 蒸汽之后通往阶段 5 的电： 07_primitive_electricity.md（待写，见 ../00_roadmap.md）——蒸汽驱动的发电机是电力的第一来源
+- 蒸汽之后通往阶段 5 的电： [从零电力](07_primitive_electricity.md)——蒸汽驱动的发电机是电力的第一来源
 - 总路线与台阶位置：../00_roadmap.md（阶段 4 末端节点，通往阶段 5 电力）
 
 ## 来源与待核验项

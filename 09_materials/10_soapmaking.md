@@ -103,7 +103,7 @@
 - 油脂来源与炼油：[sugar_fat_sources](../03_food/07_sugar_fat_sources.md)。
 - 盐（盐析用）与盐湖碱：[salt_acquisition](../03_food/06_salt_acquisition.md)。
 - 酸碱与化学反应的原理层：[chemistry_basics](../11_science/05_chemistry_basics.md)。
-- 烧火与灰：[fire_making](../01_energy/01_fire_making.md)；规模化燃料见 ../09_materials/07_charcoal_kiln.md（待写，见 ../00_roadmap.md）。
+- 烧火与灰：[fire_making](../01_energy/01_fire_making.md)；规模化燃料见 [木炭窑与烧炭](07_charcoal_kiln.md)。
 - 容器与陶器：[pottery](06_pottery.md)。
 - 本节点在技术树中的位置：[00_roadmap](../00_roadmap.md) 阶段 3。
 

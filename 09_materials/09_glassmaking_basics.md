@@ -64,7 +64,7 @@
 
 ### 第五步：窑温逼近的设计思路（写思路不写死参数）
 
-1. 燃料：烧炭，柴永远到不了玻璃温度。炭窑见 ../09_materials/07_charcoal_kiln.md（待写，见 ../00_roadmap.md）。
+1. 燃料：烧炭，柴永远到不了玻璃温度。炭窑见 [木炭窑与烧炭](07_charcoal_kiln.md)。
 2. 鼓风：两人轮替踩动皮橐或木风箱，风口对准火心而非火面；做不到持续鼓风时，两人轮流也是设计的一部分，不是妥协。踩橐节奏要匀，按"数四下一轮"一踩一松，忽快忽慢会让火心温度反复跳水；轮换在踩动中交接，风不停过一息。
 3. 保温：窑膛小（一拳到两拳大小）、壁厚、双层壁间填草木灰或细沙；观察孔平时用泥片封住，看一眼封一眼。
 4. 结构升级方向：由明火堆烧 → 半封闭竖窑 → 带鼓风的窑，逐级改造，每级用"能否拉出玻璃丝"验收，再谈下一级。
@@ -107,8 +107,8 @@
 ## 延伸与关联
 
 - 陶器与坩埚工艺基础：[pottery](06_pottery.md)；应急视角的陶瓷玻璃概览见同目录 14_ceramics_glass.md（已存在，未列入本文链接白名单，按需查阅）。
-- 高温窑炉与鼓风：../04_shelter/05_kiln_construction.md（待写，见 ../00_roadmap.md）。
-- 炭的规模化生产：../09_materials/07_charcoal_kiln.md（待写，见 ../00_roadmap.md）。
+- 高温窑炉与鼓风：[窑炉建造与热工基础](../04_shelter/05_kiln_construction.md)。
+- 炭的规模化生产：[木炭窑与烧炭](07_charcoal_kiln.md)。
 - 碱与盐：[salt_acquisition](../03_food/06_salt_acquisition.md)。
 - 原理层（二氧化硅、碳酸盐、助熔）：[chemistry_basics](../11_science/05_chemistry_basics.md)。
 - 火源：[fire_making](../01_energy/01_fire_making.md)。
