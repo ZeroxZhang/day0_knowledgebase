@@ -133,7 +133,7 @@
 
 ## 延伸与关联
 
-- 本域下一篇：数与算术（02_numbers_arithmetic.md，即将入库）——认知根基的第二块。
+- 本域下一篇：[数与算术](02_numbers_arithmetic.md)——认知根基的第二块。
 - 化学操作的安全与配比：[化学基础](05_chemistry_basics.md)。
 - 认元素的野外手段（条痕/硬度/醋试/磁性的完整手法）：[矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)、[岩石识别与采集](../13_field_guide/07_rock_id.md)。
 - 元素解锁的各技术台阶：见上文"解锁图"各行。

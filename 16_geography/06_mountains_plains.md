@@ -134,7 +134,7 @@
 - 分带岩性与找矿：[岩石识别](../13_field_guide/07_rock_id.md)、[矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)
 - 土壤与侵蚀、梯田：[土壤基础](../08_production/01_soil_basics.md)；定居点选址：[居住与环境](../04_shelter/01_shelter_basics.md)
 - 步幅、角度与单位的换算：[单位与计量](../11_science/03_units_measurement.md)
-- 山体成因与抬升、气候的垂直机制属 11_science 的地质与地貌篇、天气与气候篇，均即将入库，成文后挂链；等高线读图手法属通信域《地图判读与定位》篇，文字指路不挂链。
+- 山体成因与抬升、气候的垂直机制属 11_science 的[地质与地貌](../11_science/09_geology_landforms.md)、[天气与气候](../11_science/08_weather_climate.md)两篇；等高线读图手法属通信域《地图判读与定位》篇，文字指路不挂链。
 
 ## 来源与待核验项
 

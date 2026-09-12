@@ -15,7 +15,7 @@
 3. 怎么画**地形**（等高线的原理与手绘法）；
 4. 画好的图怎么**保存与更新**。
 
-分工：读现成图与按图行进去 [地图判读与定位](../06_comms/04_maps_navigation.md)（那边是"读"，本篇是"写"）；踏勘时该记录什么去 [区域踏勘方法](09_region_survey.md，即将入库)；本篇管"从零画图"的手艺。
+分工：读现成图与按图行进去 [地图判读与定位](../06_comms/04_maps_navigation.md)（那边是"读"，本篇是"写"）；踏勘时该记录什么去 [区域踏勘方法](09_region_survey.md)；本篇管"从零画图"的手艺。
 
 ## 核心知识与原理
 
@@ -98,7 +98,7 @@
 
 **每季：修订**。新资源点、地貌变化（塌方、河道摆动）、废弃路线——图的版本号（甲、乙、丙）写在角上，旧版收档不毁（[记录与保存](../12_knowledge/06_library_records.md)）。
 
-依赖链：方向与测风的操作在 [方向判定](../06_comms/05_orientation.md)；本篇画出的图，是 [区域踏勘方法](09_region_survey.md，即将入库) 的成品件之一。
+依赖链：方向与测风的操作在 [方向判定](../06_comms/05_orientation.md)；本篇画出的图，是 [区域踏勘方法](09_region_survey.md) 的成品件之一。
 
 ## 方法与应用
 
@@ -125,7 +125,7 @@
 ## 延伸与关联
 
 - 读图与按图行进：[地图判读与定位](../06_comms/04_maps_navigation.md)。
-- 图上内容的来源：[区域踏勘方法](09_region_survey.md，即将入库)、[地质与地貌](../11_science/09_geology_landforms.md)、[大河大湖与水系](05_rivers_lakes.md)。
+- 图上内容的来源：[区域踏勘方法](09_region_survey.md)、[地质与地貌](../11_science/09_geology_landforms.md)、[大河大湖与水系](05_rivers_lakes.md)。
 - 角度与三角的原理：[几何与测量](../11_science/10_geometry_basics.md)；方位的天文基准：[天文观测基础](../11_science/07_astronomy_basics.md)。
 - 图的介质与档案制度：[记录与保存](../12_knowledge/06_library_records.md)。
 
