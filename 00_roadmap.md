@@ -15,9 +15,9 @@
 | 可食植物 | 常见可食类群（坚果/橡子/香蒲/荨麻等）、可食性测试的定位与边界 | ✓ 13_field_guide/03_edible_plants.md |
 | 剧毒与蘑菇 | 全球性剧毒类群红线、蘑菇识别纪律（无通用鉴别法） | ✓ 13_field_guide/04_toxic_plants_mushrooms.md |
 | 动物识别 | 足迹/粪便/啃痕/巢穴/声音、追踪与守候 | ✓ 13_field_guide/05_animal_tracking.md |
-| 危险动物 | 猛兽相遇、毒蛇识别与咬伤、毒虫、水中危险 | 13_field_guide/06_dangerous_animals.md |
-| 岩石识别 | 三大岩类、打制石料（燧石/黑曜石/石英）辨认 | 13_field_guide/07_rock_id.md |
-| 矿物矿石 | 硬度/条痕/光泽/酸试，铁/铜/锡/盐/石灰石等矿石辨认 | 13_field_guide/08_mineral_ore_id.md |
+| 危险动物 | 猛兽相遇、毒蛇识别与咬伤、毒虫、水中危险 | ✓ 13_field_guide/06_dangerous_animals.md |
+| 岩石识别 | 三大岩类、打制石料（燧石/黑曜石/石英）辨认 | ✓ 13_field_guide/07_rock_id.md |
+| 矿物矿石 | 硬度/条痕/光泽/酸试，铁/铜/锡/盐/石灰石等矿石辨认 | ✓ 13_field_guide/08_mineral_ore_id.md |
 | 黏土土壤 | 手感与湿塑试验、肥土判断、酸碱指示植物 | 13_field_guide/09_clay_soil_id.md |
 | 木材纤维 | 树种与材性辨认、纤维植物、树脂树皮蜡 | 13_field_guide/10_wood_fiber_id.md |
 | 物质与元素 | 元素与原子概念、常见 20 元素、自然界形态与去向 | 11_science/01_matter_elements.md |

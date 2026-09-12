@@ -17,7 +17,7 @@
 3. 五步快速鉴定流程卡与记录卡（记录系统沿用 01_identification_methods.md 的标本册与描述卡）。
 4. 采集安全（落石区、山洪、采石纪律）。
 
-分工声明：本文只写"怎么认石头、选石头、采石头"；敲成石器的手法见 ../07_tools/01_stone_tools.md，烧石灰见 ../09_materials/08_lime_mortar.md，煅烧窑炉见 ../04_shelter/05_kiln_construction.md（待写，见 ../00_roadmap.md）。试验工具（硬度刻划、条痕、醋酸、水试、燃烧）的动作细节统一见 01_identification_methods.md 的简易试验工具箱，本文只写结果判读，不重复动作。
+分工声明：本文只写"怎么认石头、选石头、采石头"；敲成石器的手法见 ../07_tools/01_stone_tools.md，烧石灰见 ../09_materials/08_lime_mortar.md，煅烧窑炉见 ../04_shelter/05_kiln_construction.md。试验工具（硬度刻划、条痕、醋酸、水试、燃烧）的动作细节统一见 01_identification_methods.md 的简易试验工具箱，本文只写结果判读，不重复动作。
 
 ## 核心知识与原理
 
@@ -144,7 +144,7 @@
 - 黏土与土壤的辨认（从黏土岩层到可塑黏土）：09_clay_soil_id.md（待写）；木材纤维树脂：10_wood_fiber_id.md（待写）。
 - 地质背景（"为什么这里有这种岩层"的地貌与构造解释）：11_science 域的地质与地貌篇（待写，见 ../00_roadmap.md）。
 - 判断纪律（多判据交叉与存疑分级）：../11_science/11_scientific_method.md。
-- 窑炉与热工（烘试之后的煅烧环节）：../04_shelter/05_kiln_construction.md（待写，见 ../00_roadmap.md）。
+- 窑炉与热工（烘试之后的煅烧环节）：../04_shelter/05_kiln_construction.md。
 
 ## 来源与待核验项
 
