@@ -111,7 +111,7 @@
 ## 延伸与关联
 
 - 大背景：[气候带与生存环境](../16_geography/02_climate_biomes.md)（你所在的带决定预报规则的底本）、[地球基础](../16_geography/01_earth_basics.md)（四季的几何原因）。
-- 地貌如何造天气（地形雨、谷地冷空气）：16_geography 山脉篇（即将入库）。
+- 地貌如何造天气（地形雨、谷地冷空气）：16_geography 的[山脉与平原](../16_geography/06_mountains_plains.md)。
 - 用天气的地方：[避难选址](../04_shelter/01_shelter_basics.md)、[作物基础](../08_production/02_crop_basics.md)、[水的储存](../02_water/05_water_storage.md)。
 - 记录介质与符号系统：[文字与书写系统](../12_knowledge/01_writing_basics.md)；年历制度：[历法基础](../10_cooperation/07_calendar_basics.md)。
 
