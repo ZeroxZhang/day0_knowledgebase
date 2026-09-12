@@ -7,9 +7,9 @@
 - **文件名编号化 95/95**：域内两位序号前缀，序号=技术树学习顺序（规则见 EXECUTION_GUIDE 第 3 节）
 - 全库链接核验清零；四篇"已核对子项"完整保留（05_electrical_safety / 04_water_purification / 04_fire_safety / 02_wound_care）
 - git 仓库已建（main 分支，6 个提交，每批一提交）
-待核验或需补充：全部 95 篇状态"待核验"；来源核对第二轮清单见 CP-006/009/012（助产、草药、水轮、风能、灰水法、蒸汽、玻璃、绳结、种子寿命、饮水配比国产化等）
+待核验或需补充：95 篇中 9 篇已升"已核对"（midwifery、water_purification、waterwheel、windmill、steam、glassmaking、soapmaking、cordage、seed——关键数值有来源支撑）；herbal 保留待核验（小试无标准流程）；其余 85 篇待核验
 下一批具体主题：
-1. 来源核对第二轮：用 WebSearch 逐项核验上述清单，核对通过者整篇升"已核对"
+1. 来源核对第三轮（CP-013 清单）：灭火器分类、CPR 现行指南、导线载流量、巴氏消毒组合等
 2. 应急视角进阶主题约 30 项（各领域 README"进阶（待整理）"，可选扩展）
 3. 知识库使用层：入门导读、阶段测评清单（可选）
 
