@@ -10,7 +10,10 @@
 - [机械基础（简单机械、传动、紧固）](04_mechanical_basics.md)
 - [电气维修基础（检查、接线、更换）](05_electrical_repair_basics.md)
 
-### 进阶（待整理）
+### 进阶（按需整理，不排期）
+
+> 复核（2026-09-12）：本节各项按需整理、不排期。
+
 - 系统排障方法（troubleshooting_method.md）
 - 零件与材料替代原则（materials_substitution.md）
 - 简易加工（切割、钻孔、焊接入门）（machining_basics.md）

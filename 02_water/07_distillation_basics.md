@@ -15,7 +15,7 @@
 3. 认清这条路的代价（耗燃料、出水量小），判断什么时候值得用。
 4. 知道酒精与蒸馏的关系，以及哪些事本篇不教、为什么。
 
-前置依赖：先要有稳定的火（[fire_making](../01_energy/01_fire_making.md)）、会烧制陶罐（[pottery](../09_materials/06_pottery.md)）、能烧出足够热量的炭（../09_materials/07_charcoal_kiln.md，待写，见 ../00_roadmap.md）。技术树位置见 [00_roadmap](../00_roadmap.md) 阶段 3，属"水与卫生"目录中"蒸馏"节点。
+前置依赖：先要有稳定的火（[fire_making](../01_energy/01_fire_making.md)）、会烧制陶罐（[pottery](../09_materials/06_pottery.md)）、能烧出足够热量的炭（[木炭窑](../09_materials/07_charcoal_kiln.md)）。技术树位置见 [00_roadmap](../00_roadmap.md) 阶段 3，属"水与卫生"目录中"蒸馏"节点。
 
 ## 核心知识与原理
 

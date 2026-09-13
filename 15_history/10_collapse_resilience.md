@@ -134,6 +134,7 @@
 - 净水（第一缓冲的水侧）：[饮用水净化方法](../02_water/04_water_purification.md)
 - 卫生与粪污处理：[环境卫生与废弃物处理基础](../02_water/06_hygiene_sanitation.md)
 - 公共卫生重建（瘟疫骑士的对冲）：[长期无医疗体系的公共卫生](../05_health/07_public_health_rebuild.md)
+- 长期气候风险的对冲（丰歉与小冰期）：[极端天气与长期气候波动](../16_geography/10_extreme_weather_climate.md)
 - 感染病总论（登记与检疫的知识底座）：[感染性疾病总论](../14_medicine/03_infectious_diseases.md)
 - 症状评估（无医条件照护）：[症状评估与病情判断](../14_medicine/02_symptom_assessment.md)
 - 草药边界（降级医疗的证据边界）：[草药与替代医疗的证据边界](../05_health/06_herbal_medicine_boundaries.md)

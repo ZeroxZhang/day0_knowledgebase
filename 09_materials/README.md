@@ -10,7 +10,10 @@
 - [绳索与绳结](03_cordage_knots.md)
 - [陶瓷与玻璃（使用与修补）](14_ceramics_glass.md)
 
-### 进阶（待整理）
+### 进阶（按需整理，不排期）
+
+> 复核（2026-09-12）：本节各项按需整理、不排期；织机织布/动物纤维/缝纫制衣已列入从零重建层新篇。
+
 - 连接与紧固工艺选择（joining_fastening.md）
 - 防腐与表面处理（corrosion_protection.md）
 - 成形与塑形基础（forming_shaping.md）
@@ -26,3 +29,6 @@
 - ✓ 铁的冶炼与锻造（13_metallurgy_iron.md：块炼铁、锻打、淬火）——阶段 3 ✓（天然染料 11_natural_dyes.md 已并入登记）
 - ✓ 玻璃烧制入门（09_glassmaking_basics.md）——阶段 3 ✓（天然染料 11_natural_dyes.md 已并入登记）
 - ✓ 草木灰制皂（10_soapmaking.md）——阶段 3 ✓（天然染料 11_natural_dyes.md 已并入登记）
+- ✓ 织机与织布（15_loom_weaving.md：腰机、整经、织造动作）——阶段 1～3
+- ✓ 动物纤维：羊毛、毛毡与纺纱（16_animal_fiber_spinning.md：洗梳纺、湿毡）——阶段 1～3
+- ✓ 缝纫与原始衣物（17_sewing_clothing.md：骨针、针法、皮衣与鞋）——阶段 1～3

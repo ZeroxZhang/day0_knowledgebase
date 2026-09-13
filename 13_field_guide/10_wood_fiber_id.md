@@ -127,7 +127,7 @@
 - 纤维的下游工艺：[绳索与绳结](../09_materials/03_cordage_knots.md)、[植物纤维获取与原始纺织](../09_materials/04_plant_fiber_textile.md)；动物纤维与毛皮：[鞣制皮革](../09_materials/05_tanning_basics.md)。
 - 毒理红线（乳汁、漆树科交叉过敏）：[剧毒植物与蘑菇](04_toxic_plants_mushrooms.md)；火与燃烧：[摩擦取火与火种管理](../01_energy/01_fire_making.md)；蜂蜡与油脂：[糖与油脂的获取](../03_food/07_sugar_fat_sources.md)；浮标渔具与渔线测强：[采集渔猎入门](../03_food/05_foraging_hunting.md)。
 - 年轮、形成层、导管的生物学解释：[生物基础](../11_science/06_biology_basics.md)；树脂可燃性的化学解释：[化学基础](../11_science/05_chemistry_basics.md)。
-- 木材的加工全工艺（削、凿、弯、接）在 07_tools 域（待写篇目）；薪炭林的营造属 01_energy 域生物质篇（待写篇目）。
+- 木材的加工全工艺（削、凿、弯、接）见 [原始木工](../07_tools/06_woodworking_primitive.md)；薪炭林的营造见 [生物质燃料](../01_energy/13_biomass_fuel.md)。
 
 ## 来源与待核验项
 

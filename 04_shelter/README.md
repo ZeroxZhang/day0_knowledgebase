@@ -10,7 +10,10 @@
 - [降温与通风](03_cooling_ventilation.md)
 - [居住防火与用火安全](04_fire_safety.md)
 
-### 进阶（待整理）
+### 进阶（按需整理，不排期）
+
+> 复核（2026-09-12）：本节各项按需整理、不排期；选址评估可先用 [区域踏勘方法](../16_geography/09_region_survey.md) 的判据替代。
+
 - 选址评估（地质、水文、气候）（site_selection.md）
 - 建筑材料与简易建造（building_materials.md）
 - 被动式环境调节原理（passive_design.md）

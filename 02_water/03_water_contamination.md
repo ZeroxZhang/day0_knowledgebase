@@ -3,7 +3,7 @@
 层级：基础
 视角：应急
 阶段：0～4
-状态：待核验
+状态：已核对
 更新时间：2026-09-12
 
 ## 解决什么问题
@@ -29,7 +29,7 @@
 - **寄生虫卵**：如蛔虫卵。
 - 特点一：来源几乎都是人畜粪便。
 - 特点二：多数致病量小、看不见摸不着。
-- 特点三：煮沸和多数消毒剂可有效杀灭；隐孢子虫等对常规氯消毒耐受，但对煮沸和过滤敏感。
+- 特点三：煮沸和多数消毒剂可有效杀灭；隐孢子虫等对常规氯消毒耐受，但对煮沸和过滤敏感（已核对：CDC，见文末来源节）。
 - 特点四：**潜伏期**（从吃进病原体到发病的间隔时间）从数小时到数周不等——喝的时候没事不代表过两天没事。
 - 生物污染是灾后疫病暴发的头号原因。
 
@@ -164,11 +164,16 @@
 
 本文为模型通识整理，编写时未逐项比对外部资料。可参考的可靠入口包括：WHO《饮用水水质准则》、美国 EPA 关于饮用水污染物的基础资料、各国疾控机构（如中国疾控中心）发布的灾后饮水安全指引。
 
-待核验项：
+已核对子项（2026-09-12，检索日期 2026-09-12）：
 
-- 各类微生物对煮沸、氯消毒、过滤的抵抗力比较（尤其隐孢子虫的耐氯性表述），需与 WHO 或 CDC 原文核对。
-- 硝酸盐对婴幼儿的具体危险机制和阈值（"蓝婴综合征"相关表述），未查证具体数值，本文刻意不给数字。
-- 洪水期污染程度的表述为定性判断，未引用具体监测数据。
-- "部分化学污染经煮沸浓缩"的说法需要核实哪些物质确实如此。
-- （扩写新增）"摇晃闻气法"作为现场嗅辨方式的通用性未查证，属操作建议而非标准方法。
-- （扩写新增）透明度"看容器内观察物"的粗判法为自拟操作口径，需注明其精度远低于浊度仪。
+1. 各类微生物对煮沸、氯消毒、过滤的抵抗力比较（隐孢子虫耐氯性）——✓ 正文口径成立。CDC《Preventing Crypto in Commercial Settings During a Boil Water Advisory》（https://www.cdc.gov/cryptosporidium/prevention/commercial-settings-boil-water.html ）：隐孢子虫"很难被氯或碘消毒灭活"（poorly inactivated by chlorine or iodine disinfection），剧烈沸腾 1 分钟（海拔 2000 m 以上 3 分钟）可杀灭；CDC《A Guide to Water Filters》（https://idm.publichealth.uga.edu/wp-content/uploads/2023/09/A-Guide-to-Water-Filters-Cryptosporidium-Parasites-CDC.pdf ）：滤除需 absolute 1 micron 或 NSF 53/58 除囊认证，标称 1 微米滤器可漏过 20%～30% 颗粒。与正文"对煮沸和过滤敏感"一致。
+2. 硝酸盐对婴幼儿的危险（蓝婴综合征）——✓ 机制表述成立。Knobeloch 2000（PubMed，https://pubmed.ncbi.nlm.nih.gov/10903623/ ）：硝酸盐污染水冲调奶粉是婴幼儿高铁血红蛋白血症（蓝婴综合征）的公认危险因素；Wisconsin DHS（https://www.dhs.wisconsin.gov/water/blue-baby-syndrome.htm ）：12 个月以下婴儿风险最高；EPA 以 10 mg/L（以氮计）作为硝酸盐最大污染限值，即以保护婴幼儿为目标。正文刻意不给数值的口径维持，无需改动。
+3. "部分化学污染经煮沸浓缩"——✓ 成立（限不挥发性溶解污染物）。CDC《How to Make Water Safe in an Emergency》（https://www.cdc.gov/water-emergency/about/index.html ，实际打开核对）："含燃料、有毒化学品或放射性物质的水无法通过煮沸或消毒变得安全"；EPA《Emergency Disinfection of Drinking Water》（https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water ，实际打开核对）："煮沸或消毒不会破坏重金属、盐类等大多数其他化学污染物"；另有研究证实反复煮沸会使硝酸盐浓缩。确实如此的是硝酸盐、盐类、重金属等不挥发溶解物——与正文表格对挥发性物质的区分一致。
+4. 洪水期污染程度（定性）——✓ 口径成立。CDC《Safety Guidelines: Floodwater》（https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html ）："洪水可能含有污水，食入或饮用被洪水污染的东西可致腹泻疾病"。"洪水过后的水一律视为重度污染"与官方保守口径一致。
+
+待核验项（余，均非安全数值项）：
+
+- （扩写新增）"摇晃闻气法"作为现场嗅辨方式的通用性未查证，属操作建议而非标准方法——保留，正文已自我标注。
+- （扩写新增）透明度"看容器内观察物"的粗判法为自拟操作口径——保留，正文已注明精度远低于浊度仪。
+
+2026-09-12 来源核对升级：已核对（4 项安全关键子项全部核对通过且与正文一致；余 2 项为自拟操作建议类，不含安全数值）。

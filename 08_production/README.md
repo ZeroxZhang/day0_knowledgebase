@@ -12,7 +12,10 @@
 - [水肥管理基础](03_water_fertilizer.md)
 - [种源基础与发芽](04_seed_basics.md)
 
-### 进阶（待整理）
+### 进阶（按需整理，不排期）
+
+> 复核（2026-09-12）：留种与种子保存已并入 [种源基础与发芽](04_seed_basics.md)（含留自种操作要点）；小型养殖已由 07_small_livestock.md 覆盖。
+
 - 留种与种子保存（seed_saving.md）
 - 小型养殖基础（家禽等）（07_small_livestock.md）
 - 纤维与其他生活材料生产：已由 [../09_materials/04_plant_fiber_textile.md](../09_materials/04_plant_fiber_textile.md) 承接，不再单独立篇（查重合并 2026-09-12）
@@ -20,3 +23,5 @@
 ### 从零重建层（视角：从零重建，见 00_roadmap）
 - ✓ 从采集到驯化（05_domestication_basics.md：驯化原理与候选物种）——阶段 2
 - ✓ 灌溉工程基础（06_irrigation_basics.md：重力引水、沟渠、提水器具）——阶段 2
+- ✓ 乳畜产品加工（08_dairy_processing.md：挤奶、黄油、发酵乳、简易奶酪）——阶段 2～3
+- ✓ 农具与役畜犁耕（09_farm_tools_draft_animals.md：调教、轭、木犁、耕作）——阶段 2～3

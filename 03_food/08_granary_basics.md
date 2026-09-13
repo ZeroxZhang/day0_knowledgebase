@@ -108,7 +108,7 @@
 ## 延伸与关联
 
 - 先决依赖：收获（[作物种植基础](../08_production/02_crop_basics.md)）、[陶器制作](../09_materials/06_pottery.md)、[原始木工](../07_tools/06_woodworking_primitive.md)（仓架）。
-- 后续：仓廪制度与权力（储粮集中→分配权）见 [群体组织与分工](../10_cooperation/01_group_basics.md) 与 [治理基础](../10_cooperation/09_governance_basics.md)（待写）；种用粮单独保存见 [种源基础与发芽](../08_production/04_seed_basics.md)。
+- 后续：仓廪制度与权力（储粮集中→分配权）见 [群体组织与分工](../10_cooperation/01_group_basics.md) 与 [治理基础](../10_cooperation/09_governance_basics.md)；种用粮单独保存见 [种源基础与发芽](../08_production/04_seed_basics.md)。
 - 原理：粮食含水率与真菌生长的关系见 [生物基础](../11_science/06_biology_basics.md)。
 
 ## 来源与待核验项

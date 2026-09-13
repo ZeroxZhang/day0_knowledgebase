@@ -10,7 +10,10 @@
 - [食品安全与变质判断](03_food_safety.md)
 - [烹饪方法与节能烹饪](04_cooking_basics.md)
 
-### 进阶（待整理）
+### 进阶（按需整理，不排期）
+
+> 复核（2026-09-12）：肉、鱼的干燥/烟熏/腌制/发酵保存已由 [肉与鱼的保存](09_food_preservation.md) 承接（含植物性食物干燥原则）；长期食物规划为应急视角，按需不排期。
+
 - 干燥与脱水保存（drying_dehydration.md）
 - 发酵与腌制（fermentation_basics.md）
 - 长期食物规划与轮换（long_term_food_planning.md）
@@ -21,3 +24,4 @@
 - ✓ 盐的获取（06_salt_acquisition.md：海水煮盐、岩盐、咸水泉）——阶段 2
 - ✓ 糖与油脂的获取（07_sugar_fat_sources.md：蜂蜜、油料压榨）——阶段 2～3
 - ✓ 窖藏与粮仓（08_granary_basics.md）——阶段 2
+- ✓ 肉与鱼的保存（09_food_preservation.md：干燥、烟熏、腌制、发酵、油封）——阶段 1～2

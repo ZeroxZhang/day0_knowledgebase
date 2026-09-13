@@ -112,10 +112,14 @@
 
 本文为模型通识整理，编写时未逐项比对外部资料，状态"待核验"。可靠参考入口：中国农业出版社《蔬菜栽培学》类教材、各地农业科学院/农技推广站公开种植历（排产时间以本地资料为准）、FAO 城市农业资料。
 
+已核对子项（2026-09-12）：
+
+1. 播种深度 2～3 倍种子直径口诀：成立。Texas A&M AgriLife Extension《Texas Home Vegetable Gardening Guide》（https://agrilifeextension.tamu.edu/library/gardening/texas-home-vegetable-gardening-guide/）：覆土深度为种子宽度的 2～3 倍；NC State Extension《Vegetable Gardening: A Beginner's Guide》（https://content.ces.ncsu.edu/home-vegetable-gardening-a-quick-reference-guide）、WVU Extension《Seed Starting》（https://extension.wvu.edu/lawn-gardening-pests/gardening/gardening-101/seed-starting）同口径，并提示黏重土壤宜更浅、宁浅勿深。
+2. 豆芽 3～5 天周期：成立。Maritime Glutton《How to Grow Mung Bean Sprouts》（https://www.maritimeglutton.com/how-to-grow-mung-bean-sprouts/）：泡水 8～12 小时（豆胀约两倍）、每天冲洗 2～3 次、2～5 天可收；Gardens by the Bay《Speedy Sprouts》（https://www.gardensbythebay.com.sg/en/learn-with-us/explore-resources/articles/speedy-sprouts.html）：3～4 天可食。与正文"泡水一夜、每天冲水两三次、3～5 天见芽"一致。
+3. 间苗时机（2 片真叶首间、随后定苗）：方向一致。UF/IFAS Extension《Thinning Vegetable Seedlings》（https://blogs.ifas.ufl.edu/escambiaco/2013/12/24/thinning-vegetable-seedlings/）：苗高约 2.5～5 cm 或 2 片真叶时疏苗；Bentley Seeds（https://bentleyseeds.com/blogs/field-notes/how-to-thin-and-transplant-seedlings）：1～2 轮真叶时疏苗；社群经验二次定苗至最终株距。"3～4 片真叶定苗"的精确叶片数资料未给出统一定义，操作口径（最终按株距留壮苗）一致。另：推广资料多建议剪刀贴地剪断代替拔苗以保护留苗根系，本文"按土护根拔苗"不构成矛盾，可作可选改良。
+
 待核验项：
 
-1. 播种深度 2～3 倍种子直径口诀。
-2. 各地霜期需本地化。
-3. 豆芽 3～5 天周期。
-4. 采外围叶采收法适用范围。
-5. （扩写新增）间苗两阶段（2 真叶/3～4 真叶）与留苗间距、物候霜期坐标（柳芽/枣熟）、带土坨移栽操作、逐类收获时机判据，均未核对资料。
+1. 各地霜期需本地化。
+2. 采外围叶采收法适用范围。
+3. （扩写新增）物候霜期坐标（柳芽/枣熟）、带土坨移栽操作、逐类收获时机判据，均未核对资料。（间苗两阶段与留苗间距已核对，见已核对子项 3）

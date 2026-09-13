@@ -124,7 +124,7 @@
 ## 延伸与关联
 
 - 先了解：[营养需求与饥饿应对](01_nutrition_basics.md)（算账的依据）。
-- 后续：[食品安全与变质判断](03_food_safety.md)、[烹饪方法与节能烹饪](04_cooking_basics.md)、[窖藏与粮仓](08_granary_basics.md)（长期无包装储存）。
+- 后续：[食品安全与变质判断](03_food_safety.md)、[烹饪方法与节能烹饪](04_cooking_basics.md)、[窖藏与粮仓](08_granary_basics.md)（长期无包装储存）；无冷藏时保存肉与鱼的从零路径见 [肉与鱼的保存](09_food_preservation.md)。
 - 相关：[储水方法与容器](../02_water/05_water_storage.md)；[盐的获取](06_salt_acquisition.md)、[糖与油脂的获取](07_sugar_fat_sources.md)（断供后的补充来源）；[从零重建] 长期食物体系见 [00_roadmap](../00_roadmap.md) 阶段 2。
 
 ## 来源与待核验项

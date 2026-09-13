@@ -3,7 +3,7 @@
 层级：基础
 视角：应急
 阶段：0～4
-状态：待核验
+状态：已核对
 更新时间：2026-09-12
 
 > 边界声明：本文为知识整理，不替代急救培训与执业医疗建议。不涉及处方药；提到药物仅写通用名并按说明书或医嘱使用。
@@ -106,7 +106,7 @@
   - 双方在近距离（一米内）照护时佩戴口罩——口罩深色/带钢丝的一面向外，捏紧钢丝贴住鼻梁，下沿兜住下巴；摘时只碰耳绳，不碰外表面；
   - 房间定时开窗对流通风，每次十分钟以上，每天数次。
 - 被血液体液污染的表面：先戴手套，用废布吸除并连同废布密封丢弃，再按说明用含氯消毒剂擦拭污染区；照护者事后洗手。
-- 非一次性器械（剪刀、镊子）清洗后煮沸数分钟或彻底洗净晾干，存放在干净容器里，避免洗完又被污染。
+- 非一次性器械（剪刀、镊子）清洗后煮沸 20 分钟（WHO 高水平消毒口径，已核对：WHO 消毒指南/Hesperian）或彻底洗净晾干，存放在干净容器里，避免洗完又被污染。
 
 **防虫媒：**
 
@@ -139,11 +139,17 @@
 
 本文为模型通识整理，编写时未逐项比对外部资料。可靠参考入口包括：WHO 手卫生与家庭饮水卫生指引、各国疾控机构（如中国疾控中心）关于灾后防病与消毒的公众指南、红十字会灾后卫生宣教材料。
 
-待核验项：
+已核对子项（2026-09-12）：
 
-- 煮沸时间的建议值（"滚沸后持续一两分钟，高原适当延长"）。
-- 临时厕所与水源的最小距离参数。
+1. 煮沸时间：CDC《Making Water Safe in an Emergency》（https://www.cdc.gov/healthywater/emergency/drinking/making-water-safe.html）与《Water Disinfection》（https://wwwnc.cdc.gov/travel/page/water-disinfection）——滚沸 1 分钟即达安全口径；海拔 2000 米（约 6500 英尺）以上延长至 3 分钟。正文"一两分钟/三五分钟"下限与之一致、方向偏保守，成立。
+2. 酒精洗手液对诺如病毒效果差：CDC《How to Prevent Norovirus》（https://www.cdc.gov/norovirus/prevention/index.html）与《Hand Sanitizer Guidelines》（https://www.cdc.gov/clean-hands/about/hand-sanitizer.html）——"hand sanitizer alone does not work well against norovirus"，并指出肥皂水对诺如病毒、隐孢子虫等更有效。正文成立。
+3. 漂白液与酸性洁厕剂混用产生氯气：华盛顿州卫生部《Dangers of Mixing Bleach with Cleaners》（https://doh.wa.gov/community-and-environment/contaminants/bleach-mixing-dangers）、新泽西州卫生部 Hazard Alert（https://www.nj.gov/health/workplacehealthandsafety/occupational-health-surveillance/Hazard_Alert-Mixing-Cleaners.pdf）、美国国家中毒中心 Poison.org（https://www.poison.org/articles/toilet-bowl-cleaner-automatic）——漂白剂遇酸释放氯气，正文成立。
+4. 临时厕所与水源最小距离：WHO 2006 指引"30 米为公认最小距离"（经 Loughborough 大学 WEDC 指南整理）；UNHCR WASH 手册第 7 版要求厕所距地下水源至少 30 米、位于取水点下游。正文"至少数十米"成立；30 米为经验法则下限，实际安全距离随土壤与水文变化。
+5. 器械煮沸时间：WHO 消毒指南（https://iris.who.int/bitstreams/a0dc7117-e195-4f05-8f48-64bda2403bdc/download）——煮沸 20 分钟达高水平消毒；Hesperian《Disinfecting with Heat》（https://en.hesperian.org/hhg/A_Community_Guide_to_Environmental_Health:Disinfecting_with_Heat）同口径。正文原"煮沸数分钟"低于该标准，已修正为 20 分钟。
+
+待核验项（剩余，未核对）：
+
 - 含氯消毒剂对常见病原体（尤其诺如病毒）的有效浓度区间。
-- 酒精洗手液对无包膜病毒效果差的具体结论。
 - 喷嚏飞沫喷射距离（约两米）与气溶胶悬浮时间的量化表述。
-- 器械煮沸灭菌所需的最短时间。
+
+2026-09-12 来源核对升级：已核对

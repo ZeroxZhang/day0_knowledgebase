@@ -10,7 +10,10 @@
 - [群体决策方法](03_decision_making.md)
 - [冲突处理](04_conflict_resolution.md)
 
-### 进阶（应急视角，待整理）
+### 进阶（按需整理，不排期）
+
+> 复核（2026-09-12）：群体组织基础见 01_group_basics.md；防御与群体间关系已列入从零重建层新篇；其余按需不排期。
+
 - 社区组织与邻里互助网络（community_organization.md）
 - 交换与互助记账（并入 [交换与货币](08_trade_money.md)，原独立主题待并入）
 - 教学与知识传承（[教育体系](../12_knowledge/05_education_system.md) 承接）
@@ -21,3 +24,4 @@
 - ✓ [历法制定](07_calendar_basics.md)：阴阳合历、置闰、颁历制度——阶段 5
 - ✓ [交换与货币](08_trade_money.md)：从以物易物到铸币与信用——阶段 5
 - ✓ [规则与治理](09_governance_basics.md)：立规、执行、裁断、制衡——阶段 5
+- ✓ [防御与群体间关系](10_defense_intergroup.md)：警报、工事、冲突分级与和平机制——阶段 2～5

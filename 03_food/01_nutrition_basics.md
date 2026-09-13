@@ -103,7 +103,7 @@
 - 让儿童病人与成人绝对平均分：应按需调整——这不是不公平，是各自需求不同。
   - 正确做法：分配规则公开写明（儿童与病员上调、重劳力按劳动量上调），公示规则比结果均等更能服众（见 [资源管理](../10_cooperation/02_resource_management.md)）。
 - 生吃豆类野菜：多数豆类生食有毒（须彻底煮熟煮透），野菜辨认错误可致命（无把握不吃，辨识原则见 [采集渔猎入门](05_foraging_hunting.md)）。
-  - 为什么错：生豆的凝集素与皂苷（名称待核验）煮沸才破坏；野菜外形相近种间毒性差异极大；
+  - 为什么错：生豆的凝集素（菜豆凝集素，已核对：FDA Bad Bug Book）与皂苷煮沸才破坏；野菜外形相近种间毒性差异极大；
   - 正确做法：豆类煮至"烂熟压得出粉"；野菜坚持"百分百确认＋先试小量"双门槛。
 - 断供初期的"盛宴"：头两天把好东西全吃掉是分配纪律崩坏的开始（配给规则见 [资源管理](../10_cooperation/02_resource_management.md)）。
   - 后果：高热量物资前重后空，且"可以多吃"的先例让后续配给失去约束力；
@@ -121,6 +121,16 @@
 
 本文为模型通识整理，编写时未逐项比对外部资料，状态"待核验"。可靠参考入口：《中国居民膳食指南》（营养素参考摄入量）、WHO 营养不良与复食相关指南（复食综合征的医学表述）、军队野战给养标准类公开资料。
 
-待核验项：2000 kcal/人/天的储备估算值；蛋白质 0.8～1 g/kg/天；坏血病与脚气病出现的时间进程；每周体重下降 1%～2% 的警戒线；淡盐糖水配比（跨文待补，见 04_common_illness.md）；松针煮水的维 C 效力。
+待核验项：2000 kcal/人/天的储备估算值 ✓；蛋白质 0.8～1 g/kg/天 ✓；坏血病与脚气病出现的时间进程（坏血病部分 ✓，脚气病未核）；每周体重下降 1%～2% 的警戒线；淡盐糖水配比（跨文待补，见 04_common_illness.md）✓（WHO 家用配方已登记于该文来源节）；松针煮水的维 C 效力。
 
-扩写新增待核验项：常见食物蛋白质含量量级（蛋 6～7 g/个、干豆 20 g/100 g 等）；体力活动加格估算的 kcal 区间；复食节奏示例；生豆毒物名称（凝集素/皂苷）表述。
+扩写新增待核验项：常见食物蛋白质含量量级（蛋 6～7 g/个、干豆 20 g/100 g 等）；体力活动加格估算的 kcal 区间；复食节奏示例；生豆毒物名称（凝集素/皂苷）表述 ✓（凝集素已核，皂苷未核）。
+
+已核对子项（2026-09-12）：
+
+1. 2000 kcal/人/天的储备估算值：FDA《How to Understand and Use the Nutrition Facts Label》（https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label）——"2,000 calories a day is used as a general guide for nutrition advice"，个体需求随年龄、性别、活动量浮动。正文按 2000 kcal 通例计、误差用"宁可略多"覆盖，成立。
+2. 蛋白质 0.8～1 g/kg/天：成人 RDA 为 0.8 g/kg/天（美国国家医学院 DRI 2005 设定，男 56 g/女 46 g 参考值；NIH NLM《Nutrition Guide for Clinicians》Protein Requirements 章节，nutritionguide.pcrm.org）。正文 0.8～1 g/kg 区间、60 kg 人约 50～60 g，下限即 RDA，成立。
+3. 坏血病时间进程：NIH ODS 维生素 C 情况说明书（ods.od.nih.gov）、Harvard Chan《The Nutrition Source》维生素 C 页（nutritionsource.hsph.harvard.edu）、克利夫兰诊所坏血病条目（my.clevelandclinic.org）——长期每日摄入低于约 10 mg，约 8～12 周至 3 个月出现坏血病体征，乏力等早期症状数周内可现。正文"数周至数月渐进"成立。
+4. 复食综合征：NICE 指南 CG32《Nutrition support for adults》（https://www.nice.org.uk/guidance/cg32）——极少或无进食超过 5 天即有复食风险，超过 10 天或 BMI<16 等为高危；Mehanna 等《Refeeding syndrome: what it is, and how to prevent and treat it》BMJ 2008（https://pmc.ncbi.nlm.nih.gov/articles/PMC2440847/）同口径。正文"可致命、不能突然大吃"成立。
+5. 生豆毒物名称：FDA《Bad Bug Book》第 2 版 Phytohaemagglutinin 章节（fda.gov）——生芸豆/四季豆含菜豆凝集素（phytohaemagglutinin），4～5 粒生豆即可致剧烈吐泻；煮沸（约 100 ℃、10 分钟以上）可破坏毒素，约 80 ℃ 低温加热反而使毒性增强约五倍（慢炖锅中毒的成因）。正文"凝集素煮沸才破坏、煮至烂熟"成立，凝集素名称已核实并标注于正文；"皂苷"未单独核验。
+
+剩余说明：复食节奏示例与松针维 C 效力涉及医学与效力判断，未获权威定量来源，保持待核验；正文相关段落已自带观察刹车（出现心慌、水肿、意识模糊立即减量并求医）。

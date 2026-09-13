@@ -28,8 +28,8 @@
 
 ## 交叉引用
 
-- 地质背景（地貌找水找矿的"从哪找"）：../11_science/09_geology_landforms.md（待写）
-- 天气判断（识别能力的气象分支）：../11_science/08_weather_climate.md（待写）
+- 地质背景（地貌找水找矿的"从哪找"）：[地质与地貌](../11_science/09_geology_landforms.md)
+- 天气判断（识别能力的气象分支）：[天气与气候](../11_science/08_weather_climate.md)
 - 可食性测试的完整流程与食物获取：../03_food/05_foraging_hunting.md
 - 石料打制成工具：../07_tools/01_stone_tools.md；黏土烧成陶器：../09_materials/06_pottery.md；矿石冶炼：../09_materials/12_metallurgy_copper.md、13_metallurgy_iron.md
 - 有毒接触/误食的医学后果：../05_health/01_first_aid_basics.md、../05_health/04_common_illness.md

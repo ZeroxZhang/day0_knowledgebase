@@ -111,7 +111,7 @@
 
 - 先决依赖：[作物种植基础](../08_production/02_crop_basics.md)、[粮仓与储粮](../03_food/08_granary_basics.md)（盈余）、[群体组织与分工](01_group_basics.md)（分工的雏形）。
 - 后续应用：[交换与货币](08_trade_money.md)（产出的交换）、[治理基础](09_governance_basics.md)（公共职位）、[教育体系](../12_knowledge/05_education_system.md)（匠人再生产）、[印刷](../12_knowledge/04_printing_basics.md)（专职刻工印工）。
-- 原理：比较优势理论（为何分工对双方都有利）属经济学常识层，深化列进阶待写。
+- 原理：比较优势理论（为何分工对双方都有利）属经济学常识层，深化列为进阶主题。
 
 ## 来源与待核验项
 

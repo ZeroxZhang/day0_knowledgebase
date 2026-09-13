@@ -12,7 +12,10 @@
 - [感染预防与个人卫生](03_infection_prevention.md)
 - [常见病症识别与照护](04_common_illness.md)
 
-### 进阶（待整理）
+### 进阶（按需整理，不排期）
+
+> 复核（2026-09-12）：公共卫生基础已由 [长期无医疗体系的公共卫生](07_public_health_rebuild.md) 承接；心理健康判断与处置见 14_medicine/09_neuro_mental.md；长期照护制度见 14_medicine/12_care_system_rebuild.md；慢性病管理按需不排期。
+
 - 公共卫生基础（疫情应对、隔离原理）（public_health_basics.md）
 - 慢性病管理与用药知识（chronic_care.md）
 - 长期照护（卧床、老人、产妇）（longterm_care.md）

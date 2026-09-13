@@ -29,9 +29,9 @@
 
 | 域 | 已写 | 待写（下一批） |
 | --- | --- | --- |
-| 14_medicine 基础医学（参考默沙东诊疗手册专业版；与 05_health 分工：05 动作导向、14 判断导向）——**全 12 篇完成** | ✓ 01_body_systems、✓ 02_symptom_assessment、✓ 03_infectious_diseases、✓ 04_digestive_diseases、✓ 05_respiratory_diseases、✓ 06_cardiovascular_blood、✓ 07_skin_soft_tissue、✓ 08_musculoskeletal、✓ 09_neuro_mental、✓ 10_endocrine_metabolic、✓ 11_toxicology_envenom、✓ 12_care_system_rebuild（照护体系为领域收官综述） | — |
+| 14_medicine 基础医学（参考默沙东诊疗手册专业版；与 05_health 分工：05 动作导向、14 判断导向）——**全 13 篇完成** | ✓ 01_body_systems、✓ 02_symptom_assessment、✓ 03_infectious_diseases、✓ 04_digestive_diseases、✓ 05_respiratory_diseases、✓ 06_cardiovascular_blood、✓ 07_skin_soft_tissue、✓ 08_musculoskeletal、✓ 09_neuro_mental、✓ 10_endocrine_metabolic、✓ 11_toxicology_envenom、✓ 12_care_system_rebuild（照护体系为领域收官综述）、✓ 13_sense_organs_ent（牙耳眼鼻急症，补完批） | — |
 | 15_history 人类历史（每篇落到"对重建者的启示"）——**全 10 篇完成** | ✓ 01_human_origins、✓ 02_agricultural_revolution、✓ 03_first_civilizations、✓ 04_bronze_iron_ages、✓ 05_classical_axial、✓ 06_medieval_world、✓ 07_science_revolution、✓ 08_industrial_revolution、✓ 09_modern_era、✓ 10_collapse_resilience（崩溃与复原规律为领域收官综述） | — |
-| 16_geography 全球地理（落到选址与资源决策）——**全 9 篇完成** | ✓ 01_earth_basics、✓ 02_climate_biomes、✓ 03_continents_archive、✓ 04_oceans_coasts、✓ 05_rivers_lakes、✓ 06_mountains_plains、✓ 07_resources_map、✓ 08_maps_cartography、✓ 09_region_survey（踏勘方法为领域收官） | — |
+| 16_geography 全球地理（落到选址与资源决策）——**全 10 篇完成** | ✓ 01_earth_basics、✓ 02_climate_biomes、✓ 03_continents_archive、✓ 04_oceans_coasts、✓ 05_rivers_lakes、✓ 06_mountains_plains、✓ 07_resources_map、✓ 08_maps_cartography、✓ 09_region_survey（踏勘方法为领域收官）、✓ 10_extreme_weather_climate（极端天气与气候波动，补完批） | — |
 
 ## 技术树总览（阶段 × 关键节点）
 
@@ -44,7 +44,8 @@
 | 火 | 摩擦取火、火种保存、引火物 | ✓ 01_fire_making.md |
 | 水 | 判水、沉淀过滤、煮沸 | ✓ 04_water_purification.md（应急视角，可复用）、✓ 01_water_from_scratch.md |
 | 避难 | 选址、枝叶棚、保温 | ✓ 01_shelter_basics.md、✓ 02_thermal_insulation.md |
-| 食物 | 可食植物辨认原则、渔猎采集入门 | ✓ 05_foraging_hunting.md |
+| 照明 | 油灯、蜡烛、火把与室内用火纪律 | ✓ 01_energy/12_lighting_basics.md |
+| 食物 | 可食植物辨认原则、渔猎采集入门、肉鱼保存 | ✓ 05_foraging_hunting.md、✓ 03_food/09_food_preservation.md（肉与鱼的保存） |
 | 伤 | 止血、伤口清洗、固定 | ✓ 01_first_aid_basics.md、02_wound_care.md |
 
 ### 阶段 1 工具与容器（数月）
@@ -54,7 +55,7 @@
 | 节点 | 关键知识 | 文章 |
 | --- | --- | --- |
 | 石器 | 打制原理、刃口修复、石斧石刀（石料辨认见根基层 07_rock_id） | ✓ 01_stone_tools.md |
-| 纤维 | 植物纤维获取、搓绳、原始织造 | ✓ 03_cordage_knots.md（补从零路径）、✓ 04_plant_fiber_textile.md |
+| 纤维 | 植物纤维获取、搓绳、原始织造、织布与纺纱 | ✓ 03_cordage_knots.md（补从零路径）、✓ 04_plant_fiber_textile.md、✓ 09_materials/15_loom_weaving.md（织机织布）、✓ 09_materials/16_animal_fiber_spinning.md（动物纤维纺纱）、✓ 09_materials/17_sewing_clothing.md（缝纫制衣） |
 | 陶器 | 黏土筛选、捏塑/泥条、烧制、防渗 | ✓ 06_pottery.md |
 | 木器 | 石器加工木材、榫卯与绑扎 | ✓ 01_wood.md、✓ 06_woodworking_primitive.md |
 | 皮革 | 鞣制基础 | ✓ 05_tanning_basics.md |
@@ -65,10 +66,10 @@
 
 | 节点 | 关键知识 | 文章 |
 | --- | --- | --- |
-| 种植 | 从采集到播种、选种、轮作 | ✓ 02_crop_basics.md、✓ 01_soil_basics.md、✓ 04_seed_basics.md、✓ 05_domestication_basics.md |
-| 灌溉 | 重力引水、沟渠、提水 | ✓ 06_irrigation_basics.md |
+| 种植 | 从采集到播种、选种、轮作、农具与役畜 | ✓ 02_crop_basics.md、✓ 01_soil_basics.md、✓ 04_seed_basics.md、✓ 05_domestication_basics.md、✓ 08_production/09_farm_tools_draft_animals.md（农具役畜） |
+| 灌溉 | 重力引水、沟渠、提水 | ✓ 06_irrigation_basics.md；✓ 02_water/08_well_water_systems.md（打井与家庭供水） |
 | 储粮 | 防潮防鼠、窖藏 | ✓ 02_food_storage.md、✓ 08_granary_basics.md |
-| 畜养 | 驯养犬鸡猪羊牛的次序 | ✓ 07_small_livestock.md |
+| 畜养 | 驯养犬鸡猪羊牛的次序、乳畜产品加工 | ✓ 07_small_livestock.md、✓ 08_production/08_dairy_processing.md（乳畜加工） |
 | 盐 | 从海水/咸水/岩盐获取盐 | ✓ 06_salt_acquisition.md |
 
 ### 阶段 3 材料革命（数年～数十年）
@@ -77,7 +78,7 @@
 
 | 节点 | 关键知识 | 文章 |
 | --- | --- | --- |
-| 燃料 | 木炭窑建造与烧炭 | ✓ 07_charcoal_kiln.md |
+| 燃料 | 木炭窑建造与烧炭、柴火管理 | ✓ 07_charcoal_kiln.md、✓ 01_energy/13_biomass_fuel.md（生物质燃料） |
 | 建筑 | 石灰烧制、砂浆、土坯 | ✓ 08_lime_mortar.md、✓ 06_earth_building.md |
 | 冶金 | 铜矿识别、坩埚炉、铸造 → 铁矿、块炼铁、锻打淬火（矿石辨认细化见根基层 08_mineral_ore_id） | ✓ 12_metallurgy_copper.md、✓ 13_metallurgy_iron.md |
 | 玻璃 | 石英砂+碱高温熔制 | ✓ 09_glassmaking_basics.md |
@@ -102,12 +103,12 @@
 | 节点 | 关键知识 | 文章 |
 | --- | --- | --- |
 | 文字 | 记事符号到表意文字 | ✓ 01_writing_basics.md |
-| 介质 | 纸浆造纸、墨与笔 | ✓ 02_papermaking.md、✓ 03_ink_and_pen.md |
+| 介质 | 纸浆造纸、墨与笔、图示与记录 | ✓ 02_papermaking.md、✓ 03_ink_and_pen.md、✓ 12_knowledge/07_diagrams_records.md（图示与记录规范） |
 | 印刷 | 雕版到活字 | ✓ 04_printing_basics.md |
-| 制度 | 历法制定、度量衡统一、交换与货币 | ✓ 07_calendar_basics.md、✓ 06_measure_standards.md、✓ 08_trade_money.md、✓ 09_governance_basics.md、✓ 05_specialization_basics.md |
+| 制度 | 历法制定、度量衡统一、交换与货币、防御 | ✓ 07_calendar_basics.md、✓ 06_measure_standards.md、✓ 08_trade_money.md、✓ 09_governance_basics.md、✓ 05_specialization_basics.md、✓ 10_cooperation/10_defense_intergroup.md（防御与群体间关系） |
 | 电力 | 伏打电堆、电磁感应、电报 → 无线电 | ✓ 01_radio_basics.md、✓ 07_primitive_electricity.md、✓ 06_telegraph_basics.md |
 | 医疗 | 助产、草药（证据边界）、流行病应对 | ✓ 05_midwifery_basics.md、✓ 06_herbal_medicine_boundaries.md、✓ 07_public_health_rebuild.md |
-| 科学 | 几何测量、科学方法 | ✓ 10_geometry_basics.md、✓ 11_scientific_method.md（属 11_science，支撑全库） |
+| 科学 | 几何测量、概率统计、科学方法 | ✓ 10_geometry_basics.md、✓ 11_scientific_method.md、✓ 12_probability_statistics.md（属 11_science，支撑全库） |
 
 ## 阅读路径建议（按使用场景）
 

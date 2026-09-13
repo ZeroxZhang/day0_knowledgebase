@@ -23,7 +23,7 @@
   1. 摩擦取火——两类原理：
      - **钻木取火（hand drill / bow drill）**：旋转木棒与底板摩擦，产生的木粉受热至冒烟，聚成火堆（ember）后转入火绒束吹燃。弓钻（bow drill）用弓弦缠绕钻杆，省力且转速高，是最实用的原始方法。
      - **火犁/火锯**：硬木棒在软木槽内犁磨或锯磨出火粉，效率低于弓钻。
-  2. 打石取火——燧石/石英/玛瑙等高硅岩石相互敲击只能打出火花但极难点燃天然火绒，需要配合碳化火绒（char cloth）或干菌（火绒菌 amadou）；真正的"火镰打火石"是铁片击燧石产生铁屑火星，同样依赖碳化火绒。**没有铁之前，打石取火不可靠，摩擦取火是主路径。**
+  2. 打石取火——燧石/石英/玛瑙等高硅岩石相互敲击只能打出火花但极难点燃天然火绒，需要配合碳化火绒（char cloth）或干菌（火绒菌 amadou）；真正的"火镰打火石"是铁片击燧石产生铁屑火星，同样依赖碳化火绒。**没有铁之前，打石取火并不可靠（考古已发现约 5 万年前用燧石击黄铁矿/白铁矿取火的证据，火花需引燃火绒菌类火绒，但黄铁矿并非处处可得），摩擦取火是主路径（已核对：Science News/Science Museum）。**
   3. 阳光聚焦变体（应急备用）：凸透镜（老花镜片、放大镜、相机镜头）或抛光的金属凹面把阳光聚成一个芝麻大的亮点，照在火绒上几十秒到几分钟出烟成 ember（待核验时长）——只在晴天有效，阴天完全无效；极地历史记载还有磨凸冰块当透镜的做法，成功率低，仅作知识备选。
 - **摩擦生热的物理**：功率 = 摩擦系数 × 压力 × 相对速度。压力要够（钻杆不晃）、速度要够（弓全程满行程）、材料要对（同种干硬木组不易成，"硬木钻软木板"或同属干木材易成炭粉）。
 
@@ -70,7 +70,7 @@
 实用变体（应急与定居场景）：
 
 - 变体一：灰烬养火法——晚间把整堆炭拨拢埋入厚灰，中心留一粒 ember，次日扒开吹旺即可；比重新摩擦取火省力百倍，是定居点的默认做法，摩擦取火只在火塘彻底灭后使用。
-- 变体二：火种罐携带——陶罐/铁盒底层铺灰、中间放 ember、上层填干苔藓，盖上留气孔，可携带数小时（待核验）；到新营地开罐，倒出 ember 吹入火绒即得火。
+- 变体二：火种罐携带——陶罐/铁盒底层铺灰、中间放 ember、上层填干苔藓，盖上留气孔，可携带数小时（已核对：The Art of Manliness〈How to Carry Fire〉，火种载体口径即为维持 ember 数小时）；到新营地开罐，倒出 ember 吹入火绒即得火。
 
 ## 常见错误与限制
 
@@ -111,11 +111,19 @@
 
 本文为模型通识整理，编写时未逐项比对外部资料。可靠参考入口：野外生存教材（bow drill 套件制作章节）、考古学与民族学资料（史前取火方式复原）、荒野技能实践社群公开教程。
 
-待核验项：木材软硬搭配经验（杨/柳/雪松组合）；炭布制作细节；火种携带时长（骨管/苔藓包裹数小时）；打石取火必须配合碳化火绒的表述；文中所有时长与尺寸均为量级经验值。
+已核对子项（2026-09-12，检索日期 2026-09-12）：
 
-扩写新增待核验项：
+1. 木材软硬搭配经验（杨/柳/雪松组合）——✓ 正文口径成立。Willow Haven Outdoor《Best Wood for Bow Drill》（https://willowhavenoutdoor.com/best-wood-for-bow-drill-how-to-choose-the-perfect-wood-for-your-friction-fire-bow-drill-kit/）、Backcountry Survival UK《Woods for Friction Fire》（https://www.backcountrysurvival.co.uk/2018/06/19/woods-friction-fire/）：杨/雪松/白杨/椴木类软直纹木为共识首选，软杆软板同材或近似硬度最稳，硬杆配软板亦为可行组合——与正文一致。
+2. 打石取火必须配合碳化火绒/干菌的表述——✓ 口径成立，"没有铁之前"已按证据加限定。Science News（https://www.sciencenews.org/article/neandertal-fire-making-tools-flint-iron）：约 5 万年前已确认燧石击黄铁矿取火的考古证据；Science Museum《Ways of Catching a Spark》（https://www.sciencemuseum.org.uk/objects-and-stories/ways-catching-spark-history-fire-making-methods）：火花只能引燃火绒菌（amadou，Fomes fomentarius）类火绒，Ötzi 随身火种即含真菌火绒。
+3. 火种携带时长（骨管/苔藓包裹数小时）——✓ 口径成立。The Art of Manliness《How to Carry Fire》（https://www.artofmanliness.com/skills/survival/how-to-carry-fire/）：火种载体的设计目标即为途中维持 ember 数小时；火种罐分层做法与之同源。
+4. 灰烬养火过夜的成功率与留 ember 的埋法细节——✓ 口径成立。Hunker《How to Bank Ashes in Fireplaces》（https://www.hunker.com/12001523/how-to-bank-ashes-in-fireplaces/）：炭堆覆灰缓燃、清晨扒灰复燃（banking）为通行做法，可维持数小时至过夜；覆灰厚度等具体参数仍属量级经验值。
+
+待核验项（余）：
+
+- 炭布制作细节。
+- 文中所有时长与尺寸均为量级经验值（总项，未逐条核验）。
+
+扩写新增待核验项（余）：
 
 - 阳光聚焦取火的聚光材料与出烟时长。
 - 承窝摩擦过热（冒白烟）现象与蜡/油润滑处理经验。
-- 灰烬养火过夜的成功率与留 ember 的埋法细节。
-- 火种罐（灰+ember+苔藓分层）的有效携带时长。

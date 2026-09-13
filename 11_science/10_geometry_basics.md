@@ -103,7 +103,7 @@
 - 长度、面积、体积单位与无计量估算：[单位与计量](03_units_measurement.md)
 - 群体层面的度量衡统一（几何数据跨人可比的制度前提）：[度量衡标准](../10_cooperation/06_measure_standards.md)
 - 绳索制作与结：[绳索与结](../09_materials/03_cordage_knots.md)
-- 引水工程中的抄平应用：06_irrigation_basics.md（待写）
+- 引水工程中的抄平应用：[灌溉工程基础](../08_production/06_irrigation_basics.md)
 - 绘图记录与符号系统：[文字与书写系统](../12_knowledge/01_writing_basics.md)
 - 历法与天文学的观测基础：[天文基础](07_astronomy_basics.md)
 - 路线图定位：../00_roadmap.md

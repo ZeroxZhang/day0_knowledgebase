@@ -14,22 +14,22 @@
 | --- | --- | --- |
 | 00 路线图 | [00_roadmap.md](00_roadmap.md) | 技术树：阶段、依赖链、文章登记 |
 | 00 使用指南 | [00_使用指南.md](00_使用指南.md) | 三种读法、阶段达标自测清单、应急速查索引 |
-| 01 能源与火 | [README](01_energy/README.md) | 摩擦取火 → 生物质燃料 → 水轮风车 → 蒸汽 → 从零电力 |
-| 02 水与卫生 | [README](02_water/README.md) | 无装备找水净水 → 蒸馏 |
-| 03 食物与营养 | [README](03_food/README.md) | 采集渔猎 → 盐糖油脂 → 储粮窖藏 |
+| 01 能源与火 | [README](01_energy/README.md) | 摩擦取火 → 生物质燃料与照明 → 水轮风车 → 蒸汽 → 从零电力 |
+| 02 水与卫生 | [README](02_water/README.md) | 无装备找水净水 → 打井与家庭供水 → 蒸馏 |
+| 03 食物与营养 | [README](03_food/README.md) | 采集渔猎 → 盐糖油脂 → 肉鱼保存 → 储粮窖藏 |
 | 04 居住与环境 | [README](04_shelter/README.md) | 土坯夯土 → 窑炉热工 |
 | 05 急救与健康 | [README](05_health/README.md) | 助产 → 草药证据边界 → 无医疗体系公共卫生 |
 | 06 通信与导航 | [README](06_comms/README.md) | 原始信号系统 → 电报 |
 | 07 工具与维修 | [README](07_tools/README.md) | 石器打制 → 原始木工 → 简易机床 |
-| 08 农业与生产 | [README](08_production/README.md) | 驯化 → 灌溉工程 |
-| 09 材料与工艺 | [README](09_materials/README.md) | 陶器 → 鞣革 → 木炭 → 石灰 → 铜铁冶金 → 玻璃 → 制皂 |
-| 10 协作与文明 | [README](10_cooperation/README.md) | 分工专业化 → 度量衡 → 历法 → 货币 → 治理 |
-| 11 基础科学 | [README](11_science/README.md) | 物质与元素、数与算术（根基层）→ 天文 → 几何测量 → 科学方法 |
-| 12 文字与知识传承 | [README](12_knowledge/README.md) | 文字 → 造纸 → 印刷 → 教育 → 记录保存 |
+| 08 农业与生产 | [README](08_production/README.md) | 驯化 → 农具役畜 → 乳畜加工 → 灌溉工程 |
+| 09 材料与工艺 | [README](09_materials/README.md) | 陶器 → 鞣革 → 织机与缝纫 → 木炭 → 石灰 → 铜铁冶金 → 玻璃 → 制皂 |
+| 10 协作与文明 | [README](10_cooperation/README.md) | 分工专业化 → 度量衡 → 历法 → 货币 → 治理 → 防御 |
+| 11 基础科学 | [README](11_science/README.md) | 物质与元素、数与算术（根基层）→ 天文 → 几何测量 → 概率统计 → 科学方法 |
+| 12 文字与知识传承 | [README](12_knowledge/README.md) | 文字 → 造纸 → 印刷 → 教育 → 记录保存 → 图示规范 |
 | 13 野外识别 | [README](13_field_guide/README.md) | 识别方法论 → 植物（可食/剧毒/蘑菇）→ 动物（追踪/危险）→ 岩石矿物 → 黏土土壤 → 木材纤维 |
-| 14 基础医学 | [README](14_medicine/README.md) | 人体生理 → 症状评估 → 感染病与各系统常见病 → 无医条件照护（参考默沙东诊疗手册专业版） |
+| 14 基础医学 | [README](14_medicine/README.md) | 人体生理 → 症状评估 → 感染病与各系统常见病 → 无医条件照护 → 牙耳眼鼻急症（参考默沙东诊疗手册专业版） |
 | 15 人类历史 | [README](15_history/README.md) | 起源 → 农业革命 → 早期文明 → 青铜铁器 → 科学革命 → 工业革命 → 崩溃与复原规律 |
-| 16 全球地理 | [README](16_geography/README.md) | 地球与坐标 → 气候带与生存环境 → 大洲档案 → 海洋海岸 → 资源分布 → 区域踏勘 |
+| 16 全球地理 | [README](16_geography/README.md) | 地球与坐标 → 气候带与生存环境 → 大洲档案 → 海洋海岸 → 资源分布 → 区域踏勘 → 极端天气 |
 
 ## 阅读顺序建议
 

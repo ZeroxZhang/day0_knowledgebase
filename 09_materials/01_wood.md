@@ -176,13 +176,17 @@
 本文为模型通识整理，编写时未逐项比对外部资料。
 可参考的可靠入口：木工工艺与家具设计教材（含水率、各向异性与连接章节）、《木材学》类教材（干燥收缩与力学性能章节）、常见五金连接件的厂家技术说明。
 
+已核对子项（2026-09-12）：
+
+1. 剪钝钉尖减少劈裂：口径成立。Fine Homebuilding 论坛"Blunt end of the nail"（https://www.finehomebuilding.com/forum/blunt-end-of-the-nail）、MyToolKit"Eliminate Wood Splitting with Blunt Nails"（https://mytoolkit.co.uk/blogs/blog/how-do-blunt-nails-prevent-wood-splitting）：钝尖钉以压碎纤维方式穿入而非楔开纤维，适用于板端、硬木与易裂旧料；文献同时提示钝钉锤击更费力、握持力略降，长钉密木宜保留尖钉（本文未述及，不构成矛盾）。
+2. 白乳胶粘接强度"强于木材本身"：口径成立。Titebond 官方"The Big Three"（https://www.titebond.com/community/the-big-three）：三型主配方均为"much stronger bond than the wood itself"；边界条件为长纹面—长纹面密配合，端面对接不成立，与本文"受力或潮湿部位配合机械连接"的用法一致。
+3. 螺丝导孔直径约等于芯径：口径成立。Woodbin"Wood Screw Pilot Holes"（https://woodbin.com/doc/wood-screw-pilot-holes/）、Bolt Depot 导孔表（https://boltdepot.com/Fastener-Information/Wood-Screws/Wood-Screw-Pilot-Hole-Size）、L-36.com（https://l-36.com/woodscrewpilot.php）：硬木导孔取螺纹根径（芯径）约 90%～100%，软木约 70%；"比外径细一至两毫米"仅对中等规格螺丝大致成立，小规格差距不足 1 mm，按"取芯径"执行即可。
+4. 端头裂纹预判："端头裂了多长，内部大致就裂了多长"未检索到支持该等长对应关系的通用准则，判定为未获支持、保留待核验。相关文献：OSU Extension EM 8612（https://extension.oregonstate.edu/catalog/em-8612-air-shed-drying-lumber）、SPIB Blog（https://blog.spib.org/shakes-checks-and-splits-in-dimension-lumber/）说明端裂成因与端部集中性；AAW 论坛经验（https://www.aawforum.org/community/threads/cut-off-the-checked-ends-or-seal.9714/）为切除应超出可见端裂（常见数厘米，个别达 8～10 cm）。"超过料长十分之一避开承重"的保守线仍可用。
+
 待核验项：
 - 各方向强度"顺纹远高于横纹"的定性结论方向正确，但具体倍数未查证，本文有意不给具体数字。
-- 剪钝钉尖减少劈裂的做法需实验或资料确认有效性与适用范围。
-- 白乳胶粘接强度"强于木材本身"的表述及耐水耐热边界条件需核对产品技术资料。
 - 自然风干所需时间范围随树种、厚度、气候差异极大，未查证具体区间。
 - "敲击听声判断干湿"的经验做法在厚料和含水率接近平衡的木料上区分度有限，实际应用价值需验证。
 - 简单结构搭法中"横梁搭在立柱顶面优于侧面挂接、三角形加斜撑"为一般性结构常识，具体受力分析未核对结构类教材。
-- （扩写新增）螺丝导孔直径"约等于芯径、比外径细一至两毫米"为经验量级，未对照木工手册。
 - （扩写新增）钉接边距"钉径十倍以上、离端头三厘米以上"、隔条厚度"2～3 厘米"为经验量级，未查证。
-- （扩写新增）"端头裂纹长度近似等于内部裂纹深度"的预判说法未查证，仅作选料保守参考。
+- （扩写新增）"端头裂纹长度近似等于内部裂纹深度"的预判说法未查证，仅作选料保守参考。（2026-09-12 查证未获通用准则支持，见已核对子项 4）

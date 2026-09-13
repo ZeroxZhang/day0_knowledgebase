@@ -27,10 +27,10 @@
 
 ### 人体的产热与失温（零基础生理课）
 
-- 静息产热约 80～100 W（一只亮白炽灯的量级，待核验）——这就是为什么"合身的小房间"比"大屋子"容易暖：你的身体就是那个房间的取暖器；
-- **核心体温降到 35 ℃ 以下即为失温**——先兆是持续寒战、手脚僵麻、动作笨拙、言语含糊；寒战停止反而可能是加重信号（急救见 [基础急救流程](../05_health/01_first_aid_basics.md)）；
+- 静息产热约 80～100 W（一只亮白炽灯的量级；已核对：静息人体产热约 80 W——ScienceDirect/Wikipedia）——这就是为什么"合身的小房间"比"大屋子"容易暖：你的身体就是那个房间的取暖器；
+- **核心体温降到 35 ℃ 以下即为失温**（已核对：Mayo Clinic、NHS——低于 35℃/95℉）——先兆是持续寒战、手脚僵麻、动作笨拙、言语含糊；寒战停止反而可能是加重信号（急救见 [基础急救流程](../05_health/01_first_aid_basics.md)）；
 - **风寒效应**：风把体表暖空气层吹走，体感温度远低于温度计读数——同一温度，有风与无风是两种危险等级；
-- **湿衣是杀手**：水的导热能力是干燥空气的数十倍（待核验倍数）——湿衣服贴身等于把传导散热开到最大。"保持干燥"与"挡风"同等重要。
+- **湿衣是杀手**：水的导热能力约为干燥空气的 25 倍（已核对：Princeton Outdoor Action——25 倍；Minnesota Sea Grant——至少 24 倍）——湿衣服贴身等于把传导散热开到最大。"保持干燥"与"挡风"同等重要。
 
 室内自测体温的土办法（扩写新增）：不测体温时看行为——
 字写得歪、扣扣子扣不准、说话变慢，已是轻度失温的行为征兆，立即加衣、加热饮、离开最冷处。
@@ -115,6 +115,12 @@
 
 本文为模型通识整理，编写时未逐项比对外部资料，状态"待核验"。可靠参考入口：建筑节能类公开教材（窗户与缝隙失热占比）、CDC/WHO 极寒天气健康提示、纺织品保暖分层原理资料。
 
-待核验项：塑料膜贴窗的节能比例；湿衣导热倍数；人体静息产热 80～100 W；热水瓶保温时长；"摸后颈判断冷暖"的可靠性。
+已核对子项（2026-09-12）：
+
+1. 失温定义（核心体温 <35℃）——成立。来源：Mayo Clinic《Hypothermia - Symptoms and causes》，https://www.mayoclinic.org/diseases-conditions/hypothermia/symptoms-causes/syc-20352682 ；NHS《Hypothermia》，https://www.nhs.uk/conditions/hypothermia/ ；轻度 32～35℃ 分级见 StatPearls，https://www.ncbi.nlm.nih.gov/books/NBK545239/ 。检索日期 2026-09-12。
+2. 人体静息产热 80～100 W——成立：静息成人产热约 80 W（约 50 W/m² 体表），基础代谢约 80 W；按 BMR 1300～1800 kcal/日换算亦吻合。来源：ScienceDirect《Metabolic Heat Production》，https://www.sciencedirect.com/topics/engineering/metabolic-heat-production ；Wikipedia《Human power》，https://en.wikipedia.org/wiki/Human_power ；StatPearls《Biochemistry, Heat and Calories》，https://www.ncbi.nlm.nih.gov/books/NBK538294/ 。检索日期 2026-09-12。
+3. 湿衣导热倍数——成立并精确化：正文"数十倍（待核验倍数）"改为"约 25 倍"。水导热带走体热约为同温空气的 25 倍（另一来源口径"至少 24 倍"）。来源：Princeton Outdoor Action Guide to Hypothermia & Cold Weather Injuries，https://www.princeton.edu/~oa/safety/hypocold.shtml ；Minnesota Sea Grant《Hypothermia: Understanding and Prevention》，https://seagrant.umn.edu/programs/recreation-and-water-safety-program/hypothermia 。检索日期 2026-09-12。
+
+待核验项：塑料膜贴窗的节能比例；热水瓶保温时长；"摸后颈判断冷暖"的可靠性。
 
 扩写新增待核验项：手背找漏点与蜡烛测风法；保留通风口"一块砖"面积与低位口径；热砖垫被的温度上限与烫伤风险；应急毯铝面朝内原理表述；塑料袋防风壳的闷汗风险与"睡前脱壳"口径；双层膜门帘层间距 2～3 cm；脚端热水瓶＋垫层加倍的组合口径。

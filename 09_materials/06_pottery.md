@@ -74,7 +74,7 @@
    - 火候操作细节：点燃后头半小时只留小火（烟从缝里冒、不见大苗），之后逐次添柴加大——判断"够火"：堆缝透出的火色为亮橙偏黄且持续一炷香时间（约半小时）以上。
    - 守火分工：一专人看火添柴不离开——坑烧中途火塌了无人续，等于白烧一窑。
    - 燃柴准备：干柴按粗细分两堆（引火细枝+主燃段柴），一次备足全窑用量——中途现找柴必误火候。
-6. **升级（阶段 3，陶窑）**：垒窑室+火膛+烟道，隔焰烧制，火度更高更匀（窑炉建造 05_kiln_construction.md 与木炭窑 07_charcoal_kiln.md 均为待写文章，见 [00_roadmap](../00_roadmap.md)）。
+6. **升级（阶段 3，陶窑）**：垒窑室+火膛+烟道，隔焰烧制，火度更高更匀（见 [窑炉建造](../04_shelter/05_kiln_construction.md) 与 [木炭窑](../09_materials/07_charcoal_kiln.md)）。
 7. **检器**：轻叩声脆为烧结良好，声闷可能夹生；装水静置观察渗漏，渗漏可再烧一次或内壁涂树脂/蜂蜡。
    - 补充判废三查：一查裂纹（对光看透缝）；二查白芯（破口断面发白=夹生，可复烧）；三查石灰点（器面白色凸点日后会"开花"，剔除不用）。
 8. **炊煮器特例**：煮食用的陶罐比碗更怕裂，三项额外要求——壁要厚薄均匀（不追求薄）、底要圆缓（平底尖角易裂）、掺熟料比例取上限（1/3）；罐底架在灶膛的三块石头上架空烧，火焰从四周上包，受热最匀。
@@ -83,7 +83,7 @@
 
 应急场景中陶器知识用于：自制花盆、陶滤水器（陶土掺锯末烧成渗滤缸，配合 [饮用水净化](../02_water/04_water_purification.md)）、地下储粮罐（防鼠防潮）。
 
-- 场景示例一（滤水缸）：粗坯掺约 1/3 锯末（烧尽后留出微孔），烧成后缸内垫砂炭分层——出水每分钟数滴为合格流速，快了说明孔太大不滤。
+- 场景示例一（滤水缸）：粗坯掺约 1/3～1/2 锯末（体积比；标准陶滤配方黏土与锯末接近 1:1，已核对：Potters Without Borders），烧尽后留出微孔，烧成后缸内垫砂炭分层——以标准陶滤罐口径，出水每小时 1～2 升为合格流速（已核对：Potters Without Borders/WEDC），快了说明孔太大不滤。
   - 锯末选择：细锯末（木工刨花的碎屑）比粗刨花好；掺前混湿闷一夜，混入更匀。
 - 场景示例二（储粮罐）：小口厚壁罐+盖，内壁涂蜡防潮；埋半截入土背阴处，土是天然恒温层——防鼠防潮双效。
   - 口封检查：盖沿糊一圈掺毛/草筋的泥浆封死（可随时打开重封）——粮罐封得住老鼠就进不去。
@@ -109,7 +109,7 @@
 ## 延伸与关联
 
 - 先决依赖：[摩擦取火与火种管理](../01_energy/01_fire_making.md)（火源）、[石器打制与原始工具](../07_tools/01_stone_tools.md)（修坯的刮具）、绳索（见 [绳索与绳结](03_cordage_knots.md)）。
-- 后续应用：[饮用水净化](../02_water/04_water_purification.md)（煮沸容器）、盐的获取（06_salt_acquisition.md 待写，熬盐锅）、石灰与砂浆（08_lime_mortar.md 待写，石灰窑同源）、铜的冶炼（12_metallurgy_copper.md 待写，坩埚与铸模）、造纸（../12_knowledge/02_papermaking.md 待写，捣浆与抄纸帘的间接支撑）。待写文章均在 [00_roadmap](../00_roadmap.md) 登记。
+- 后续应用：[饮用水净化](../02_water/04_water_purification.md)（煮沸容器）、盐的获取（[盐的获取](../03_food/06_salt_acquisition.md)，熬盐锅）、石灰与砂浆（[石灰与砂浆](08_lime_mortar.md)，石灰窑同源）、铜的冶炼（[铜的冶炼](12_metallurgy_copper.md)，坩埚与铸模）、造纸（[造纸](../12_knowledge/02_papermaking.md)，捣浆与抄纸帘的间接支撑）。
 - 原理深化：烧结与相变见 [化学基础](../11_science/05_chemistry_basics.md)、热工原理见 [物理基础](../11_science/04_physics_basics.md)。
 - 修复与拼接：裂而未散的器物可用湿泥补缝后复烧一次；断了的两块用黏土浆接合复烧（成功率低，宁可新做）——陶器是消耗品，"会做"永远比"会修"重要。
 
@@ -117,6 +117,13 @@
 
 本文为模型通识整理，编写时未逐项比对外部资料。可靠参考入口：陶瓷工艺学教材（黏土矿物与烧结章节）、实验考古学（原始制陶复原研究）、陶艺手作教程（泥条盘筑工艺）。
 
-待核验项：明火堆可达温度（600～700 ℃）与陶窑温度（900 ℃+）；熟料掺入比例 1/5～1/3；米汤浸渗防渗效果；石灰爆裂机理表述；坑烧时长。
+待核验项：明火堆可达温度（600～700 ℃）与陶窑温度（900 ℃+）✓；熟料掺入比例 1/5～1/3 ✓；米汤浸渗防渗效果；石灰爆裂机理表述 ✓；坑烧时长。
 
-待核验项（扩写新增）：拇指碗验土法与贴脸试温干透判断的可靠性；泥条盘筑"半干续接"的等待时长；坑烧成品率量级（十件成三五件）；掺锯末滤水缸的流速标准（每分钟数滴）；淘洗法沉分离的静置时长；炊煮罐熟料掺 1/3 上限的合理性。
+待核验项（扩写新增）：拇指碗验土法与贴脸试温干透判断的可靠性；泥条盘筑"半干续接"的等待时长；坑烧成品率量级（十件成三五件）；掺锯末滤水缸的流速标准（每分钟数滴）✓（已修正，见下第 4 条）；淘洗法沉分离的静置时长；炊煮罐熟料掺 1/3 上限的合理性 ✓（在专家共识区间内，见下第 3 条）。
+
+已核对子项（2026-09-12）：
+
+1. 烧成温度：Maggetti 2011《Temperature evolution inside a pot during experimental firing》引 Gibson & Wood 1977 实测——明火堆烧火焰温度上限约 700～800 ℃（柴薪）；陶艺实操资料给出坑烧约 540 ℃（约 1000 ℉）起、管理好的坑火可近千度（Kate McCallum《Pit-firing pottery》，https://katemccallum.com/2022/06/23/pit-firing-pottery/ ；woodfireceramic.com 给出传统陶瓷整体 600～1300 ℃ 区间）。陶窑烧陶器（earthenware）典型约 900～1150 ℃（Hill Potters' Guild《Types of Firings》，https://hillpotters.square.site/types-of-firings）。正文"明火堆约 600～700 ℃ 可及、陶窑 900 ℃ 以上"成立。
+2. 石灰爆裂机理：Digitalfire 陶瓷技术库《Lime popping》（https://digitalfire.com/trouble/lime+popping）与 Rocky Mountain Clay《Lime pop in ceramics》——石灰石（CaCO₃）烧成氧化钙，出窑后吸收空气潮气消化为氢氧化钙体积膨胀，把釉面/器面顶出崩口，常在出窑数日后发生；颗粒越大越危险，预防靠细磨过筛剔除。正文机理与防法完全一致，成立。
+3. 熟料掺入比例：Lakeside Pottery、Pottery Crafters、Georgia Tech Ceramics 等陶艺教学口径——手工成型/雕塑用 15%～30%（大型件可至 30～40%，拉坯 0～5%）。正文"1/5～1/3（20%～33%）、炊煮罐取 1/3 上限"落在共识区间内，成立。
+4. 滤水缸锯末比例与流速：Potters Without Borders《Ceramic water filter clay and burnout proportions》（http://www.potterswithoutborders.com/category/process/clay-proportions/）——最佳配方为体积比锯末 45%、黏土 55%（Potters for Peace 系经典配方接近 1:1，见 Appropedia《Ceramic water filters》，https://www.appropedia.org/Ceramic_water_filters），合格流速 1～2 升/小时；WEDC《Current Practices in Manufacturing of Ceramic Pot Filters》2009（https://www.pseau.org/outils/ouvrages/wedc_current_practices_in_manufacturing_locally_made_ceramic_pot_filters_2009.pdf）给出可接受流速 1～5 升/小时。正文原"掺约 1/3 锯末、出水每分钟数滴"低于标准配方与流速一个量级，已最小修正为"1/3～1/2（标准近 1:1）"与"每小时 1～2 升"。

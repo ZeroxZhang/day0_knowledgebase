@@ -12,7 +12,10 @@
 - [地图判读与定位](04_maps_navigation.md)
 - [方向判定与行进](05_orientation.md)
 
-### 进阶（待整理）
+### 进阶（按需整理，不排期）
+
+> 复核（2026-09-12）：本节各项以应急视角为主，按需整理、不排期。
+
 - 天线与电波传播原理（antenna_basics.md）
 - 通信方式比较（短波/超短波/卫星/信使）（comms_methods_comparison.md）
 - 通信组织与值班规程（comms_organization.md）
