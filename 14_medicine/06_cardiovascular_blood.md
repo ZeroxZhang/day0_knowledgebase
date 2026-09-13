@@ -167,7 +167,7 @@
 - 贫血的根（钩虫/消化道失血）：[消化系统常见病](04_digestive_diseases.md)；铁的食源：[营养基础](../03_food/01_nutrition_basics.md)；食物来源安全：[食物安全](../03_food/03_food_safety.md)
 - 感染与休克的交叉判断（脓毒症 qSOFA）：[感染性疾病总论](03_infectious_diseases.md)
 - 单侧腿肿的另一个来源（丝虫性淋巴水肿在流行区）：蚊媒防护见公共卫生重建（长期无医疗体系的公共卫生篇，见 05_health 领域）
-- 长期卧床护理（翻身/踝泵/压疮）：[皮肤与软组织疾病](07_skin_soft_tissue.md)；压力与流动的物理：[物理基础](../11_science/04_physics_basics.md)
+- 长期卧床护理（翻身/踝泵/压疮）：[皮肤与软组织疾病](07_skin_soft_tissue.md)；压力与流动的物理：[流体与压强](../11_science/09_fluids_pressure.md)
 
 ## 来源与待核验项
 

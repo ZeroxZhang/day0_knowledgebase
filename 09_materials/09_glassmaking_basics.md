@@ -110,7 +110,7 @@
 - 高温窑炉与鼓风：[窑炉建造与热工基础](../04_shelter/05_kiln_construction.md)。
 - 炭的规模化生产：[木炭窑与烧炭](07_charcoal_kiln.md)。
 - 碱与盐：[salt_acquisition](../03_food/06_salt_acquisition.md)。
-- 原理层（二氧化硅、碳酸盐、助熔）：[chemistry_basics](../11_science/05_chemistry_basics.md)。
+- 原理层（二氧化硅、碳酸盐、助熔）：[chemistry_basics](../11_science/13_chemistry_basics.md)。
 - 火源：[fire_making](../01_energy/01_fire_making.md)。
 - 技术树位置：[00_roadmap](../00_roadmap.md) 阶段 3。
 

@@ -146,7 +146,7 @@
 - 检查出异常之后的动作：[基础急救流程（评估与生命支持）](../05_health/01_first_aid_basics.md)、[伤口处理与止血](../05_health/02_wound_care.md)
 - 孕产相关系统的处置：[助产与新生儿照护](../05_health/05_midwifery_basics.md)
 - 身体的物质基础（蛋白质、水、盐从哪来）：[营养基础](../03_food/01_nutrition_basics.md)、[水净化](../02_water/04_water_purification.md)
-- 理解"细胞、组织、器官"背后的生物学：[生物基础](../11_science/06_biology_basics.md)；体温与热量的物理原理：[单位与计量](../11_science/03_units_measurement.md)
+- 理解"细胞、组织、器官"背后的生物学：[生物基础](../11_science/17_biology_basics.md)；体温与热量的物理原理：[单位与计量](../11_science/03_units_measurement.md)
 - 基线与病程记录的保存方法：[图书馆与记录](../12_knowledge/06_library_records.md)
 
 ## 来源与待核验项

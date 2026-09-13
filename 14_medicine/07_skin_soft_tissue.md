@@ -156,7 +156,7 @@
 - 病原基础（细菌/真菌分类）：03 篇第 1 节；卧床者的营养配给：[营养基础](../03_food/01_nutrition_basics.md)
 - 致敏与毒性植物的识别：[剧毒植物与蘑菇](../13_field_guide/04_toxic_plants_mushrooms.md)；蜂蜇蛇咬等动物伤：[危险动物](../13_field_guide/06_dangerous_animals.md)；采集前的辨认纪律：[识别方法论](../13_field_guide/01_identification_methods.md)
 - 失温与冻伤并存的现场判断：[基础急救流程](../05_health/01_first_aid_basics.md)；烧火与高温作业的安全边界：[基础庇护所](../04_shelter/01_shelter_basics.md) 与窑炉篇（木炭烧制，见 09_materials；窑炉建造，见 04_shelter）
-- 皮肤的热传导与温度计量：[物理基础](../11_science/04_physics_basics.md)、[单位与计量](../11_science/03_units_measurement.md)
+- 皮肤的热传导与温度计量：[热与温度](../11_science/08_heat_temperature.md)、[单位与计量](../11_science/03_units_measurement.md)
 
 ## 来源与待核验项
 

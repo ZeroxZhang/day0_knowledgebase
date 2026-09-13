@@ -142,8 +142,8 @@
 - 石灰岩变石灰：../09_materials/08_lime_mortar.md；黏土变陶：../09_materials/06_pottery.md。
 - 矿物与矿石的进一步辨认（条痕异常与金属光泽的后续流程）：08_mineral_ore_id.md。
 - 黏土与土壤的辨认（从黏土岩层到可塑黏土）：[黏土与土壤](09_clay_soil_id.md)；木材纤维树脂：[木材纤维与树脂](10_wood_fiber_id.md)。
-- 地质背景（"为什么这里有这种岩层"的地貌与构造解释）：[地质与地貌](../11_science/09_geology_landforms.md)。
-- 判断纪律（多判据交叉与存疑分级）：../11_science/11_scientific_method.md。
+- 地质背景（"为什么这里有这种岩层"的地貌与构造解释）：[地质与地貌](../11_science/24_geology_landforms.md)。
+- 判断纪律（多判据交叉与存疑分级）：../11_science/25_scientific_method.md。
 - 窑炉与热工（烘试之后的煅烧环节）：../04_shelter/05_kiln_construction.md。
 
 ## 来源与待核验项

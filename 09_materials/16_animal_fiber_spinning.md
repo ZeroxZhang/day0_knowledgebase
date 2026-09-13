@@ -124,7 +124,7 @@
 ## 延伸与关联
 
 - 捻合与反向自锁的原理同源：[植物纤维获取与搓绳、原始纺织入门](04_plant_fiber_textile.md)、[绳索与绳结](03_cordage_knots.md)。
-- 洗毛的碱与皂：[草木灰制皂](10_soapmaking.md)；染毛染纱：[天然染料与染色](11_natural_dyes.md)；碱与油脂的化学：[化学基础](../11_science/05_chemistry_basics.md)。
+- 洗毛的碱与皂：[草木灰制皂](10_soapmaking.md)；染毛染纱：[天然染料与染色](11_natural_dyes.md)；碱与油脂的化学：[化学基础](../11_science/13_chemistry_basics.md)。
 - 热水与容器：[陶器制作](06_pottery.md)、[摩擦取火与火种管理](../01_energy/01_fire_making.md)。
 - 纱线的下游：织布 [织机与织布](15_loom_weaving.md)（同批新篇）；缝线与制衣 [缝纫与原始衣物](17_sewing_clothing.md)；保暖系统知识 [保温与热量保持](../04_shelter/02_thermal_insulation.md)。
 - 毛源的上游：狩猎 [采集渔猎入门](../03_food/05_foraging_hunting.md)、皮张 [鞣制皮革](05_tanning_basics.md)、畜群 [小型养殖基础](../08_production/07_small_livestock.md)；纤维植物辨认 [木材与纤维](../13_field_guide/10_wood_fiber_id.md)。

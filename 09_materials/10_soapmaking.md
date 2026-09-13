@@ -30,7 +30,7 @@
 
 ### 3. 去污原理：碱 + 油 = 皂（皂化反应）
 
-油脂分子和碱在加热下发生反应，生成两种新东西：肥皂（脂肪酸盐）和甘油。这个反应叫**皂化**。肥皂之所以能去污，是因为它的每个分子一端"亲油"（钻进油污里）、另一端"亲水"（连着水）。搓洗时，亲油端包住油污，亲水端朝外牵着水，一冲，油污就整体被水带走了。灰水本身去污能力差（碳酸钾碱性不够强、也不含皂分子），必须和油脂反应之后才有真正的肥皂。原理层面的酸碱概念见 [chemistry_basics](../11_science/05_chemistry_basics.md)。
+油脂分子和碱在加热下发生反应，生成两种新东西：肥皂（脂肪酸盐）和甘油。这个反应叫**皂化**。肥皂之所以能去污，是因为它的每个分子一端"亲油"（钻进油污里）、另一端"亲水"（连着水）。搓洗时，亲油端包住油污，亲水端朝外牵着水，一冲，油污就整体被水带走了。灰水本身去污能力差（碳酸钾碱性不够强、也不含皂分子），必须和油脂反应之后才有真正的肥皂。原理层面的酸碱概念见 [chemistry_basics](../11_science/13_chemistry_basics.md)。
 
 ### 4. 浓度判断：鸡蛋漂浮法（经典但需核验）
 
@@ -102,7 +102,7 @@
 
 - 油脂来源与炼油：[sugar_fat_sources](../03_food/07_sugar_fat_sources.md)。
 - 盐（盐析用）与盐湖碱：[salt_acquisition](../03_food/06_salt_acquisition.md)。
-- 酸碱与化学反应的原理层：[chemistry_basics](../11_science/05_chemistry_basics.md)。
+- 酸碱与化学反应的原理层：[chemistry_basics](../11_science/13_chemistry_basics.md)。
 - 烧火与灰：[fire_making](../01_energy/01_fire_making.md)；规模化燃料见 [木炭窑与烧炭](07_charcoal_kiln.md)。
 - 容器与陶器：[pottery](06_pottery.md)。
 - 本节点在技术树中的位置：[00_roadmap](../00_roadmap.md) 阶段 3。

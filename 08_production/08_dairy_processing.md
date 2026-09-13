@@ -120,7 +120,7 @@
 ## 延伸与关联
 
 - 先决依赖：[小型养殖基础](07_small_livestock.md)（奶畜的养与繁——先有产崽的母畜）、[陶器制作](../09_materials/06_pottery.md)（奶罐、搅乳器、奶酪模）、[盐的获取](../03_food/06_salt_acquisition.md)（盐渍防腐）、[饮用水净化方法](../02_water/04_water_purification.md)（煮沸原则同源）。
-- 后续应用：奶是蛋白与钙的稳定来源（[营养需求与饥饿应对](../03_food/01_nutrition_basics.md)）；黄油与奶酪是断粮期的储备（[食物储备原则与清单](../03_food/02_food_storage.md)、[食物保存方法](../03_food/09_food_preservation.md)）；乳清喂猪闭环（[小型养殖基础](07_small_livestock.md)）；微生物原理深化见 [生物基础](../11_science/06_biology_basics.md)、乳化与胶体见 [化学基础](../11_science/05_chemistry_basics.md)。
+- 后续应用：奶是蛋白与钙的稳定来源（[营养需求与饥饿应对](../03_food/01_nutrition_basics.md)）；黄油与奶酪是断粮期的储备（[食物储备原则与清单](../03_food/02_food_storage.md)、[食物保存方法](../03_food/09_food_preservation.md)）；乳清喂猪闭环（[小型养殖基础](07_small_livestock.md)）；微生物原理深化见 [生物基础](../11_science/17_biology_basics.md)、乳化与胶体见 [化学基础](../11_science/13_chemistry_basics.md)。
 - 同级并行：毛的加工属纺织线（[动物纤维与纺纱](../09_materials/16_animal_fiber_spinning.md)），与乳加工共畜不共工序。
 
 ## 来源与待核验项

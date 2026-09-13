@@ -157,7 +157,7 @@
 
 ### 4. 找矿的地貌线索（"从哪找"的三个路标）
 
-地质背景（岩层为什么会这样排布）的系统论述在 [地质与地貌](../11_science/09_geology_landforms.md)，本节只写三个走到哪都能用的路标。
+地质背景（岩层为什么会这样排布）的系统论述在 [地质与地貌](../11_science/24_geology_landforms.md)，本节只写三个走到哪都能用的路标。
 
 #### 4.1 岩脉露头
 
@@ -250,9 +250,9 @@
 - 识别的下游冶炼路线：铜 ../09_materials/12_metallurgy_copper.md；铁 ../09_materials/13_metallurgy_iron.md；石灰 ../09_materials/08_lime_mortar.md。
 - 石料的打制（石英与燧石的用途下游）：../07_tools/01_stone_tools.md。
 - 矿点安全与火的燃烧条件（缺氧判定）：../04_shelter/04_fire_safety.md。
-- 判断纪律（八步流程的假设检验结构）：../11_science/11_scientific_method.md。
+- 判断纪律（八步流程的假设检验结构）：../11_science/25_scientific_method.md。
 - 黏土与土壤的辨认（赭石彩色黏土层的衔接）：[黏土与土壤](09_clay_soil_id.md)；木材纤维树脂：[木材纤维与树脂](10_wood_fiber_id.md)。
-- 地质与地貌背景（岩脉、重砂、矿带成因）：[地质与地貌](../11_science/09_geology_landforms.md)。
+- 地质与地貌背景（岩脉、重砂、矿带成因）：[地质与地貌](../11_science/24_geology_landforms.md)。
 - 青铜时代锡贸易的历史脉络：15_history 域青铜与铁器篇（15_history 04，纯文字提及）。
 
 ## 来源与待核验项

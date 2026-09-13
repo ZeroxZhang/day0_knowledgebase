@@ -173,7 +173,7 @@
 - 支持治疗四支柱、隔离分区、热型：[感染性疾病总论](03_infectious_diseases.md)；慢性消耗的营养对策：[消化系统常见病](04_digestive_diseases.md) 与 [营养基础](../03_food/01_nutrition_basics.md)
 - 现场动作：气道梗阻倒地后的心肺复苏与体位：[基础急救流程](../05_health/01_first_aid_basics.md)；飞沫断路（洗手/口罩/消毒）：[感染预防与个人卫生](../05_health/03_infection_prevention.md)；照护节奏与记录：[常见病症识别与照护](../05_health/04_common_illness.md)；群体呼吸道疫情（检疫、通风制度）：公共卫生重建（长期无医疗体系的公共卫生篇，见 05_health 领域）
 - 烟尘的工程端（烟道、湿法、轮岗）：[木炭烧制](../09_materials/07_charcoal_kiln.md)、[窑炉建造](../04_shelter/05_kiln_construction.md)；住室通风设计：[基础庇护所](../04_shelter/01_shelter_basics.md)
-- 呼吸的物理（气压、气体扩散）：[物理基础](../11_science/04_physics_basics.md)；计数与"数满 60 秒"：[单位与计量](../11_science/03_units_measurement.md)
+- 呼吸的物理（气压、气体扩散）：[流体与压强](../11_science/09_fluids_pressure.md)；计数与"数满 60 秒"：[单位与计量](../11_science/03_units_measurement.md)
 
 ## 来源与待核验项
 

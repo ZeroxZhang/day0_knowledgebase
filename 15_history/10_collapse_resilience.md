@@ -165,7 +165,7 @@
 - 识别方法论（废墟路径的起点）：[识别方法论](../13_field_guide/01_identification_methods.md)
 - 岩石识别（建材辨认）：[岩石识别与采集](../13_field_guide/07_rock_id.md)
 - 矿物矿石识别（废墟里的矿）：[矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)
-- 科学方法（本库知识生产的自我纪律）：[科学方法](../11_science/11_scientific_method.md)
+- 科学方法（本库知识生产的自我纪律）：[科学方法](../11_science/25_scientific_method.md)
 
 ## 来源与待核验项
 

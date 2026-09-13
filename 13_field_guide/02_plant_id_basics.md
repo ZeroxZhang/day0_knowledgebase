@@ -196,7 +196,7 @@
 - 方法骨架、描述卡载体、压制法、风险标签：01_identification_methods.md。
 - 本文形态语言的应用出口：可食类群清单 03_edible_plants.md；剧毒红线与蘑菇纪律 04_toxic_plants_mushrooms.md。
 - 采食流程与通用可食性测试：../03_food/05_foraging_hunting.md；热量与营养账：../03_food/01_nutrition_basics.md；食源性疾病：../03_food/03_food_safety.md。
-- 生物学基础（分类、细胞、光合作用）：../11_science/06_biology_basics.md；乳汁与生物碱的化学原理：../11_science/05_chemistry_basics.md。
+- 生物学基础（分类、细胞、光合作用）：../11_science/17_biology_basics.md；乳汁与生物碱的化学原理：../11_science/13_chemistry_basics.md。
 - 纤维植物的辨认去向（绳索与织物原料）：../09_materials/03_cordage_knots.md 与 ../09_materials/04_plant_fiber_textile.md；观察记录的长期载体：../12_knowledge/01_writing_basics.md；位置与方位记录：../06_comms/05_orientation.md。
 
 ## 来源与待核验项

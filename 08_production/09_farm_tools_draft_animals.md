@@ -111,7 +111,7 @@
 - 先决依赖：[小型养殖基础](07_small_livestock.md) 与 [从采集到驯化](05_domestication_basics.md)（先有驯服的畜）、[原始木工](../07_tools/06_woodworking_primitive.md)（辕、梢、轭的木工）、[绳索与绳结](../09_materials/03_cordage_knots.md)（挽绳）、[石器打制与原始工具](../07_tools/01_stone_tools.md)（锄与石铧）、[铁的冶炼与锻造](../09_materials/13_metallurgy_iron.md)（铁铧与马蹄铁）。
 - 配套知识：[黏土与土壤](../13_field_guide/09_clay_soil_id.md)（认土才知深浅与墒）、[土壤基础与改良](01_soil_basics.md)（耕作与地力）、[作物种植基础](02_crop_basics.md)（墒情与播期、条播省种）、[种源基础与发芽](04_seed_basics.md)（省下的种子值多少工）。
 - 后续应用：[灌溉工程基础](06_irrigation_basics.md)（耕后灌溉配合、畜力提水）、[水轮](../01_energy/08_waterwheel.md)（畜力之外的动力台阶）、畜力运输支撑贸易（[交换与货币](../10_cooperation/08_trade_money.md)）；犁耕与大田农业的历史坐标见 [农业革命](../15_history/02_agricultural_revolution.md) 与 [中世纪的世界](../15_history/06_medieval_world.md)（马颈圈与欧洲农业格局）。
-- 原理：拉力、摩擦与杠杆见 [物理基础](../11_science/04_physics_basics.md)；测量与身体尺见 [测量基础](../07_tools/03_measurement_basics.md)。
+- 原理：拉力、摩擦与杠杆见 [力学与运动](../11_science/07_mechanics_motion.md)；测量与身体尺见 [测量基础](../07_tools/03_measurement_basics.md)。
 
 ## 来源与待核验项
 

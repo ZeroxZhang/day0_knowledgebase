@@ -19,7 +19,7 @@
 
 分工边界：急救动作（降温、复温、体位）在 [基础急救流程](../05_health/01_first_aid_basics.md)；住所保温隔热的环境面在 [居住保温与隔热](../04_shelter/02_thermal_insulation.md)，防暑的选址遮阳通风在 4_shelter 域通风降温一文（不在此重复）；腹泻脱水与口服补液标准配方在 [消化系统常见病](04_digestive_diseases.md)；月经与孕产照护在 [助产与新生儿照护](../05_health/05_midwifery_basics.md)；本文负责内分泌与代谢层面的"认与判"。
 
-阅读前提：生命体征测量与三级判断（[症状评估与病情判断](02_symptom_assessment.md)）；身体结构与器官位置（[人体结构与生理基础](01_body_systems.md)）；"细胞、蛋白质、血液"的零基础解释见 [生物基础](../11_science/06_biology_basics.md)。
+阅读前提：生命体征测量与三级判断（[症状评估与病情判断](02_symptom_assessment.md)）；身体结构与器官位置（[人体结构与生理基础](01_body_systems.md)）；"细胞、蛋白质、血液"的零基础解释见 [生物基础](../11_science/17_biology_basics.md)。
 
 ## 核心知识与原理
 
@@ -104,7 +104,7 @@
 4. **低血糖线**：症状组合（汗+抖+饿+意识模糊）→清醒能吞咽者试糖→缓解即记录并找原因（进食史/糖尿病史/饮酒史）→不缓解按"像中风"流程与 09 篇互查。
 5. **体温线**：中暑以"意识"为分界管理——热射病=三级+全力降温；失温以"寒战"为分界——寒战停=升级；两者的环境预防（作息排班、分层穿衣、饮水配给）提前写进劳作计划。
 6. **水盐线**：大量失水场合水盐同补；短时猛灌白水列为禁忌动作；水肿者反向限盐限水并升级观察。
-7. **依赖链**：[生物基础](../11_science/06_biology_basics.md)（细胞、血液、化学）→[人体结构与生理基础](01_body_systems.md)（腺体与器官位置）→[症状评估与病情判断](02_symptom_assessment.md)（测与判）→本文→05_health（动作与公共卫生）。糖尿病足与碘盐两条线的"制度面"依赖群体协作（[群体协作基础](../10_cooperation/01_group_basics.md)）。
+7. **依赖链**：[生物基础](../11_science/17_biology_basics.md)（细胞、血液、化学）→[人体结构与生理基础](01_body_systems.md)（腺体与器官位置）→[症状评估与病情判断](02_symptom_assessment.md)（测与判）→本文→05_health（动作与公共卫生）。糖尿病足与碘盐两条线的"制度面"依赖群体协作（[群体协作基础](../10_cooperation/01_group_basics.md)）。
 
 ## 方法与应用
 
@@ -135,7 +135,7 @@
 - 中暑失温的现场动作：[基础急救流程（评估与生命支持）](../05_health/01_first_aid_basics.md)；热衰竭等病症照护：[常见病症识别与照护](../05_health/04_common_illness.md)；保温分层的环境面：[居住保温与隔热](../04_shelter/02_thermal_insulation.md)
 - 经期卫生、妊娠与孕产照护：[助产与新生儿照护](../05_health/05_midwifery_basics.md)、[感染预防与个人卫生](../05_health/03_infection_prevention.md)
 - 营养与能量账本：[营养基础](../03_food/01_nutrition_basics.md)；碘盐与全人群政策的组织：[长期无医疗体系的公共卫生](../05_health/07_public_health_rebuild.md)
-- 激素与细胞通信的原理层：[生物基础](../11_science/06_biology_basics.md)
+- 激素与细胞通信的原理层：[生物基础](../11_science/17_biology_basics.md)
 - 糖尿病足检查与补碘制度需要的组织面：[群体协作基础](../10_cooperation/01_group_basics.md)
 
 ## 来源与待核验项

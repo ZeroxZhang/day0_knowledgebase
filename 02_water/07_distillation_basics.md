@@ -106,7 +106,7 @@
 - 燃料升级与炭：[木炭窑与烧炭](../09_materials/07_charcoal_kiln.md)；高温窑炉设计 [窑炉建造与热工基础](../04_shelter/05_kiln_construction.md)。
 - 海水淡化的水源背景（盐度量级与海岸资源）：[海洋与海岸](../16_geography/04_oceans_coasts.md)。
 - 副产物制盐：[salt_acquisition](../03_food/06_salt_acquisition.md)。
-- 沸点、物态变化原理：[chemistry_basics](../11_science/05_chemistry_basics.md)。
+- 沸点、物态变化原理：[chemistry_basics](../11_science/13_chemistry_basics.md)。
 - 热源与火候控制：[fire_making](../01_energy/01_fire_making.md)。
 - 技术树位置：[00_roadmap](../00_roadmap.md)。
 

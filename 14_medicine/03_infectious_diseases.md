@@ -179,7 +179,7 @@
 - 发热与腹泻的居家照护：[常见病症识别与照护](../05_health/04_common_illness.md)
 - 母婴传播的断路：[助产与新生儿照护](../05_health/05_midwifery_basics.md)
 - 粪口链的物理断路：[水净化](../02_water/04_water_purification.md)、[卫生与排泄物管理](../02_water/06_hygiene_sanitation.md)、[食物安全](../03_food/03_food_safety.md)
-- 肥皂的原料与制法：[肥皂制作](../09_materials/10_soapmaking.md)；免疫系统的生物学背景：[生物基础](../11_science/06_biology_basics.md)
+- 肥皂的原料与制法：[肥皂制作](../09_materials/10_soapmaking.md)；免疫系统的生物学背景：[生物基础](../11_science/17_biology_basics.md)
 - 病程记录与档案：[图书馆与记录](../12_knowledge/06_library_records.md)
 - 同领域：[人体结构与生理基础](01_body_systems.md)、[症状评估与病情判断](02_symptom_assessment.md)、[消化系统常见病](04_digestive_diseases.md)
 

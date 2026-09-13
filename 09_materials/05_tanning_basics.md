@@ -111,7 +111,7 @@
 
 - 先决依赖：狩猎获取皮张（[采集渔猎入门](../03_food/05_foraging_hunting.md)）、[石器打制与原始工具](../07_tools/01_stone_tools.md)（刮刀）、绳索（[绳索与绳结](03_cordage_knots.md)）。
 - 后续应用：皮革成为 [石斧绑缚](../07_tools/01_stone_tools.md) 的生皮条来源、衣物鞋靴、水袋容器、弓弦（筋腱）、[植物纤维与搓绳](04_plant_fiber_textile.md)。
-- 原理：胶原与单宁的化学见 [化学基础](../11_science/05_chemistry_basics.md)；微生物致腐见 [生物基础](../11_science/06_biology_basics.md)。
+- 原理：胶原与单宁的化学见 [化学基础](../11_science/13_chemistry_basics.md)；微生物致腐见 [生物基础](../11_science/17_biology_basics.md)。
 
 ## 来源与待核验项
 

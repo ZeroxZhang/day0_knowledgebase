@@ -22,8 +22,21 @@
 | 木材纤维 | 树种与材性辨认、纤维植物、树脂树皮蜡 | ✓ 13_field_guide/10_wood_fiber_id.md |
 | 物质与元素 | 元素与原子概念、常见 20 元素、自然界形态与去向 | ✓ 11_science/01_matter_elements.md |
 | 数与算术 | 计数与进位、四则、分数、估算与心算 | ✓ 11_science/02_numbers_arithmetic.md |
-| 天气与气候 | 云与风、经验预报规则、物候与季节 | ✓ 11_science/08_weather_climate.md |
-| 地质与地貌 | 三大岩类来历、地貌读图、找水找矿的地貌线索 | ✓ 11_science/09_geology_landforms.md |
+| 天气与气候 | 云与风、经验预报规则、物候与季节 | ✓ 11_science/23_weather_climate.md |
+| 地质与地貌 | 三大岩类来历、地貌读图、找水找矿的地貌线索 | ✓ 11_science/24_geology_landforms.md |
+
+## 科学支撑层（11_science，25 篇，v2.2 深度拓展）
+
+科学模块为全部技术文章提供原理底座，按"数理 → 物理 → 化学 → 生命 → 地球宇宙 → 方法论"组织；物质与元素、数与算术两篇为全库最底层引用（v2.2 起物理/化学/生物按学科拆分为多篇并整体加深至每篇 ≥220 行，逐篇清单与阅读顺序见 11_science/README.md）。
+
+| 块 | 篇目（✓ = 已落盘） |
+| --- | --- |
+| 根基层 | ✓ 01_matter_elements、✓ 02_numbers_arithmetic |
+| 数理 | ✓ 03_units_measurement、✓ 04_algebra_equations、✓ 05_geometry_basics、✓ 06_probability_statistics |
+| 物理 | ✓ 07_mechanics_motion、✓ 08_heat_temperature、✓ 09_fluids_pressure、✓ 10_sound_waves、✓ 11_light_optics、✓ 12_electricity_magnetism |
+| 化学 | ✓ 13_chemistry_basics、✓ 14_acids_bases_salts、✓ 15_oxidation_combustion、✓ 16_organic_chemistry |
+| 生命 | ✓ 17_biology_basics、✓ 18_microbes_fermentation、✓ 19_plant_science、✓ 20_animal_science、✓ 21_ecology_genetics |
+| 地球宇宙与方法论 | ✓ 22_astronomy_basics、✓ 23_weather_climate、✓ 24_geology_landforms、✓ 25_scientific_method |
 
 ## 背景层（v2.1 扩展域：医学 / 历史 / 地理，服务全部阶段）
 
@@ -71,6 +84,8 @@
 | 储粮 | 防潮防鼠、窖藏 | ✓ 02_food_storage.md、✓ 08_granary_basics.md |
 | 畜养 | 驯养犬鸡猪羊牛的次序、乳畜产品加工 | ✓ 07_small_livestock.md、✓ 08_production/08_dairy_processing.md（乳畜加工） |
 | 盐 | 从海水/咸水/岩盐获取盐 | ✓ 06_salt_acquisition.md |
+| 糖与油脂 | 压榨、熬炼、蜂糖与树液采集 | ✓ 07_sugar_fat_sources.md |
+| 信号 | 光声信号的远距约定（群体间通信/求援协议） | ✓ 06_comms/03_signal_systems.md |
 
 ### 阶段 3 材料革命（数年～数十年）
 
@@ -79,6 +94,8 @@
 | 节点 | 关键知识 | 文章 |
 | --- | --- | --- |
 | 燃料 | 木炭窑建造与烧炭、柴火管理 | ✓ 07_charcoal_kiln.md、✓ 01_energy/13_biomass_fuel.md（生物质燃料） |
+| 窑炉热工 | 窑体建造与烧成曲线（烧陶/烧炭/石灰共用） | ✓ 05_kiln_construction.md |
+| 蒸馏 | 沸点分离与冷凝（纯水、求精） | ✓ 02_water/07_distillation_basics.md |
 | 建筑 | 石灰烧制、砂浆、土坯 | ✓ 08_lime_mortar.md、✓ 06_earth_building.md |
 | 冶金 | 铜矿识别、坩埚炉、铸造 → 铁矿、块炼铁、锻打淬火（矿石辨认细化见根基层 08_mineral_ore_id） | ✓ 12_metallurgy_copper.md、✓ 13_metallurgy_iron.md |
 | 玻璃 | 石英砂+碱高温熔制 | ✓ 09_glassmaking_basics.md |
@@ -105,10 +122,11 @@
 | 文字 | 记事符号到表意文字 | ✓ 01_writing_basics.md |
 | 介质 | 纸浆造纸、墨与笔、图示与记录 | ✓ 02_papermaking.md、✓ 03_ink_and_pen.md、✓ 12_knowledge/07_diagrams_records.md（图示与记录规范） |
 | 印刷 | 雕版到活字 | ✓ 04_printing_basics.md |
+| 教育与传承 | 教学体系、知识与记录保存 | ✓ 05_education_system.md、✓ 06_library_records.md |
 | 制度 | 历法制定、度量衡统一、交换与货币、防御 | ✓ 07_calendar_basics.md、✓ 06_measure_standards.md、✓ 08_trade_money.md、✓ 09_governance_basics.md、✓ 05_specialization_basics.md、✓ 10_cooperation/10_defense_intergroup.md（防御与群体间关系） |
 | 电力 | 伏打电堆、电磁感应、电报 → 无线电 | ✓ 01_radio_basics.md、✓ 07_primitive_electricity.md、✓ 06_telegraph_basics.md |
 | 医疗 | 助产、草药（证据边界）、流行病应对 | ✓ 05_midwifery_basics.md、✓ 06_herbal_medicine_boundaries.md、✓ 07_public_health_rebuild.md |
-| 科学 | 几何测量、概率统计、科学方法 | ✓ 10_geometry_basics.md、✓ 11_scientific_method.md、✓ 12_probability_statistics.md（属 11_science，支撑全库） |
+| 科学 | 数理（计量/代数/几何/概率）、物理、化学、生命、科学方法（25 篇科学支撑层） | ✓ 05_geometry_basics.md、✓ 06_probability_statistics.md、✓ 25_scientific_method.md（属 11_science，支撑全库；全模块见上"科学支撑层"） |
 
 ## 阅读路径建议（按使用场景）
 

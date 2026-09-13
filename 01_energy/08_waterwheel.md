@@ -105,7 +105,7 @@
 ## 延伸与关联
 
 - 旋转运动的传递与变换（齿轮、曲柄、皮带）：../01_energy/10_power_transmission.md
-- 简单机械的力学基础：../07_tools/04_mechanical_basics.md；功率、能量概念：../11_science/04_physics_basics.md
+- 简单机械的力学基础：../07_tools/04_mechanical_basics.md；功率、能量概念：../11_science/07_mechanics_motion.md
 - 功率单位换算（瓦、马力）：../11_science/03_units_measurement.md
 - 引渠、闸板、坡度计算：../08_production/06_irrigation_basics.md
 - 水力之后的技术台阶是风力（../01_energy/09_windmill_basics.md）与蒸汽（../01_energy/11_steam_engine_principles.md）；总路线见 ../00_roadmap.md

@@ -126,7 +126,7 @@
 - 贸易与货币（铜锭白银到大流克）：[交换与货币](../10_cooperation/08_trade_money.md)
 - 度量衡统一：[度量衡制度](../10_cooperation/06_measure_standards.md)
 - 车床与精密加工（铁器工艺的现代延伸）：[脚踏车床与简易机床](../07_tools/07_primitive_lathe.md)
-- 科学方法（轴心时代的思想遗产如何变成工具）：[科学方法](../11_science/11_scientific_method.md)
+- 科学方法（轴心时代的思想遗产如何变成工具）：[科学方法](../11_science/25_scientific_method.md)
 - 教育体系（知识再生产的制度）：[教育体系](../12_knowledge/05_education_system.md)
 - 上一篇（文明要素清单）：[早期文明的出现](03_first_civilizations.md)
 - 农业剩余的起点：[农业革命：驯化与定居](02_agricultural_revolution.md)

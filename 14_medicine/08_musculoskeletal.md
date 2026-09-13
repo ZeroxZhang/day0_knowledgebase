@@ -167,7 +167,7 @@
 - 休克与失血判断：[血液与循环系统疾病](06_cardiovascular_blood.md) 第 2 节；破伤风高危伤口逻辑：[感染性疾病总论](03_infectious_diseases.md)
 - 固定与压疮的交界（衬垫、骨突、翻身）：[皮肤与软组织疾病](07_skin_soft_tissue.md) 第 7 节；恢复期营养（蛋白与骨愈合）：[营养基础](../03_food/01_nutrition_basics.md)
 - 重复劳动岗位的工程端（磨坊、窑炉、桨具）：[窑炉建造](../04_shelter/05_kiln_construction.md)、[木炭烧制](../09_materials/07_charcoal_kiln.md)
-- 力学原理（杠杆、力臂）与角度测量：[物理基础](../11_science/04_physics_basics.md)、[单位与计量](../11_science/03_units_measurement.md)；判断与记录：[症状评估与病情判断](02_symptom_assessment.md)；照护节奏：[常见病症识别与照护](../05_health/04_common_illness.md)
+- 力学原理（杠杆、力臂）与角度测量：[力学与运动](../11_science/07_mechanics_motion.md)、[单位与计量](../11_science/03_units_measurement.md)；判断与记录：[症状评估与病情判断](02_symptom_assessment.md)；照护节奏：[常见病症识别与照护](../05_health/04_common_illness.md)
 
 ## 来源与待核验项
 

@@ -157,7 +157,7 @@
 - 脑膜炎的隔离与支持照护：[感染预防与个人卫生](../05_health/03_infection_prevention.md)、[感染性疾病总论](03_infectious_diseases.md)、[常见病症识别与照护](../05_health/04_common_illness.md)
 - 低血糖的代谢细节与"像中风"的互查：[内分泌与代谢常见问题](10_endocrine_metabolic.md)
 - 抽搐的中毒原因（植物、蘑菇、药物、动物毒）：[中毒与咬蜇总论](11_toxicology_envenom.md)、[剧毒植物与蘑菇](../13_field_guide/04_toxic_plants_mushrooms.md)
-- 神经电信号与身体运转的原理：[生物基础](../11_science/06_biology_basics.md)
+- 神经电信号与身体运转的原理：[生物基础](../11_science/17_biology_basics.md)
 - 群体心理支持与照护者轮换的组织面：[群体协作基础](../10_cooperation/01_group_basics.md)、[冲突调解基础](../10_cooperation/04_conflict_resolution.md)
 - 群体事件的安抚与信息纪律：[长期无医疗体系的公共卫生](../05_health/07_public_health_rebuild.md)
 - 长期病人照护体系（看护者训练、优先级、能做/不能做清单）将在本域后续篇目补齐，此处不设链接。

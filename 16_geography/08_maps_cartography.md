@@ -125,8 +125,8 @@
 ## 延伸与关联
 
 - 读图与按图行进：[地图判读与定位](../06_comms/04_maps_navigation.md)。
-- 图上内容的来源：[区域踏勘方法](09_region_survey.md)、[地质与地貌](../11_science/09_geology_landforms.md)、[大河大湖与水系](05_rivers_lakes.md)。
-- 角度与三角的原理：[几何与测量](../11_science/10_geometry_basics.md)；方位的天文基准：[天文观测基础](../11_science/07_astronomy_basics.md)。
+- 图上内容的来源：[区域踏勘方法](09_region_survey.md)、[地质与地貌](../11_science/24_geology_landforms.md)、[大河大湖与水系](05_rivers_lakes.md)。
+- 角度与三角的原理：[几何与测量](../11_science/05_geometry_basics.md)；方位的天文基准：[天文观测基础](../11_science/22_astronomy_basics.md)。
 - 图的介质与档案制度：[记录与保存](../12_knowledge/06_library_records.md)。
 
 ## 来源与待核验项

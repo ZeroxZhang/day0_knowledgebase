@@ -201,7 +201,7 @@
 - 另一类静默危险（植物与蘑菇）：04_toxic_plants_mushrooms.md；可食植物的保守流程：03_edible_plants.md。
 - 伤后处置链：现场急救 ../05_health/01_first_aid_basics.md；感染预防（蜱蚊蝇媒介总纲）../05_health/03_infection_prevention.md；症状记录 ../14_medicine/02_symptom_assessment.md；狂犬病等动物源感染 ../14_medicine/03_infectious_diseases.md；寄生虫病 ../14_medicine/04_digestive_diseases.md；人体生理背景 ../14_medicine/01_body_systems.md。
 - 营地与食物的配套纪律：选址 ../04_shelter/01_shelter_basics.md；食物储存 ../03_food/02_food_storage.md；病畜不食与食源安全 ../03_food/03_food_safety.md。
-- 判断纪律（两派争议与置信度记录的处理方式）：../11_science/11_scientific_method.md。
+- 判断纪律（两派争议与置信度记录的处理方式）：../11_science/25_scientific_method.md。
 
 ## 来源与待核验项
 

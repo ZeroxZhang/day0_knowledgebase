@@ -27,7 +27,7 @@
 
 - **观察（先远后近）**：发现一个陌生对象，第一动作是停在 1 米以外（对不认识的植物，再退一步到两三米），把下文的八个维度按顺序过一遍，边看边记。此时手不碰、鼻不凑。这一步的目的不是"认出它"，而是"把它的特征收集全"。
 - **比较**：把记录与三类参照物比——你的记录册里已确认的样本、你记忆里看过完整过程的已知对象（比如你亲眼从发芽看到结实的某一株）、以及"排除式"的大类别比对（先判断它是草还是树、叶是平行脉还是网状脉，把范围收窄）。比较的规则见下文第 5 节。
-- **验证**：验证不是"再确认一遍我觉得对的特征"，而是专门去找反面证据。操作：写下"如果我判断它是 X，那么它不应该有 Y"（例如"如果是野胡萝卜，茎上不应该有紫色斑块和鼠尿味"），然后专门去找 Y。找到一条 Y，判断就作废重来；一条 Y 都找不到，判断才能升级。这个"假设—检验"的思维方式详见 ../11_science/11_scientific_method.md。
+- **验证**：验证不是"再确认一遍我觉得对的特征"，而是专门去找反面证据。操作：写下"如果我判断它是 X，那么它不应该有 Y"（例如"如果是野胡萝卜，茎上不应该有紫色斑块和鼠尿味"），然后专门去找 Y。找到一条 Y，判断就作废重来；一条 Y 都找不到，判断才能升级。这个"假设—检验"的思维方式详见 ../11_science/25_scientific_method.md。
 - **循环**：同一个对象，要在不同时间（早晨/中午）、不同天气（晴/阴）、不同生长阶段（幼苗/成株）重复走这个循环。第一次通过只算"候选"，两个以上不同条件下仍通过，才允许升级风险标签（见第 6 节）。
 
 ### 2. 观察维度清单（八个维度，逐维写"怎么观察、记什么"）
@@ -167,7 +167,7 @@
 - 每条绿标卡都配一条"自杀条款"：写下"出现什么现象时这张卡作废"（如"若在旱季发现该株果壳发黑，停止食用"）。现象出现，卡当场降级。
 - 新证据优先于旧结论：同一对象两次观察矛盾时，不取平均、不模糊处理，按更危险的那条处理，并重新走循环。
 - 记录失败与记录成功同等重要：误判与纠正过程写进卡背——这些记录会变成营地最贵的资产。
-- 方法论的系统论述见 ../11_science/11_scientific_method.md；生物学层面的分类常识见 ../11_science/06_biology_basics.md。
+- 方法论的系统论述见 ../11_science/25_scientific_method.md；生物学层面的分类常识见 ../11_science/17_biology_basics.md。
 
 ## 从零实现路径
 
@@ -217,7 +217,7 @@
 - 本文是 13_field_guide 全领域的方法骨架：植物总纲 02_plant_id_basics.md、可食植物 03_edible_plants.md、剧毒植物与蘑菇 04_toxic_plants_mushrooms.md 都直接引用三步循环、描述卡与风险标签。
 - 辨认的下游应用：石料打制 ../07_tools/01_stone_tools.md；黏土烧陶 ../09_materials/06_pottery.md；绳索纤维选材 ../09_materials/03_cordage_knots.md 与 ../09_materials/04_plant_fiber_textile.md；土壤判断 ../08_production/01_soil_basics.md。
 - 食用端的安全流程：通用可食性测试与获取方法 ../03_food/05_foraging_hunting.md；食源性疾病的表现与处置 ../03_food/03_food_safety.md 与 ../05_health/04_common_illness.md；误食与接触后的现场处置 ../05_health/01_first_aid_basics.md。
-- 基础能力来源：火（炭条与燃烧试验的前提）../01_energy/01_fire_making.md；记录系统的长期形态 ../12_knowledge/01_writing_basics.md；方位与位置记录 ../06_comms/05_orientation.md；假设检验的方法论 ../11_science/11_scientific_method.md；分类的生物学基础 ../11_science/06_biology_basics.md；试验涉及的化学原理 ../11_science/05_chemistry_basics.md。
+- 基础能力来源：火（炭条与燃烧试验的前提）../01_energy/01_fire_making.md；记录系统的长期形态 ../12_knowledge/01_writing_basics.md；方位与位置记录 ../06_comms/05_orientation.md；假设检验的方法论 ../11_science/25_scientific_method.md；分类的生物学基础 ../11_science/17_biology_basics.md；试验涉及的化学原理 ../11_science/13_chemistry_basics.md。
 
 ## 来源与待核验项
 
