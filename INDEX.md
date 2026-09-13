@@ -42,4 +42,4 @@
 
 - [PROGRESS.md](PROGRESS.md)：当前轮次、本批完成、待核验项、下一批计划。
 - [CHECKPOINTS.md](CHECKPOINTS.md)：断点记录日志，任何批次完成后更新，供任务中断后恢复。
-- 执行规划见项目根目录 `EXECUTION_GUIDE.md`（v1.0）。
+- 执行规划见项目根目录 `EXECUTION_GUIDE.md`（v2.1）。

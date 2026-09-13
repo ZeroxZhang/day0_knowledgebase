@@ -29,5 +29,6 @@
 - ✓ 照明：油灯、蜡烛与火把（12_lighting_basics.md：陶碟灯、牛脂烛浸制、燃料账与用火纪律）——阶段 1～3
 - ✓ 水轮与水力（08_waterwheel.md）——阶段 4
 - ✓ 风车与风力（09_windmill_basics.md）——阶段 4
+- ✓ 动力传动：齿轮、轴与凸轮（10_power_transmission.md）——阶段 4
 - ✓ 蒸汽动力原理与安全边界（11_steam_engine_principles.md）——阶段 4
 - ✓ 从零获得电：伏打电堆与电磁感应（07_primitive_electricity.md）——阶段 5

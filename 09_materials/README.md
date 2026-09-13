@@ -17,18 +17,19 @@
 - 连接与紧固工艺选择（joining_fastening.md）
 - 防腐与表面处理（corrosion_protection.md）
 - 成形与塑形基础（forming_shaping.md）
-- ✓（新增）天然染料与染色（11_natural_dyes.md）
 - 简单制造与工艺选择（simple_manufacturing.md）
 
 ### 从零重建层（视角：从零重建，见 00_roadmap）
+- ✓ 植物纤维与原始织造（04_plant_fiber_textile.md：沤制、搓线、席与织带）——阶段 1～2
 - ✓ 陶器制作（06_pottery.md：黏土筛选、捏塑泥条、露天与窑烧、防渗）——阶段 1
 - ✓ 鞣制皮革（05_tanning_basics.md：脑鞣、烟鞣、植鞣）——阶段 1
-- ✓ 木炭窑与烧炭（07_charcoal_kiln.md）——阶段 3 ✓（天然染料 11_natural_dyes.md 已并入登记）
-- ✓ 石灰与砂浆（08_lime_mortar.md）——阶段 3 ✓（天然染料 11_natural_dyes.md 已并入登记）
-- ✓ 铜的冶炼与铸造（12_metallurgy_copper.md）——阶段 3 ✓（天然染料 11_natural_dyes.md 已并入登记）
-- ✓ 铁的冶炼与锻造（13_metallurgy_iron.md：块炼铁、锻打、淬火）——阶段 3 ✓（天然染料 11_natural_dyes.md 已并入登记）
-- ✓ 玻璃烧制入门（09_glassmaking_basics.md）——阶段 3 ✓（天然染料 11_natural_dyes.md 已并入登记）
-- ✓ 草木灰制皂（10_soapmaking.md）——阶段 3 ✓（天然染料 11_natural_dyes.md 已并入登记）
+- ✓ 木炭窑与烧炭（07_charcoal_kiln.md）——阶段 3
+- ✓ 石灰与砂浆（08_lime_mortar.md）——阶段 3
+- ✓ 铜的冶炼与铸造（12_metallurgy_copper.md）——阶段 3
+- ✓ 铁的冶炼与锻造（13_metallurgy_iron.md：块炼铁、锻打、淬火）——阶段 3
+- ✓ 玻璃烧制入门（09_glassmaking_basics.md）——阶段 3
+- ✓ 草木灰制皂（10_soapmaking.md）——阶段 3
 - ✓ 织机与织布（15_loom_weaving.md：腰机、整经、织造动作）——阶段 1～3
 - ✓ 动物纤维：羊毛、毛毡与纺纱（16_animal_fiber_spinning.md：洗梳纺、湿毡）——阶段 1～3
 - ✓ 缝纫与原始衣物（17_sewing_clothing.md：骨针、针法、皮衣与鞋）——阶段 1～3
+- ✓ 天然染料与染色（11_natural_dyes.md：草木灰/栎壳/茜草系，织前染）——阶段 3

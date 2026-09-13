@@ -2,7 +2,7 @@
 
 假设：使用者回到原始时代，一无所有，只有这份知识库。目标：先活下来，再建立工具与农业，最终重建文明的生产力与协作体系。
 
-本文是知识库的技术树坐标。每篇文章属于图上一个节点；新文章必须在此登记。
+本文是知识库的技术树坐标。每篇文章属于图上一个节点；新文章必须在此登记。登记口径：技术树逐篇登记从零重建层与根基层、背景层文章；应急视角存量文章以各域 README 的"基础/进阶"节为准，不在本图逐篇登记。
 
 ## 根基层（认知与识别，先于并贯穿全部阶段）
 
@@ -27,7 +27,7 @@
 
 ## 背景层（v2.1 扩展域：医学 / 历史 / 地理，服务全部阶段）
 
-| 域 | 已写 | 待写（下一批） |
+| 域 | 已写 | 待写 |
 | --- | --- | --- |
 | 14_medicine 基础医学（参考默沙东诊疗手册专业版；与 05_health 分工：05 动作导向、14 判断导向）——**全 13 篇完成** | ✓ 01_body_systems、✓ 02_symptom_assessment、✓ 03_infectious_diseases、✓ 04_digestive_diseases、✓ 05_respiratory_diseases、✓ 06_cardiovascular_blood、✓ 07_skin_soft_tissue、✓ 08_musculoskeletal、✓ 09_neuro_mental、✓ 10_endocrine_metabolic、✓ 11_toxicology_envenom、✓ 12_care_system_rebuild（照护体系为领域收官综述）、✓ 13_sense_organs_ent（牙耳眼鼻急症，补完批） | — |
 | 15_history 人类历史（每篇落到"对重建者的启示"）——**全 10 篇完成** | ✓ 01_human_origins、✓ 02_agricultural_revolution、✓ 03_first_civilizations、✓ 04_bronze_iron_ages、✓ 05_classical_axial、✓ 06_medieval_world、✓ 07_science_revolution、✓ 08_industrial_revolution、✓ 09_modern_era、✓ 10_collapse_resilience（崩溃与复原规律为领域收官综述） | — |

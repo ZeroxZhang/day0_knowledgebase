@@ -250,3 +250,10 @@
 - 知识库现状：154 篇正文（已核对 18 / 待核验 136，各篇待核验项即工单）+ 00_roadmap + 00_使用指南 + 管理文件；16 域 × 根基层/背景层/阶段 0~5 完整。
 - 下一批（可选，无排期）：新文关键数值补核；"随用随核"长期纪律；各域 README 进阶清单按需立项。
 - 恢复动作：读 PROGRESS.md → 若扩展，走"登记 roadmap → 写文 → 核验"流程（并发上限 2 的代理写作模式）；若核对，读各篇待核验项 → WebSearch 逐项 → 写回 → 升级状态 → 追加 CP。
+
+## CP-022 | 2026-09-13 | 指引/索引/规范文档同步核查（CP-020/021 后一致性收口）
+
+- 核查范围：EXECUTION_GUIDE、项目 AGENTS.md、INDEX、00_使用指南、00_roadmap、PROGRESS、16 个域 README。
+- 修正项：①01_energy README 补登 10_power_transmission（阶段 4 传动，此前两节均未列）；②09_materials README 补登 04_plant_fiber_textile 与 11_natural_dyes（染料原错挂"进阶"节），清理 6 处重复"已并入登记"后缀；③EXECUTION_GUIDE 版本行加补完批同步注记、第 2 节域表 9 行覆盖描述补新主题词、第 6 节完整性口径计数更新为 11_science 12/14_medicine 13/16_geography 10；④INDEX 管理文件节 EXECUTION_GUIDE 版本号 v1.0→v2.1；⑤roadmap 加登记口径说明（技术树逐篇登记从零重建层与根基层/背景层，应急存量以各域 README 为准），背景层表头"待写（下一批）"→"待写"；⑥使用指南阶段 1/2/5 自测清单补 5 项（缝衣做鞋、织带、肉鱼保存、乳加工、警报工事预案）。
+- 核查通过项：AGENTS.md 无过时表述；PROGRESS/CHECKPOINTS 为最新；16 域 README 登记完整性 154/154；全库零死链；无"待写"占位残留。
+- 恢复动作：无遗留；后续新增文章仍按"登记 roadmap → 写文 → 核验 → 同步 README/INDEX/PROGRESS/CHECKPOINTS"执行。
