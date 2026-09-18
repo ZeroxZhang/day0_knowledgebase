@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>末日生存知识库 · 简版海报</title>
+<!-- design intent: 简版海报——标题驱动（用户要求"标题要大"）：末日生存知识库 128px 巨字主导画面，眉题承载"重建文明知识库"；深黑 #050505 底，荧光绿 #00ff66 唯一强调，粉 #ff006e 不再使用；模块精简为 Hero → 大数字 → 技术树 → 三种用法 → CTA；零渐变零毛玻璃零模糊发光，仅 0.03 扫描线。 -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;600;800&family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+:root {
+  --bg: #050505;
+  --card: #111111;
+  --green: #00ff66;
+  --ink: #f0f0f0;
+  --muted: #9a9a9a;
+  --line: #262626;
+  --font-sans: 'Noto Sans SC', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', 'Fira Code', 'Noto Sans SC', monospace;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  width: 1080px; height: 1440px;
+  font-family: var(--font-sans);
+  background: var(--bg);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+.poster {
+  position: relative;
+  width: 1080px; height: 1440px;
+  padding: 52px 56px;
+  display: grid;
+  grid-template-rows: 450px 190px 240px 200px 110px;
+  gap: 36px;
+  align-content: start;
+  overflow: hidden;
+}
+
+.scanlines {
+  position: absolute; inset: 0;
+  background: repeating-linear-gradient(0deg, rgba(240,240,240,0.03) 0 1px, transparent 1px 4px);
+  pointer-events: none; z-index: 9;
+}
+
+/* ================= HERO ================= */
+.header { display: flex; flex-direction: column; justify-content: center; }
+.kicker-row {
+  display: flex; justify-content: space-between; align-items: baseline;
+  font-family: var(--font-mono); font-size: 14px; font-weight: 500;
+  color: var(--green); letter-spacing: 0.08em;
+  border-bottom: 1px solid var(--line); padding-bottom: 14px;
+}
+.kicker-row .dim { color: var(--muted); }
+h1 {
+  margin-top: 30px;
+  font-size: 128px; font-weight: 800; line-height: 1.05;
+  letter-spacing: 0.01em; color: var(--ink);
+  text-shadow: 4px 4px 0px rgba(0,255,102,0.22);
+}
+.tagline {
+  margin-top: 24px;
+  font-size: 23px; font-weight: 600; color: var(--green);
+  letter-spacing: 0.05em;
+}
+.premise {
+  margin-top: 18px;
+  font-family: var(--font-mono); font-size: 13px; color: var(--muted);
+  letter-spacing: 0.06em;
+}
+.premise .cursor { color: var(--green); }
+
+/* ================= BIGNUM ================= */
+.bignum-module {
+  border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+  display: grid; grid-template-columns: repeat(4, 1fr);
+  align-items: start; padding-top: 30px; column-gap: 28px;
+}
+.bignum-item { padding-left: 20px; border-left: 2px solid var(--line); }
+.bignum-item:first-child { padding-left: 0; border-left: none; }
+.bignum-value {
+  font-family: var(--font-mono); font-size: 88px; font-weight: 700;
+  color: var(--green); line-height: 0.92; letter-spacing: -0.03em;
+  white-space: nowrap;
+  text-shadow: 3px 3px 0px rgba(0,255,102,0.22);
+}
+.bignum-value .unit { font-size: 32px; letter-spacing: 0; }
+.bignum-label {
+  margin-top: 12px;
+  font-family: var(--font-mono); font-size: 12px; font-weight: 500;
+  color: var(--muted); text-transform: uppercase; letter-spacing: 0.14em;
+}
+
+/* ================= SECTION TITLE ================= */
+.sec { display: flex; align-items: baseline; gap: 12px; margin-bottom: 16px; }
+.sec-code { font-family: var(--font-mono); font-size: 14px; font-weight: 700; color: var(--green); letter-spacing: 0.08em; }
+.sec-name { font-size: 17px; font-weight: 800; color: var(--ink); letter-spacing: 0.04em; }
+.sec-en {
+  margin-left: auto;
+  font-family: var(--font-mono); font-size: 11px; font-weight: 400;
+  color: var(--muted); letter-spacing: 0.18em; text-transform: uppercase;
+}
+
+/* ================= 01 技术树 ================= */
+.stage-row { display: grid; grid-template-columns: repeat(7, 1fr); column-gap: 12px; }
+.node { border-top: 2px solid var(--line); padding-top: 14px; position: relative; }
+.node::before {
+  content: ''; position: absolute; top: -5px; left: 0;
+  width: 8px; height: 8px; background: var(--green);
+}
+.node.root { border-top-color: var(--green); }
+.node-code {
+  font-family: var(--font-mono); font-size: 13px; font-weight: 700;
+  color: var(--green); letter-spacing: 0.1em;
+}
+.node-name { margin-top: 8px; font-size: 17px; font-weight: 800; color: var(--ink); letter-spacing: 0.02em; }
+.node-desc {
+  margin-top: 8px;
+  font-size: 11.5px; line-height: 1.55; color: var(--muted); letter-spacing: 0.02em;
+}
+.stage-foot {
+  margin-top: 18px;
+  font-family: var(--font-mono); font-size: 12px; color: var(--muted); letter-spacing: 0.06em;
+}
+.stage-foot b { color: var(--green); font-weight: 500; }
+
+/* ================= 02 三种用法 ================= */
+.use-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+.use-card {
+  background: var(--card); border: 1px solid var(--line);
+  padding: 18px 18px;
+}
+.use-card.hot { border-color: var(--green); }
+.use-head { display: flex; align-items: center; gap: 10px; }
+.use-head .icon { width: 20px; height: 20px; stroke: var(--green); fill: none; stroke-width: 1.5; }
+.use-name { font-size: 17px; font-weight: 800; color: var(--ink); letter-spacing: 0.02em; }
+.use-tag { margin-left: auto; font-family: var(--font-mono); font-size: 10px; color: var(--muted); letter-spacing: 0.1em; }
+.use-desc { margin-top: 10px; font-size: 13px; line-height: 1.62; color: var(--muted); letter-spacing: 0.02em; }
+.use-desc b { color: var(--ink); font-weight: 600; }
+
+/* ================= CTA ================= */
+.cta {
+  background: var(--green); color: #050505;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0 30px;
+}
+.cta-left { display: flex; flex-direction: column; gap: 5px; }
+.cta-title { font-size: 16px; font-weight: 800; letter-spacing: 0.06em; }
+.cta-url { font-family: var(--font-mono); font-size: 17px; font-weight: 700; letter-spacing: 0.01em; }
+.cta-right {
+  text-align: right;
+  font-family: var(--font-mono); font-size: 11px; font-weight: 500;
+  color: rgba(5,5,5,0.78); letter-spacing: 0.1em; line-height: 1.8;
+}
+</style>
+</head>
+<body>
+<div class="poster">
+  <div class="scanlines"></div>
+
+  <svg width="0" height="0" style="position:absolute;pointer-events:none">
+    <symbol id="i-book" viewBox="0 0 24 24">
+      <path d="M4 19V5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2zm0 0a2 2 0 0 0 2 2h13"/>
+      <line x1="9" y1="7" x2="15" y2="7"/>
+    </symbol>
+    <symbol id="i-locate" viewBox="0 0 24 24">
+      <circle cx="12" cy="12" r="6"/>
+      <circle cx="12" cy="12" r="1.2"/>
+      <line x1="12" y1="2" x2="12" y2="6"/>
+      <line x1="12" y1="18" x2="12" y2="22"/>
+      <line x1="2" y1="12" x2="6" y2="12"/>
+      <line x1="18" y1="12" x2="22" y2="12"/>
+    </symbol>
+    <symbol id="i-users" viewBox="0 0 24 24">
+      <circle cx="9" cy="8" r="3.2"/>
+      <path d="M3.5 20c0-3 2.5-5 5.5-5s5.5 2 5.5 5"/>
+      <circle cx="17" cy="9" r="2.5"/>
+      <path d="M16 15.2c2.6.3 4.5 2 4.5 4.8"/>
+    </symbol>
+  </svg>
+
+  <!-- ============ HERO ============ -->
+  <header class="header">
+    <div class="kicker-row">
+      <span>/// 重建文明知识库 · DAY-0 KNOWLEDGE BASE</span>
+      <span class="dim">OPEN SOURCE // MIT</span>
+    </div>
+    <h1>末日生存知识库</h1>
+    <p class="tagline">假设你回到原始时代、一无所有——先活下来，再重建文明</p>
+    <div class="premise">&gt; 原始时代 · 一无所有 · 身边只有这套知识<span class="cursor">_</span></div>
+  </header>
+
+  <!-- ============ BIGNUM ============ -->
+  <div class="bignum-module">
+    <div class="bignum-item">
+      <div class="bignum-value">16</div>
+      <div class="bignum-label">领域目录 / DOMAINS</div>
+    </div>
+    <div class="bignum-item">
+      <div class="bignum-value">167</div>
+      <div class="bignum-label">篇正文 / ARTICLES</div>
+    </div>
+    <div class="bignum-item">
+      <div class="bignum-value">130<span class="unit">万+</span></div>
+      <div class="bignum-label">字 · 逾百万 / CHARS</div>
+    </div>
+    <div class="bignum-item">
+      <div class="bignum-value">6<span class="unit">+1</span></div>
+      <div class="bignum-label">重建阶段 / STAGES</div>
+    </div>
+  </div>
+
+  <!-- ============ 01 技术树 ============ -->
+  <section>
+    <div class="sec">
+      <span class="sec-code">/// 01</span>
+      <span class="sec-name">重建路线图</span>
+      <span class="sec-en">Tech Tree / Dependency Chain</span>
+    </div>
+    <div class="stage-row">
+      <div class="node root">
+        <div class="node-code">ROOT</div>
+        <div class="node-name">根基层</div>
+        <div class="node-desc">认知与识别：认植物·认矿物·算得动数</div>
+      </div>
+      <div class="node">
+        <div class="node-code">00</div>
+        <div class="node-name">即时生存</div>
+        <div class="node-desc">火·水·庇护·急救，头几天到数周</div>
+      </div>
+      <div class="node">
+        <div class="node-code">01</div>
+        <div class="node-name">工具容器</div>
+        <div class="node-desc">石器·陶器·绳索·皮衣，数月</div>
+      </div>
+      <div class="node">
+        <div class="node-code">02</div>
+        <div class="node-name">定居农业</div>
+        <div class="node-desc">选址·种植·储粮·畜养·制盐，数年</div>
+      </div>
+      <div class="node">
+        <div class="node-code">03</div>
+        <div class="node-name">材料革命</div>
+        <div class="node-desc">烧炭·石灰·铜铁冶金·玻璃</div>
+      </div>
+      <div class="node">
+        <div class="node-code">04</div>
+        <div class="node-name">动力机械</div>
+        <div class="node-desc">水轮·风车·传动·简易机床·蒸汽</div>
+      </div>
+      <div class="node">
+        <div class="node-code">05</div>
+        <div class="node-name">信息组织</div>
+        <div class="node-desc">文字·印刷·历法制度·电力·无线电</div>
+      </div>
+    </div>
+    <div class="stage-foot"><b>&gt;</b> 依赖链写死在每篇文章里：先要有 X，才能做 Y —— 你永远知道自己卡在哪一步</div>
+  </section>
+
+  <!-- ============ 02 三种用法 ============ -->
+  <section>
+    <div class="sec">
+      <span class="sec-code">/// 02</span>
+      <span class="sec-name">三种用法</span>
+      <span class="sec-en">How To Use</span>
+    </div>
+    <div class="use-grid">
+      <div class="use-card hot">
+        <div class="use-head">
+          <svg class="icon"><use href="#i-book"/></svg>
+          <span class="use-name">系统学习</span>
+          <span class="use-tag">LEARN</span>
+        </div>
+        <p class="use-desc">沿技术树逐级推进，每阶段附自测清单——<b>做到才算学会</b>。</p>
+      </div>
+      <div class="use-card">
+        <div class="use-head">
+          <svg class="icon"><use href="#i-locate"/></svg>
+          <span class="use-name">应急速查</span>
+          <span class="use-tag">SURVIVE</span>
+        </div>
+        <p class="use-desc">外伤、断水、迷路、疑似中毒，<b>直达处置步骤与禁忌</b>。</p>
+      </div>
+      <div class="use-card">
+        <div class="use-head">
+          <svg class="icon"><use href="#i-users"/></svg>
+          <span class="use-name">教学材料</span>
+          <span class="use-tag">TEACH</span>
+        </div>
+        <p class="use-desc">每篇自带层级与阶段标注，<b>可直接排成重建课程</b>。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CTA ============ -->
+  <footer class="footer cta">
+    <div class="cta-left">
+      <span class="cta-title">免费获取完整知识库</span>
+      <span class="cta-url">github.com/ZeroxZhang/day0_knowledgebase</span>
+    </div>
+    <div class="cta-right">
+      MIT LICENSE · 可自由复制 / 修改 / 传播<br>
+      DESIGNED FOR DAY ZERO · 2026 · ZEROX ZHANG
+    </div>
+  </footer>
+</div>
+</body>
+</html>
