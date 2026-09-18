@@ -15,6 +15,17 @@
 
 ---
 
+## CP-039 | 2026-09-18 | 发布线同步：核验分支合回 main + 全库计数口径更正
+
+- 完成：knowledge/safety-review-20260917（CP-026～038）fast-forward 合回 main，全库正文 167→174 篇（11_science 25→32：新增 26 函数与三角、27 微积分基础、28 线性代数、29 正态分布、30 进制与记数、31 数论基础、32 集合论与图论）。
+- 计数更正：CP-028～038 期间记录的"179 篇、已核对 38/待核验 141"为簿记误差——174 = 167 + 7 篇新文；已核对/待核验按各篇元信息状态字段机械统计为 29/145。PROGRESS 当前轮次行与对外 README 已更正；历史条目按惯例不改写，计数以本条为准。
+- 对外口径：knowledge/README.md 总规模改 174 篇、11_science 行改 32 篇；INDEX 11_science 行清理"科学方法（25 篇）"歧义表述；INDEX 管理文件节删除指向库外 EXECUTION_GUIDE.md 的悬空提及（独立发布后该文件不在发布线、不可达）。
+- 发布动作：重新 subtree split 更新 publish/main（github.com/ZeroxZhang/day0_knowledgebase）；删除远程原样推送的 safety-review 分支（本地保留）；仓库描述同步 174 篇。
+- 下一批：同 CP-038——26_functions_trigonometry、27_calculus_basics、28_linear_algebra、29_normal_distribution、31_number_theory_basics、32_set_theory_graphs 六篇剩余待核验项，每批 3～5 篇；其他安全文章的系统复审。
+- 恢复动作：读 PROGRESS.md 当前节 → 选 3～5 篇实读来源、纠错并核对互链上下文 → 更新状态与下一条断点。
+
+---
+
 ## CP-038 | 2026-09-18 | 科学 25 篇来源集中核验第十批（30_numeral_systems 零符号历史年代）
 
 - 完成：11_science/30_numeral_systems.md 的零符号历史年代核验，写回"已核对"清单；状态行仍为"待核验"（正文其余项目未核）。
