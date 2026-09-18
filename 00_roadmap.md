@@ -25,7 +25,7 @@
 | 天气与气候 | 云与风、经验预报规则、物候与季节 | ✓ 11_science/23_weather_climate.md |
 | 地质与地貌 | 三大岩类来历、地貌读图、找水找矿的地貌线索 | ✓ 11_science/24_geology_landforms.md |
 
-## 科学支撑层（11_science，25 篇，v2.2 深度拓展）
+## 科学支撑层（11_science，32 篇：v2.2 深度拓展 25 篇 + v2.3 大学数学深化 7 篇）
 
 科学模块为全部技术文章提供原理底座，按"数理 → 物理 → 化学 → 生命 → 地球宇宙 → 方法论"组织；物质与元素、数与算术两篇为全库最底层引用（v2.2 起物理/化学/生物按学科拆分为多篇并整体加深至每篇 ≥220 行，逐篇清单与阅读顺序见 11_science/README.md）。
 
@@ -37,6 +37,22 @@
 | 化学 | ✓ 13_chemistry_basics、✓ 14_acids_bases_salts、✓ 15_oxidation_combustion、✓ 16_organic_chemistry |
 | 生命 | ✓ 17_biology_basics、✓ 18_microbes_fermentation、✓ 19_plant_science、✓ 20_animal_science、✓ 21_ecology_genetics |
 | 地球宇宙与方法论 | ✓ 22_astronomy_basics、✓ 23_weather_climate、✓ 24_geology_landforms、✓ 25_scientific_method |
+
+### 科学深化首批登记（2026-09-17）
+
+本轮先补大学基础科学共用的数学语言，再进入现代物理、化学和生命科学；不把未来主题清单计为已完成正文。既有 01～25 保留编号，深化篇从 26 递增，避免重排造成全库引用漂移。
+
+| 新节点 | 前置依赖 | 状态与阶段 |
+| --- | --- | --- |
+| 11_science/26_functions_trigonometry.md：函数、指数对数与三角 | 02 算术 → 04 代数、05 几何 | 已写，阶段 2～5，原理，待核验 |
+| 11_science/27_calculus_basics.md：极限、导数与积分 | 03 计量、04 代数 → 26 函数 | 已写，阶段 2～5，原理，待核验 |
+| 11_science/28_linear_algebra.md：向量、矩阵与线性系统 | 04 代数、05 几何 → 26 函数 | 已写，阶段 2～5，原理，待核验 |
+| 11_science/29_normal_distribution.md：正态分布与统计推断 | 06 概率 → 26 函数、27 微积分 | 已写，阶段 2～5，原理，待核验 |
+| 11_science/30_numeral_systems.md：进制与记数系统 | 02 算术 → 26 函数的指数节 | 已写，阶段 2～5，原理，待核验 |
+| 11_science/31_number_theory_basics.md：数论基础 | 02 算术 → 30 进制 | 已写，阶段 2～5，原理，待核验 |
+| 11_science/32_set_theory_graphs.md：集合论与图论 | 02 算术 → 28 线性代数 | 已写，阶段 2～5，原理，待核验 |
+
+深化篇是理解和计算的路径，不要求原始条件直接制造现代仪器；数学可用算筹与沙盘重建，精密实验与高危工程另列依赖和停步条件。长期学科缺口与下一批顺序见 11_science/README.md，不另设执行规划。
 
 ## 背景层（v2.1 扩展域：医学 / 历史 / 地理，服务全部阶段）
 

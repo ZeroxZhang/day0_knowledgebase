@@ -3,7 +3,7 @@
 层级：基础
 视角：通用
 阶段：2～5
-状态：待核验
+状态：已核对
 更新时间：2026-09-13
 
 ## 解决什么问题
@@ -239,7 +239,7 @@
 **已核对子项**：
 
 - "30 例"惯例：统计教学与实务把 n≈30 视为"大样本"门槛，依据为中心极限定理下样本均值的分布趋近正态、t 分布在自由度约 30 后与正态分布几乎重合；各方均强调这是**惯例而非定律**——偏态、双峰或重尾数据及罕见事件需要更大样本（来源：Investopedia "Central Limit Theorem"（investopedia.com/terms/c/central_limit_theorem.asp）、Cross Validated（Stack Exchange）"What references should be cited to support using 30 as a large enough sample size?"（stats.stackexchange.com/questions/2541）、J-PAL "Rules of Thumb for Sample Size and Power"（povertyactionlab.org）的检索摘要，检索日期 2026-09-12）。
-- "三次法则"（rule of three）：n 次独立试验中某事件零发生时，该事件发生率的 95% 置信上界约为 3/n（来源：Wikipedia "Rule of three (statistics)"（en.wikipedia.org/wiki/Rule_of_three_(statistics)）、Jovanovic & Levy 1997《The American Statistician》"A Look at the Rule of Three"（jstor.org/stable/2685405）、Eypasch 等 1995《BMJ》"Probability of adverse events that have not yet occurred"（概念出处，经检索摘要核对）、Statology "A Concise Guide to the Statistical Rule of Three"（statology.org）的检索摘要，检索日期 2026-09-12）。
+- "三次法则"（rule of three）：n 次独立试验中某事件零发生时，该事件发生率的 95% 置信上界约为 3/n（来源：Wikipedia "Rule of three (statistics)"（en.wikipedia.org/wiki/Rule_of_three_(statistics)），2026-09-18 直接读取原文；由 (1−p)^n=0.05 推出边界≈−ln(0.05)/n≈2.996/n≈3/n，n>30 时为良好近似；97%/99%/99.5% 置信度对应分子 3.51/4.61/5.3；原文"3/n 上界"与"30 例才入册"的推导依据即此）。
 
 **待核验项**：
 
