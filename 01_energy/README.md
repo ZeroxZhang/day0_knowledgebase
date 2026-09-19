@@ -32,3 +32,5 @@
 - ✓ 动力传动：齿轮、轴与凸轮（10_power_transmission.md）——阶段 4
 - ✓ 蒸汽动力原理与安全边界（11_steam_engine_principles.md）——阶段 4
 - ✓ 从零获得电：伏打电堆与电磁感应（07_primitive_electricity.md）——阶段 5
+- ✓ 内燃机：原理、历史与从零路线分层（14_internal_combustion.md：四冲程、燃料谱系与木煤气、制造门槛与停步条件）——阶段 4～5（CP-040）
+- ✓ 发电机与小型电力系统（15_generator_power.md：电磁感应发电、铅酸储能、简单配电与安全）——阶段 5（CP-040）

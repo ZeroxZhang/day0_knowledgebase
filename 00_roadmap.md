@@ -59,7 +59,7 @@
 | 域 | 已写 | 待写 |
 | --- | --- | --- |
 | 14_medicine 基础医学（参考默沙东诊疗手册专业版；与 05_health 分工：05 动作导向、14 判断导向）——**全 13 篇完成** | ✓ 01_body_systems、✓ 02_symptom_assessment、✓ 03_infectious_diseases、✓ 04_digestive_diseases、✓ 05_respiratory_diseases、✓ 06_cardiovascular_blood、✓ 07_skin_soft_tissue、✓ 08_musculoskeletal、✓ 09_neuro_mental、✓ 10_endocrine_metabolic、✓ 11_toxicology_envenom、✓ 12_care_system_rebuild（照护体系为领域收官综述）、✓ 13_sense_organs_ent（牙耳眼鼻急症，补完批） | — |
-| 15_history 人类历史（每篇落到"对重建者的启示"）——**全 10 篇完成** | ✓ 01_human_origins、✓ 02_agricultural_revolution、✓ 03_first_civilizations、✓ 04_bronze_iron_ages、✓ 05_classical_axial、✓ 06_medieval_world、✓ 07_science_revolution、✓ 08_industrial_revolution、✓ 09_modern_era、✓ 10_collapse_resilience（崩溃与复原规律为领域收官综述） | — |
+| 15_history 人类历史（每篇落到"对重建者的启示"）——12 篇（v2.3 战役 +2） | ✓ 01_human_origins、✓ 02_agricultural_revolution、✓ 03_first_civilizations、✓ 04_bronze_iron_ages、✓ 05_classical_axial、✓ 06_medieval_world、✓ 07_science_revolution、✓ 08_industrial_revolution、✓ 09_modern_era、✓ 10_collapse_resilience（崩溃与复原规律为领域收官综述）、✓ 11_cities_trade、✓ 12_technology_diffusion（CP-040 新增） | — |
 | 16_geography 全球地理（落到选址与资源决策）——**全 10 篇完成** | ✓ 01_earth_basics、✓ 02_climate_biomes、✓ 03_continents_archive、✓ 04_oceans_coasts、✓ 05_rivers_lakes、✓ 06_mountains_plains、✓ 07_resources_map、✓ 08_maps_cartography、✓ 09_region_survey（踏勘方法为领域收官）、✓ 10_extreme_weather_climate（极端天气与气候波动，补完批） | — |
 
 ## 技术树总览（阶段 × 关键节点）
@@ -102,6 +102,7 @@
 | 盐 | 从海水/咸水/岩盐获取盐 | ✓ 06_salt_acquisition.md |
 | 糖与油脂 | 压榨、熬炼、蜂糖与树液采集 | ✓ 07_sugar_fat_sources.md |
 | 信号 | 光声信号的远距约定（群体间通信/求援协议） | ✓ 06_comms/03_signal_systems.md |
+| 运输 | 车辆与轮（滚动原理、轮轴、车辆谱系、道路制动）；船舶与航海（浮力配载、船体谱系、桨橹帆、沿岸航行）——文明百科深化 CP-040 新增 | ✓ 07_tools/08_vehicles_wheels.md、✓ 07_tools/09_boats_sailing.md |
 
 ### 阶段 3 材料革命（数年～数十年）
 
@@ -128,6 +129,7 @@
 | 传动 | 齿轮、轴、凸轮 | ✓ 04_mechanical_basics.md、✓ 10_power_transmission.md |
 | 机床 | 脚踏车床、钻床 | ✓ 07_primitive_lathe.md |
 | 蒸汽 | 锅炉安全边界、往复原理 | ✓ 11_steam_engine_principles.md |
+| 内燃 | 内燃机原理、燃料谱系与木煤气路线、制造门槛与停步条件——文明百科深化 CP-040 新增 | ✓ 01_energy/14_internal_combustion.md |
 
 ### 阶段 5 信息与组织（贯穿后期）
 
@@ -141,6 +143,7 @@
 | 教育与传承 | 教学体系、知识与记录保存 | ✓ 05_education_system.md、✓ 06_library_records.md |
 | 制度 | 历法制定、度量衡统一、交换与货币、防御 | ✓ 07_calendar_basics.md、✓ 06_measure_standards.md、✓ 08_trade_money.md、✓ 09_governance_basics.md、✓ 05_specialization_basics.md、✓ 10_cooperation/10_defense_intergroup.md（防御与群体间关系） |
 | 电力 | 伏打电堆、电磁感应、电报 → 无线电 | ✓ 01_radio_basics.md、✓ 07_primitive_electricity.md、✓ 06_telegraph_basics.md |
+| 电力系统 | 发电机构造、铅酸储能、简单配电与输电——文明百科深化 CP-040 新增 | ✓ 01_energy/15_generator_power.md |
 | 医疗 | 助产、草药（证据边界）、流行病应对 | ✓ 05_midwifery_basics.md、✓ 06_herbal_medicine_boundaries.md、✓ 07_public_health_rebuild.md |
 | 科学 | 数理（计量/代数/几何/概率）、物理、化学、生命、科学方法（25 篇科学支撑层） | ✓ 05_geometry_basics.md、✓ 06_probability_statistics.md、✓ 25_scientific_method.md（属 11_science，支撑全库；全模块见上"科学支撑层"） |
 
