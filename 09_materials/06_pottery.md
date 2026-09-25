@@ -204,7 +204,7 @@
 
 1. 烧成温度：Maggetti 2011《Temperature evolution inside a pot during experimental firing》引 Gibson & Wood 1977 实测——明火堆烧火焰温度上限约 700～800 ℃（柴薪）；陶艺实操资料给出坑烧约 540 ℃（约 1000 ℉）起、管理好的坑火可近千度（Kate McCallum《Pit-firing pottery》，https://katemccallum.com/2022/06/23/pit-firing-pottery/ ；woodfireceramic.com 给出传统陶瓷整体 600～1300 ℃ 区间）。陶窑烧陶器（earthenware）典型约 900～1150 ℃（Hill Potters' Guild《Types of Firings》，https://hillpotters.square.site/types-of-firings）。正文"明火堆约 600～700 ℃ 可及、陶窑 900 ℃ 以上"成立。
 2. 石灰爆裂机理：Digitalfire 陶瓷技术库《Lime popping》（https://digitalfire.com/trouble/lime+popping）与 Rocky Mountain Clay《Lime pop in ceramics》——石灰石（CaCO₃）烧成氧化钙，出窑后吸收空气潮气消化为氢氧化钙体积膨胀，把釉面/器面顶出崩口，常在出窑数日后发生；颗粒越大越危险，预防靠细磨过筛剔除。正文机理与防法完全一致，成立。
-3. 熟料掺入比例：Lakeside Pottery、Pottery Crafters、Georgia Tech Ceramics 等陶艺教学口径——手工成型/雕塑用 15%～30%（大型件可至 30～40%，拉坯 0～5%）。正文"1/5～1/3（20%～33%）、炊煮罐取 1/3 上限"落在共识区间内，成立。
+3. 熟料掺入比例：Lakeside Pottery、Pottery Crafters、Georgia Tech Ceramics 等陶艺教学口径（2026-09-12 批次检索所得，未附原文 URL，本轮降级为待核验）——手工成型/雕塑用 15%～30%（大型件可至 30～40%，拉坯 0～5%）。正文"1/5～1/3（20%～33%）、炊煮罐取 1/3 上限"落在共识区间内，成立（数值本身仍属待核验）。
 4. 滤水缸锯末比例与流速：Potters Without Borders《Ceramic water filter clay and burnout proportions》（http://www.potterswithoutborders.com/category/process/clay-proportions/）——最佳配方为体积比锯末 45%、黏土 55%（Potters for Peace 系经典配方接近 1:1，见 Appropedia《Ceramic water filters》，https://www.appropedia.org/Ceramic_water_filters），合格流速 1～2 升/小时；WEDC《Current Practices in Manufacturing of Ceramic Pot Filters》2009（https://www.pseau.org/outils/ouvrages/wedc_current_practices_in_manufacturing_locally_made_ceramic_pot_filters_2009.pdf）给出可接受流速 1～5 升/小时。正文原"掺约 1/3 锯末、出水每分钟数滴"低于标准配方与流速一个量级，已最小修正为"1/3～1/2（标准近 1:1）"与"每小时 1～2 升"。
 
 **已核对（2026-09-18 批，本轮 WebFetch 实读）**：

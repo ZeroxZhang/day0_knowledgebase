@@ -1,6 +1,93 @@
 # 知识库进度
 
-当前轮次：**文明百科深化战役第四波收官（CP-043 完成，2026-09-19）**。全库正文 **189 篇**、5332 条库内相对链接零死链。CP-040～043 四轮共深化技术域 51 篇支柱篇至 ≥220 行且 ≥6500 字符档（对标 11_science），加上 CP-040 新增 15 篇，技术域深耕与文明级广度补齐完成主体；EXECUTION_GUIDE 为 v2.3。
+当前轮次：**文明百科深化战役收官波（CP-047，2026-09-25 启动）**。基线：189 篇正文、6155 条链接零死链（CP-046 收官口径，CP-044～046 改动未提交）。本轮为收官波：深化技术域最后 10 篇至 ≥220 行档 + 清理抽检 P2 余项 + 总收官（EXECUTION_GUIDE/对外 README/全库终验）。
+
+## CP-047 批次清单（最后 10 篇深化，每批 2 篇并行）
+
+- [ ] W1：01_energy/06_energy_estimation（155 行）+ 03_food/09_food_preservation（202 行）——能量账与保存
+- [ ] W2：04_shelter/03_cooling_ventilation（139 行）+ 06_comms/02_emergency_signaling（154 行）——降温与求援
+- [ ] W3：07_tools/02_hand_tools（124 行）+ 03_measurement_basics（141 行）——工具与测量
+- [ ] W4：07_tools/05_electrical_repair_basics（123 行，CP-045 安全复审过，红线保留）+ 09_materials/17_sewing_clothing（140 行）——电气维修与缝纫
+- [ ] W5：10_cooperation/02_resource_management（162 行）+ 03_decision_making（159 行）——资源与决策
+- [ ] 总收官：抽检 P2 余项清理（06_pottery 遗留批来源降级为待核验或补 URL、07_calendar 斗柄佐证补 URL、05_specialization 补"观天者/司历"角色一行、14_surgery 来源节标题统一"已核对"）+ EXECUTION_GUIDE 版本行更新（七波战役总账）+ 对外 README 数字 + 全库终验 + PROGRESS/CHECKPOINTS 收官
+
+执行纪律沿 CP-040～046：代理并发上限 2、代理只写自己的文章文件、簿记主 Agent 统一改；每批 CHECKPOINTS 后记；来源实读两段式；安全红线沿 EXECUTION_GUIDE 第 4 节；不主动 commit git。
+
+---
+
+## 上一轮：文明百科深化战役第七波收官（CP-046 完成，2026-09-25）
+
+## CP-046 批次清单（全部完成）
+
+**拓展线（12 篇深化）**：
+- [x] W1：01_energy/02_electrical_basics（154→297 行）+ 04_energy_storage（162→332 行）——电学概念与储能
+- [x] W2：01_energy/03_generation_methods（153→282 行）+ 09_windmill_basics（125→223 行，延伸节文本路径修复为链接）——发电方式与风车
+- [x] W3：02_water/03_water_contamination（179→325 行）+ 08_well_water_systems（166→245 行，**18 条安全红线 30/30 逐项确认在位**）——水质污染与打井
+- [x] W4：05_health/04_common_illness（166→266 行）+ 07_public_health_rebuild（121→222 行）——常见病与公共卫生
+- [x] W5：06_comms/01_radio_basics（157→294 行，CP-045 安全批注 1400 字节 cmp 逐字节保留）+ 06_telegraph_basics（120→235 行）——无线电与电报
+- [x] W6：09_materials/14_ceramics_glass（143→295 行，补齐从零路径节）+ 16_animal_fiber_spinning（150→229 行）——高温陶瓷与纺纱
+
+**审核线（质量抽检，6 篇跨战役样本）**：[x] 六篇体检全部通过（无 P0）；发现 P1 一条（01_fire_making 三处"镁棒打火器"分工指向 04_fire_safety 落空——已修正为本篇自查+保留防火分工）与 P2 八条（顺手修正两条：02_crop_basics 视角改标从零重建、18_chemicals 两处方括号占位清理；其余六条记录在案随下次触碰处理）。抽检亮点：surgery↔wound_care 双向分工、chemicals↔mineral_ore_id 红线互证、crop↔seed/water_fert 参数级对位。
+
+**收官验收**：189 篇、6155 条链接零死链、12 篇全部达标。
+
+**执行纪律沿 CP-040～045**：代理并发上限 2、代理只写自己的文章文件、簿记主 Agent 统一改；每批 CHECKPOINTS 后记；来源实读两段式；安全红线沿 EXECUTION_GUIDE 第 4 节；不主动 commit git。
+
+**下一轮接续点**：CP-047 收官波（剩余 10 篇：01_energy/06_energy_estimation、03_food/09_food_preservation、04_shelter/03_cooling_ventilation、06_comms/02_emergency_signaling、07_tools/02_hand_tools、03_measurement_basics、05_electrical_repair_basics、09_materials/17_sewing_clothing、10_cooperation/02_resource_management、03_decision_making）+ 抽检 P2 余项清理；各篇待核验项（来源节即工单，随用随核）；发布线同步需用户指令 commit（发布线 c057c72 不含 CP-044～046 改动）。
+
+---
+
+## 上一轮：文明百科深化战役第六波收官（CP-045 完成，2026-09-25）
+
+## CP-045 批次清单（全部完成）
+
+**拓展线（12 篇深化）**：
+- [x] W1：03_food/03_food_safety（132→292 行）+ 07_sugar_fat_sources（120→260 行）——食安与糖油
+- [x] W2：02_water/04_water_purification（174→270 行）+ 02_water_sources（183→391 行）——净水与水源
+- [x] W3：10_cooperation/10_defense_intergroup（193→376 行）+ 04_conflict_resolution（165→284 行）——防御与冲突（冲突篇写入完成但汇报中断，查盘核验后确认；修正"captcha 失败=未动"的误判——新增纪律：并发失败必须查盘核验完整性而非只看行数）
+- [x] W4：09_materials/01_wood（192→305 行）+ 02_metal_basics（158→236 行）——木材与金属
+- [x] W5：12_knowledge/06_library_records（140→254 行）+ 07_diagrams_records（175→289 行）——记录与图示
+- [x] W6：01_energy/07_primitive_electricity（122→240 行）+ 05_electrical_safety（152→278 行）——从零电力与用电安全
+
+**审核线（安全文章定点复审，不深化只复审）**：
+- [x] C：02_water/08_well_water_systems（18 条安全结论零回退，CCOHS 有限空间口径复验通过）+ 07_tools/05_electrical_repair_basics（修正 4 处：12 V 表述、电容残余电荷处置、带电弯折、应急接法收尾）+ 06_comms/01_radio_basics（修正 3 处：电池短路纪律、电力线停步、雷雨停步）——三篇均落"安全复审（2026-09-25）"批注
+
+**收官验收**：189 篇、5829 条链接零死链、12 篇全部达标。
+
+**CP-045 成果摘要**：拓展线升级已核对子项约 250 条（危险温区与肉毒 85 ℃/5 min、枫糖 25~57:1、慢砂滤生物层、罗马引水渠分层供水、安全困境与丹麦金、电偶电位序全表、伏打电堆 0.76 V、RCD 三死角等），修正/精化原文口径约 12 处（屋面材质口径反转、橡子含油纠错、危险温区统一 4 ℃、heap burning 分级等）；审核线证明"红线不回退"机制有效（打井篇零改动通过复审）。
+
+**执行纪律沿 CP-040～044**：代理并发上限 2、代理只写自己的文章文件、簿记主 Agent 统一改；每批 CHECKPOINTS 后记；来源实读两段式；安全红线沿 EXECUTION_GUIDE 第 4 节；不主动 commit git。基础设施失败 3 次（并发×1、captcha×2）均查盘后处理（1 次为"写入完成汇报中断"新类型）。
+
+**下一轮接续点**：六战役各篇待核验项（来源节即工单，随用随核）；安全复审可扩展至其余安全关键篇（食品储存/燃料/窑炉批次已随深化自带安全复审）；技术域剩余约 21 篇未深化（长期按"随用随核、按需立项"）；发布线同步需用户指令 commit（发布线 c057c72 不含 CP-044/045 改动）。
+
+---
+
+## 上一轮：文明百科深化战役第五波收官（CP-044 完成，2026-09-20）
+
+## CP-044 批次清单（全部完成）
+
+**拓展线（12 篇深化）**：
+- [x] W1：03_food/04_cooking_basics（139→305 行）+ 08_granary_basics（120→283 行）——做饭与粮仓
+- [x] W2：02_water/05_water_storage（142→291 行）+ 07_distillation_basics（124→220 行）——储水与蒸馏
+- [x] W3：04_shelter/02_thermal_insulation（126→288 行）+ 04_fire_safety（142→223 行）——保温与防火
+- [x] W4：05_health/06_herbal_medicine_boundaries（133→250 行）+ 08_production/08_dairy_processing（152→264 行）——草药与乳加工
+- [x] W5：09_materials/07_charcoal_kiln（122→223 行）+ 11_natural_dyes（122→229 行）——烧炭与染料
+- [x] W6：08_production/05_domestication_basics（120→245 行）+ 06_comms/03_signal_systems（125→221 行）——驯化与信号
+
+**审核线（科学 26/27/28/29/31/32 六篇核验收尾，全部升"已核对"）**：
+- [x] A：26（6/6 项）+ 27（7/7 项）+ 28（5/5 项）——修正 4 处：26 篇正弦定理边标定、河宽算例角度不自洽（36→47 步）、仰角误差表述；28 篇三元例来源归属
+- [x] B：29（6/6 项）+ 31（7/7 项）+ 32（5/5 项 + 四色定理表述修正结案）——修正 8 处实质错误：29 篇 pdf 指数漏负号、两组粗算判据漏 √2 因子（蒙特卡洛 3 万次实测误报率 16.3% 驱动的修正）；31 篇欧拉定理漏互素前提、gcd(480,720) 误算 120→240；32 篇四色定理构型数 1936→1834、完整证明改诚实表述
+- [x] 收官：全库验收（189 篇、5559 链接零死链、12 篇达标、科学六篇状态确认）
+
+**CP-044 成果摘要**：拓展线 12 篇全部 ≥220 行 ≥6500 字符，升级已核对子项约 250 条（沙普光学电报全账、FAO 烧炭三章、clo 保温体系全表、轰燃 7~10 秒逃生窗、Lind 1747 承接、Diamond 六要素与 Belyaev 银狐代际账等），修正/精化原文口径约 10 处（烧炭"不吸潮"证伪、堆烧周期分级、头部失热传言证伪等）；审核线用 Python 本库验算 + 实读 13+ 页面，核验 36 项全过、修正数学错误 12 处。基础设施失败 5 次（并发×2、captcha×3）均查盘无半成品后重派成功。
+
+**执行纪律沿 CP-040～043**：代理并发上限 2、代理只写自己的文章文件、簿记主 Agent 统一改；每批 CHECKPOINTS 后记；来源实读两段式；安全红线沿 EXECUTION_GUIDE 第 4 节；不主动 commit git。
+
+**下一轮接续点**：五战役各篇待核验项（来源节即工单，随用随核）；非科学域安全文章系统复审；技术域剩余约 30 篇未深化（长期按"随用随核、按需立项"）；发布线同步需用户指令 commit（发布线现为 c057c72 = 189 篇，但不含 CP-044 本轮改动）。
+
+---
+
+## 上一轮：文明百科深化战役第四波收官（CP-043 完成，2026-09-19）
 
 ## CP-043 批次清单（12 篇深化，全部完成）
 
