@@ -184,7 +184,7 @@
 - 脓肿波动感训练与切开四原则：[皮肤与软组织疾病](07_skin_soft_tissue.md)；全身反应与危重分级：[症状评估与病情判断](02_symptom_assessment.md)
 - 骨折识别三征、固定与复位原则层：[骨骼肌肉损伤](08_musculoskeletal.md)；动物咬伤与毒物伤判断：[中毒与咬蜇总论](11_toxicology_envenom.md)
 - 器械的材料链：[铁的冶炼与锻造](../09_materials/13_metallurgy_iron.md)、[石器打制与原始工具](../07_tools/01_stone_tools.md)；煮沸用水与净化：[饮用水净化方法](../02_water/04_water_purification.md)
-- 伤员恢复期的营养配给：[营养基础](../03_food/01_nutrition_basics.md)；体系组织与无医天花板：[无医条件下的医疗体系](12_care_system_rebuild.md)
+- 伤员恢复期的营养配给：[营养基础](../03_food/01_nutrition_basics.md)；愈合的生理分期与影响因素：[人体结构与生理基础](01_body_systems.md)第 15 节；疼痛与麻醉专项：[麻醉与疼痛管理](21_anesthesia_pain.md)（决策框架互为表里）；体系组织与无医天花板：[无医条件下的医疗体系](12_care_system_rebuild.md)
 
 ## 来源与待核验项
 

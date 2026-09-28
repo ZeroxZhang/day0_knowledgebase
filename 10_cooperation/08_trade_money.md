@@ -222,7 +222,7 @@
 
 - 先决依赖：[度量衡制度](06_measure_standards.md)（公秤公斗与母器——称量货币与实物本位账的基础设施）、[分工专业化](05_specialization_basics.md)（交换存在的前提）、[文字与书写](../12_knowledge/01_writing_basics.md)（契约与账簿的载体）、[铜的冶炼](../09_materials/12_metallurgy_copper.md)（铸币的金属与工艺）、[矿物与矿石识别](../13_field_guide/08_mineral_ore_id.md)（币材来源的识别链）。
 - 平行分工：[市场与价格机制](12_market_economy.md)——本篇管"用什么交换"（价值形式与货币演化），那篇管"市场怎么运转"（价格形成与协调失灵），两篇合起来才是完整的交换制度。
-- 后续应用：[治理基础](09_governance_basics.md)（市场与货币的监管者：裁断、利息上限、驱逐执行）、公共财政（市税→公共工程资金，铸币税→政权信用的资产与负债两面目）、[记录与保存](../12_knowledge/06_library_records.md)（契约档案）、[城市与贸易网络](../15_history/11_cities_trade.md)（跨区贸易与商路上的货币需求——铸币与汇票为远途而生）、[近现代](../15_history/09_modern_era.md)（法币与中央银行制度的来路）。
+- 后续应用：[治理基础](09_governance_basics.md)（市场与货币的监管者：裁断、利息上限、驱逐执行）、[货币制度与银行](../19_economy/03_money_banking.md)（本位、银行与挤兑的制度层）、[信用、利息与金融数学](../19_economy/04_credit_interest.md)（利率算术与信用工具）、公共财政（市税→公共工程资金，铸币税→政权信用的资产与负债两面目）、[记录与保存](../12_knowledge/06_library_records.md)（契约档案）、[城市与贸易网络](../15_history/11_cities_trade.md)（跨区贸易与商路上的货币需求——铸币与汇票为远途而生）、[近现代](../15_history/09_modern_era.md)（法币与中央银行制度的来路）。
 - 案例与佐证：[盐的获取](../03_food/06_salt_acquisition.md)（盐币两用的实物基础）、[信仰、仪式与意义系统](11_religion_meaning.md)（誓言与见证——票据信用的仪式层）、[小群体组织与分工](01_group_basics.md)（礼物互惠的运行底盘）。
 - 原理：供需与价格属于经济学，本库仅作常识级处理，理论深化列为进阶主题（价格机制本身见 [市场与价格机制](12_market_economy.md)）。
 

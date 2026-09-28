@@ -1,15 +1,39 @@
 # 知识库进度
 
-当前轮次：**文明百科深化战役收官波（CP-047，2026-09-25 启动）**。基线：189 篇正文、6155 条链接零死链（CP-046 收官口径，CP-044～046 改动未提交）。本轮为收官波：深化技术域最后 10 篇至 ≥220 行档 + 清理抽检 P2 余项 + 总收官（EXECUTION_GUIDE/对外 README/全库终验）。
+当前轮次：**现代科学与现代社会域拓展战役（CP-048）已于 2026-09-28 收官**，EXECUTION_GUIDE v2.5。基线 189 篇 → **收官 238 篇正文、9499 条链接零死链、约 348 万字符**。产出：17_computing 11 篇、18_psychology 10 篇、19_economy 12 篇（三域各含收官综述）、11_science 33～42 十篇、14_medicine 16～21 六篇 + 存量深化 9 篇（≥220 行档）；三域 README 与 17/18/19 域登记全部完成；对外 README/INDEX/SOURCE_OF_TRUTH/使用指南（书单十一条）同步；全库占位与批注清零。各篇"来源与待核验项"即后续随用随核的工单。以下为执行过程存档。
 
-## CP-047 批次清单（最后 10 篇深化，每批 2 篇并行）
+## CP-048 批次清单（实际执行 14 波，全部完成；每波 2 代理并行、各 1～3 篇；代理只写文章，登记/README/互链主会话统一做）
 
-- [ ] W1：01_energy/06_energy_estimation（155 行）+ 03_food/09_food_preservation（202 行）——能量账与保存
-- [ ] W2：04_shelter/03_cooling_ventilation（139 行）+ 06_comms/02_emergency_signaling（154 行）——降温与求援
-- [ ] W3：07_tools/02_hand_tools（124 行）+ 03_measurement_basics（141 行）——工具与测量
-- [ ] W4：07_tools/05_electrical_repair_basics（123 行，CP-045 安全复审过，红线保留）+ 09_materials/17_sewing_clothing（140 行）——电气维修与缝纫
-- [ ] W5：10_cooperation/02_resource_management（162 行）+ 03_decision_making（159 行）——资源与决策
-- [ ] 总收官：抽检 P2 余项清理（06_pottery 遗留批来源降级为待核验或补 URL、07_calendar 斗柄佐证补 URL、05_specialization 补"观天者/司历"角色一行、14_surgery 来源节标题统一"已核对"）+ EXECUTION_GUIDE 版本行更新（七波战役总账）+ 对外 README 数字 + 全库终验 + PROGRESS/CHECKPOINTS 收官
+- [x] W1：17_computing 01 计算简史、02 二进制、03 布尔逻辑与逻辑门（A）；04 机械计算机、05 开关器件谱系（B）
+- [x] W2：17_computing 06 数字电路、07 存储谱系（A）；08 算法与数据结构、09 软件与语言（B）
+- [x] W3：17_computing 10 信息论与编码、11 重建计算阶梯收官综述（单代理连写保证互链）；主会话建 17 README + roadmap 勾选 + 域内占位清零
+- [x] W4：18_psychology 04 学习记忆、05 情绪动机应激（A，captcha 失败查盘零产出后重派）；06 社会心理、07 发展教育（B）
+- [x] W5：18_psychology 08 心理障碍、09 创伤复原（A）；10 心理支持体系收官综述（B）（双 captcha 失败查盘零产出后重派成功）；主会话建 18 README + roadmap 勾选 + 域内占位清零
+- [x] W6：19_economy 01 稀缺选择、02 供需价格、03 货币银行（A）；04 信用利息、05 贸易优势（B）
+- [x] W7：19_economy 06 保险风险、07 财政公共品、08 企业簿记（A）；09 周期危机、10 增长发展（B）
+- [x] W8：19_economy 11 思想史、12 重建经济体收官综述（A，域 12/12 完成）；11_science 33 数理逻辑、34 微分方程（B）；主会话建 19 README + roadmap 勾选 + 域内占位清零 + 跨域互链 5 处
+- [x] W9（实际执行，对应计划 W10 前半）：11_science 35 数值方法、36 原子放射性（A）；37 固体半导体、38 相对论量子（B）；波内互链回填
+- [x] W10（实际执行，对应计划 W11+W12 前半）：11_science 39 化学键、40 电化学（A）；41 化学分析、42 生物化学（B）——**11_science 33～42 十篇全部完成**；11 README 增补现代科学深化清单；roadmap 33～42 全部改已写
+- [x] W11：14_medicine 16 营养缺乏、17 寄生虫病（A，B 组并发上限失败重派）；18 免疫疫苗、19 抗感染药物（B）
+- [x] W12：14_medicine 20 检验诊断、21 麻醉疼痛（A）；深化 11_toxicology（120→223）+ 12_care_system_rebuild（125→238）（B）；roadmap 医学行改"全 21 篇完成"
+- [x] W13：深化 01_body_systems（167→258）+ 10_endocrine（164→262）（A）；07_skin（181→267）+ 09_neuro_mental（188→259）（B）
+- [x] W14：深化 08_musculoskeletal（192→260）+ 06_cardiovascular（193→249）（B 组配额中断但文件完整落盘，程序化核验后采纳）；深化 05_respiratory（195→283）（A）——**深化线 9/9 完成**
+- [x] 总收官：收官互链补齐（14_surgery→01/21、12_care→05、17_computing/11 与 19_economy/07→12_care）+ 正文占位清零（9 处）+ 全库终验（238 篇、347.5 万字符、9499 条链接零死链、零占位、零批注）+ INDEX/00_使用指南（书单扩至十一条）/知识库 README/根 README/SOURCE_OF_TRUTH/roadmap 同步 + EXECUTION_GUIDE 收官记 + PROGRESS/CHECKPOINTS 总收官
+
+执行纪律沿 CP-040～047：代理并发上限 2、代理只写自己的文章文件、簿记主 Agent 统一改；每波 CHECKPOINTS 后记；来源实读两段式；安全红线沿 EXECUTION_GUIDE 第 4 节（医学零剂量、抗感染药物零自制路线、疫苗零操作、成瘾物质零获取方法）；新增篇 ≥200 行 ≥6000 字符、深化篇 ≥220 行 ≥6500 字符且原文一字不丢；不主动 commit git。
+
+---
+
+## 上一轮：文明百科深化战役收官波（CP-047 完成，2026-09-25，详 CHECKPOINTS CP-047 收官节）
+
+## CP-047 批次清单（全部完成）
+
+- [x] W1：01_energy/06_energy_estimation（155→277 行）+ 03_food/09_food_preservation（202→322 行）——能量账与保存
+- [x] W2：04_shelter/03_cooling_ventilation（139→295 行）+ 06_comms/02_emergency_signaling（154→293 行）——降温与求援
+- [x] W3：07_tools/02_hand_tools（124→230 行）+ 03_measurement_basics（141→289 行）——工具与测量
+- [x] W4：07_tools/05_electrical_repair_basics（123→274 行，CP-045 安全复审过，红线保留）+ 09_materials/17_sewing_clothing（140→240 行）——电气维修与缝纫
+- [x] W5：10_cooperation/02_resource_management（162→358 行）+ 03_decision_making（159→483 行）——资源与决策（另补派 07_tools/07_primitive_lathe 120→252 行）
+- [x] 总收官：抽检 P2 余项清理 + EXECUTION_GUIDE 升 v2.4 + 对外 README 数字 + 全库终验（189 篇、6422 条链接零死链）+ PROGRESS/CHECKPOINTS 收官
 
 执行纪律沿 CP-040～046：代理并发上限 2、代理只写自己的文章文件、簿记主 Agent 统一改；每批 CHECKPOINTS 后记；来源实读两段式；安全红线沿 EXECUTION_GUIDE 第 4 节；不主动 commit git。
 

@@ -54,11 +54,36 @@
 
 深化篇是理解和计算的路径，不要求原始条件直接制造现代仪器；数学可用算筹与沙盘重建，精密实验与高危工程另列依赖和停步条件。长期学科缺口与下一批顺序见 11_science/README.md，不另设执行规划。
 
+### 科学深化二批登记（2026-09-25，v2.5 现代科学与现代社会域拓展战役）
+
+v2.5 战役新增 11_science 33～42 十篇（现代数学语言 + 现代物理 + 现代化学），为 17_computing／14_medicine 新篇提供原理底座。既有 01～32 保留编号，新篇从 33 递增。
+
+| 新节点 | 前置依赖 | 状态与阶段 |
+| --- | --- | --- |
+| 11_science/33_logic_proofs.md：数理逻辑与证明 | 04 代数、32 集合论 | 已写，阶段 2～5，原理，待核验 |
+| 11_science/34_differential_equations.md：微分方程与建模 | 27 微积分、07 力学 | 已写，阶段 2～5，原理，待核验 |
+| 11_science/35_numerical_methods.md：数值方法与计算数学 | 27 微积分、30 进制 | 已写，阶段 2～5，原理，待核验 |
+| 11_science/36_atomic_radiation.md：原子结构与放射性 | 01 物质、12 电磁、13 化学基础 | 已写，阶段 2～5，原理，待核验 |
+| 11_science/37_solid_state_semiconductor.md：固体与半导体 | 13 化学基础、12 电磁 | 已写，阶段 2～5，原理，待核验 |
+| 11_science/38_relativity_quantum.md：相对论与量子概念 | 07 力学、11 光、12 电磁 | 已写，阶段 2～5，原理，待核验 |
+| 11_science/39_chemical_bonding.md：化学键与分子结构 | 01 物质、13 化学基础 | 待写，阶段 2～5，原理 |
+| 11_science/40_electrochemistry.md：电化学与电池 | 14 酸碱盐、12 电磁 | 待写，阶段 2～5，原理 |
+| 11_science/41_chemical_analysis.md：化学分析与检验 | 14 酸碱盐、03 计量 | 待写，阶段 2～5，原理 |
+| 11_science/42_biochemistry.md：生物化学与代谢 | 16 有机、17 生物基础 | 待写，阶段 2～5，原理 |
+
+## 现代域（v2.5：计算与信息 / 心理与行为 / 经济与金融，服务阶段 2～5 与全部背景层）
+
+| 域 | 规划篇目 | 状态 |
+| --- | --- | --- |
+| 17_computing 计算与信息（落点：从零重建"算与记"的能力阶梯）——**全 11 篇完成** | ✓ 01_computing_history、✓ 02_binary_information、✓ 03_logic_gates、✓ 04_mechanical_calculators、✓ 05_switching_devices、✓ 06_digital_circuits、✓ 07_memory_storage、✓ 08_algorithms_data、✓ 09_software_languages、✓ 10_information_coding、✓ 11_rebuild_computing（重建计算阶梯为领域收官综述） | — |
+| 18_psychology 心理与行为（落点：崩溃与重建环境下的心理照护与群体士气）——**全 10 篇完成** | ✓ 01_mind_methods、✓ 02_brain_nervous、✓ 03_sensation_perception、✓ 04_learning_memory、✓ 05_emotion_stress、✓ 06_social_psychology、✓ 07_development_education、✓ 08_mental_disorders、✓ 09_trauma_resilience、✓ 10_psych_support_system（心理支持体系为领域收官综述） | — |
+| 19_economy 经济与金融（落点：货币重启、市场秩序与制度最小集）——**全 12 篇完成** | ✓ 01_scarcity_choice、✓ 02_supply_demand、✓ 03_money_banking、✓ 04_credit_interest、✓ 05_trade_advantage、✓ 06_insurance_risk、✓ 07_fiscal_public、✓ 08_firms_accounting、✓ 09_cycles_crisis、✓ 10_growth_development、✓ 11_thought_history、✓ 12_rebuild_economy（重建经济体为领域收官综述） | — |
+
 ## 背景层（v2.1 扩展域：医学 / 历史 / 地理，服务全部阶段）
 
 | 域 | 已写 | 待写 |
 | --- | --- | --- |
-| 14_medicine 基础医学（参考默沙东诊疗手册专业版；与 05_health 分工：05 动作导向、14 判断导向）——**全 13 篇完成** | ✓ 01_body_systems、✓ 02_symptom_assessment、✓ 03_infectious_diseases、✓ 04_digestive_diseases、✓ 05_respiratory_diseases、✓ 06_cardiovascular_blood、✓ 07_skin_soft_tissue、✓ 08_musculoskeletal、✓ 09_neuro_mental、✓ 10_endocrine_metabolic、✓ 11_toxicology_envenom、✓ 12_care_system_rebuild（照护体系为领域收官综述）、✓ 13_sense_organs_ent（牙耳眼鼻急症，补完批） | — |
+| 14_medicine 基础医学（参考默沙东诊疗手册专业版；与 05_health 分工：05 动作导向、14 判断导向）——**全 21 篇完成** | ✓ 01_body_systems、✓ 02_symptom_assessment、✓ 03_infectious_diseases、✓ 04_digestive_diseases、✓ 05_respiratory_diseases、✓ 06_cardiovascular_blood、✓ 07_skin_soft_tissue、✓ 08_musculoskeletal、✓ 09_neuro_mental、✓ 10_endocrine_metabolic、✓ 11_toxicology_envenom（深化）、✓ 12_care_system_rebuild（照护体系为领域收官综述，深化）、✓ 13_sense_organs_ent（牙耳眼鼻急症，补完批）、✓ 14_surgery_basics、✓ 15_drug_history、✓ 16_nutrition_deficiency（营养缺乏病，CP-048 新增）、✓ 17_parasitic_diseases（寄生虫病，CP-048 新增）、✓ 18_immunity_vaccines（免疫与疫苗，CP-048 新增）、✓ 19_antimicrobials（抗感染药物，CP-048 新增）、✓ 20_lab_diagnostics（从零检验诊断，CP-048 新增）、✓ 21_anesthesia_pain（麻醉与疼痛管理，CP-048 新增） | — |
 | 15_history 人类历史（每篇落到"对重建者的启示"）——12 篇（v2.3 战役 +2） | ✓ 01_human_origins、✓ 02_agricultural_revolution、✓ 03_first_civilizations、✓ 04_bronze_iron_ages、✓ 05_classical_axial、✓ 06_medieval_world、✓ 07_science_revolution、✓ 08_industrial_revolution、✓ 09_modern_era、✓ 10_collapse_resilience（崩溃与复原规律为领域收官综述）、✓ 11_cities_trade、✓ 12_technology_diffusion（CP-040 新增） | — |
 | 16_geography 全球地理（落到选址与资源决策）——**全 10 篇完成** | ✓ 01_earth_basics、✓ 02_climate_biomes、✓ 03_continents_archive、✓ 04_oceans_coasts、✓ 05_rivers_lakes、✓ 06_mountains_plains、✓ 07_resources_map、✓ 08_maps_cartography、✓ 09_region_survey（踏勘方法为领域收官）、✓ 10_extreme_weather_climate（极端天气与气候波动，补完批） | — |
 
