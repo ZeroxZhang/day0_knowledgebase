@@ -717,3 +717,12 @@
 - 异常与纪律：全程 captcha/并发上限/配额类失败 5 次，均按"查盘核验完整性再重派/采纳"处理，无半成品损坏落盘；W14 的 08/06 两篇为配额中断前已完整写盘，程序化核验（七节/模板/原文保留/死链/红线）通过后采纳。安全红线执行：医学域全部零剂量零处方，抗感染药物篇含"自制青霉素不可行"三理由反驳，疫苗篇零操作停步条件，原子篇核材料红线声明在位。
 - 遗留缺口：各篇待核验项（来源节即工单，随用随核）；13_field_guide/15_history/16_geography 三域仍为 120 行基线档（本轮用户方向未覆盖，未深化）；发布线 c057c72 不含 CP-044～048 全部改动，同步需用户指令 commit。
 - 恢复动作：读 PROGRESS CP-048 收官节与本文最后一条；长期按"随用随核、按需立项"纪律维护；不提交 git（用户未要求）。
+
+## CP-049 | 2026-09-28 | 结构重组：一级结构改为六部两级 + 全库链接迁移（EXECUTION_GUIDE v3.0）
+
+- 完成：19 个域目录按六部归组——01_根基层（11_science、13_field_guide，52 篇）、02_生存域（01_energy～05_health，46 篇）、03_生产与技术（06_comms～09_materials，44 篇）、04_组织与文明（10_cooperation、12_knowledge，20 篇）、05_背景域（14_medicine～16_geography，43 篇）、06_现代域（17_computing～19_economy，33 篇），合计 238 篇正文不变；域目录名与域内编号保持不变（稳定 ID，历史断点记录与 roadmap 登记沿用），部为第一级导航，每部新建入口 README（部定位 / 域清单 / 阅读顺序 / 跨部关系）。
+- 链接迁移：迁移前基线 273 个 md / 9601 条相对链接零死链（新常驻工具 .claude/link_check.py，支持尖括号目标与目录链接）；git mv 后按"新旧位置重算相对路径"全库重写 4904 处（234 文件），迁移后终验 9601 条零死链。计数口径说明：CP-048 的 9499 与本轮 9601 差异来自计数口径（本轮含图片、LICENSE 与目录链接），两轮均为零死链。
+- 簿记：INDEX 增部级导航表；knowledge README 主题轴改为部表（逐域明细保留在 INDEX 与部 README）；使用指南（根基层/背景域补部路径、维护节增 link_check 纪律）；00_roadmap 增路径记法说明、根基层/科学支撑层/现代域/背景域四节标题标注部属、科学支撑层计数修正 32→42、背景层统一为背景域；EXECUTION_GUIDE 升 v3.0（版本行 + 主题轴部表 + 文件命名规则补"部→域→篇"三级 + 执行步骤与完整性口径挂 link_check + 15_history 计数修正 10→12）；AGENTS.md（六部主题轴 + 验收纪律）；根 README 与 SOURCE_OF_TRUTH 同步六部口径。
+- 工具：.claude/link_check.py 为常驻活工具（`python3 .claude/link_check.py`，退出码 0 = 零死链），每批完成后运行；.claude/safety_acceptance.py 与 finish_safety.py 仍为 CP-026～027 过程存档，路径断言钉在重组前布局，不作为现行验收。
+- 遗留缺口：GitHub 发布线（publish 远程，现停在重组前 238 篇扁平结构 f2a8537）未随六部结构重做，下次对外发布需重新 `git subtree split --prefix=knowledge` 推送；assets/ 两张海报数字仍为旧口径待重渲染；仓库根旧规划文件（BACKLOG/WORK_TEMPLATES/task_plan/findings/progress）仍为停用存档。
+- 恢复动作：读 EXECUTION_GUIDE v3.0 与本条；知识扩展先按 EXECUTION_GUIDE 第 2 节部表把主题归位到"部 → 域"，再走"登记 roadmap → 写文 → 核验"流程，每批完成跑 link_check.py；不提交 git（用户未要求）。
